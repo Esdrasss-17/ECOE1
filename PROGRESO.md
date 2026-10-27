@@ -8,7 +8,7 @@ La metodología está en `GUIA_METODOLOGICA.md`. Este registro se actualiza en c
 | 2 | RCTG | Completo | Nueve trazados sin título en la fuente se sustituyeron por cuatro esquemas generados con las definiciones del NICHD (`herramientas/esquemas_rctg.py`) |
 | 3 | Propedéutica obstétrica y control prenatal | Completo | 44 páginas. La conversión perdió páginas de la GPC; se recuperaron con OCR y con la cédula de recomendaciones clave. Las ilustraciones de Williams sin pie se identificaron por su contenido (actitud y Leopold) o se omitieron (variedades de posición) |
 | 4 | Cervicovaginitis | Completo | 17 páginas. La GRR de 2014 tiene varios esquemas superados; el cuerpo usa los CDC 2021 y la GPC de candidosis 2019, y las diferencias van al anexo A. Se añadió la cervicitis por gonococo, ausente en las fuentes |
-| 5 | Enfermedades hipertensivas del embarazo | Pendiente | |
+| 5 | Enfermedades hipertensivas del embarazo | En curso | Secciones 1 a 5 redactadas (conceptos, fisiopatología, clasificación, prevención y diagnóstico). Faltan tratamiento, conducta obstétrica, puerperio, anexos, referencias, PDF y auditoría. Figuras: dos de Countouris 2025 (figuras 1 y 2); los algoritmos de las GPC no se extrajeron como imagen |
 | 6 | Aborto | Pendiente | |
 | 7 | Hemorragia de la segunda mitad del embarazo | Pendiente | Fuente muy extensa (2 MB) |
 | 8 | Trabajo de parto | Pendiente | |
