@@ -79,7 +79,7 @@ Registro de la fase de verificación aplicada a `10. CÁNCER DE MAMA.md`, separa
 | `cm_exploracion_cuadrantes_externos_gpc.png` | d1, figura 15 | Usada |
 | Figura 16 de d1 | Es el mismo dibujo que la figura 14 con otro pie | Omitida; su contenido (brazo en ángulo recto para los cuadrantes internos) está en el texto |
 | Dibujo sin pie de los patrones de palpación (página 45 de d1) | Sin rótulo en la fuente | Omitido |
-| 26 imágenes de d2 y 25 de d1 | Recuadros de evidencia en imagen, sin figuras | Omitidas; su texto (recuperado por OCR) se usó como evidencia |
+| 25 imágenes de d2 y 27 de d1 | Recuadros de evidencia en imagen, sin figuras | Omitidas; su texto (recuperado por OCR) se usó como evidencia |
 
 ## 8. Diseño del PDF
 
