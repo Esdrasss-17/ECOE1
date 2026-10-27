@@ -315,3 +315,11 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 - **Imágenes que la estación muestra y no se pueden verificar** (el frotis de carcinoma epidermoide): se sustituyen por una tabla de rasgos y una respuesta modelo.
 - **Figuras con muchos paneles:** con 15 puntos y 10 pulgadas de ancho, la letra quedaba en unos 8,6 puntos al 82% del ancho de la página; con la clase `ancho` sube a unos 10,5.
 - **Navegación del PDF:** con `ENLACES=1` antes de `compilar_pdf.sh` se añaden índice, marcadores, enlaces a secciones y tablas, regreso de cada referencia a su primera cita y un botón "Índice" en cada página (`enlaces_html.py` y `boton_indice.py`). Un botón de "regresar al último sitio" no funciona en Vista Previa de Mac, que no ejecuta esas acciones; ahí se usa Cmd + [.
+
+### 20.2 Lecciones aprendidas en la guía ECOE de cervicovaginitis
+
+- **Fechas de la rúbrica:** se recalculan siempre. La FPP de la rúbrica (07/03/2024) sale de contar 280 días e incluye el 29 de febrero; la regla de Naegele da el 8 de marzo. La guía enseña a decir ambas.
+- **Temas añadidos a la rúbrica:** solo se añaden los que hacen falta para cumplir un criterio (datos de alarma, cálculo obstétrico) o para no dañar a la paciente (tratamientos vigentes en el embarazo). Se registran en la auditoría con su motivo.
+- **Tratamientos de la rúbrica sin respaldo en guías** (nitrofurazona): se transcriben como respuesta de la rúbrica y se dice expresamente que no figuran en las guías revisadas, sin inventar un esquema alternativo.
+- **Factores de riesgo de la rúbrica con evidencia débil:** se conservan en la tabla con una columna de respaldo, para que el alumno empiece por los sólidos.
+- **Secciones que repiten tablas:** se eliminan antes de compilar.
