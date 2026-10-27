@@ -29,7 +29,7 @@ ESCAMOSO = "#2b2b2b"
 ZT = "#b5485a"
 CILINDRICO = "#5b7fa6"
 plt.rcParams.update({
-    "font.family": "DejaVu Sans", "font.size": 12,
+    "font.family": "DejaVu Sans", "font.size": 15,
     "figure.facecolor": SURF, "axes.facecolor": SURF, "savefig.facecolor": SURF,
     "hatch.linewidth": 1.1,
 })
@@ -49,14 +49,14 @@ def espatula(ax):
                           (7.6, -0.25), (7.6, -0.6)], closed=True,
                          facecolor=ESPATULA, edgecolor=ESPATULA_BORDE, linewidth=1))
     ax.annotate("Extremo semicónico\n(endocérvix)", xy=(-7.6, 0.05), xytext=(-7.6, 1.45),
-                ha="center", va="bottom", fontsize=12, color=INK,
+                ha="center", va="bottom", fontsize=15, color=INK,
                 arrowprops=dict(arrowstyle="-", color=INK2, linewidth=0.9))
     ax.annotate("Extremo bifurcado\n(exocérvix)", xy=(7.6, 0.2), xytext=(7.6, 1.45),
-                ha="center", va="bottom", fontsize=12, color=INK,
+                ha="center", va="bottom", fontsize=15, color=INK,
                 arrowprops=dict(arrowstyle="-", color=INK2, linewidth=0.9))
     ax.annotate("", xy=(-8.3, -1.0), xytext=(8.6, -1.0),
                 arrowprops=dict(arrowstyle="<->", color=INK2, linewidth=1))
-    ax.text(0.15, -1.2, "17,5 cm", ha="center", va="top", fontsize=12, color=INK)
+    ax.text(0.15, -1.2, "17,5 cm", ha="center", va="top", fontsize=15, color=INK)
     ax.set_xlim(-10, 10)
     ax.set_ylim(-2.2, 3.0)
     ax.set_aspect("equal")
@@ -88,12 +88,12 @@ def toma(ax, tipo):
         ax.plot([0, 1.0], [0, 0.0], color=ESPATULA_BORDE, linewidth=5, solid_capstyle="round")
         ax.plot([0.55, 1.0], [-0.22, -0.22], color=ESPATULA_BORDE, linewidth=5, solid_capstyle="round")
         giro(ax, "derecha")
-        ax.set_title("Toma exocervical\ngiro de 360° a la derecha", fontsize=12, color=INK)
+        ax.set_title("Toma exocervical\ngiro de 360° a la derecha", fontsize=15, color=INK)
     else:
         ax.add_patch(Polygon([(-0.14, -0.1), (0.14, -0.1), (0, 0.12)], closed=True,
                              facecolor=ESPATULA_BORDE, edgecolor=ESPATULA_BORDE))
         giro(ax, "izquierda")
-        ax.set_title("Toma endocervical\ngiro de 360° a la izquierda", fontsize=12, color=INK)
+        ax.set_title("Toma endocervical\ngiro de 360° a la izquierda", fontsize=15, color=INK)
     ax.set_xlim(-1.9, 1.9)
     ax.set_ylim(-1.9, 1.9)
     ax.set_aspect("equal")
@@ -101,11 +101,11 @@ def toma(ax, tipo):
 
 
 def esquema_espatula():
-    fig = plt.figure(figsize=(8.0, 5.6))
-    ax0 = fig.add_axes([0.02, 0.56, 0.96, 0.42])
+    fig = plt.figure(figsize=(8.0, 5.0))
+    ax0 = fig.add_axes([0.02, 0.55, 0.96, 0.45])
     espatula(ax0)
-    ax1 = fig.add_axes([0.08, 0.02, 0.38, 0.5])
-    ax2 = fig.add_axes([0.54, 0.02, 0.38, 0.5])
+    ax1 = fig.add_axes([0.06, 0.0, 0.42, 0.45])
+    ax2 = fig.add_axes([0.52, 0.0, 0.42, 0.45])
     toma(ax1, "exo")
     toma(ax2, "endo")
     fig.savefig(os.path.join(OUT, "cc_esquema_espatula_ayre.png"), dpi=200, bbox_inches="tight", pad_inches=0.12)
@@ -169,7 +169,7 @@ def panel(ax, titulo, tramos):
     p, d = trayecto()
     for espejo in (False, True):
         labio(ax, p, d, tramos, espejo)
-    ax.set_title(titulo, fontsize=12.5, color=INK, pad=6)
+    ax.set_title(titulo, fontsize=15.5, color=INK, pad=6)
     ax.set_xlim(-16, 16)
     ax.set_ylim(-3, 31)
     ax.set_aspect("equal")
@@ -199,9 +199,9 @@ def esquema_zona():
     items = [("Escamoso maduro", dict(facecolor=ESCAMOSO, edgecolor=ESCAMOSO)),
              ("Zona de transformación", dict(facecolor="white", edgecolor=ZT, hatch="////")),
              ("Endocervical original", dict(facecolor="white", edgecolor=CILINDRICO, hatch=".."))]
-    for x, (texto, estilo) in zip((4, 34, 70), items):
+    for x, (texto, estilo) in zip((2, 32, 68), items):
         leyenda.add_patch(Polygon([(x, 3), (x + 4, 3), (x + 4, 7), (x, 7)], closed=True, linewidth=0.8, **estilo))
-        leyenda.text(x + 5.2, 5, texto, va="center", fontsize=12, color=INK)
+        leyenda.text(x + 5.2, 5, texto, va="center", fontsize=15, color=INK)
     fig.savefig(os.path.join(OUT, "cc_esquema_zona_transformacion.png"), dpi=200, bbox_inches="tight", pad_inches=0.12)
     plt.close(fig)
 

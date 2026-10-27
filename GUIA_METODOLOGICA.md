@@ -251,3 +251,10 @@ Son errores que deben vigilarse en todos los temas.
 - **Figuras altas:** con la altura máxima de 88 mm, una figura vertical con muchos paneles queda ilegible; se divide en láminas por filas, cada una con su pie.
 - **Normas obligatorias frente a guías:** cuando la NOM y la GPC difieren (partograma, frecuencia de los tactos y de los signos vitales), el cuerpo presenta ambas y aclara que la NOM es de cumplimiento obligatorio.
 
+## 17. Lecciones aprendidas en Cáncer cervicouterino
+
+- **Figuras perdidas que el texto describe:** si la fuente explica una figura perdida con detalle (paneles, convención de colores o tramas), se genera el esquema con esa misma convención y el pie dice que sustituye a la figura de la fuente y que no reproduce un caso real.
+- **Clasificaciones superadas que organizan el tratamiento:** cuando una guía trata por etapas de una clasificación anterior (FIGO 2009), el cuerpo describe la clasificación vigente, explica la equivalencia entre ambas y conserva el tratamiento con las etapas de la guía; la tabla antigua pasa al anexo C.
+- **Cifras de ensayos citados:** se comprueba el orden de las comparaciones contra el ensayo original (la GPC invertía los resultados de Peters) y la interpretación de los indicadores de exactitud (una especificidad presentada como valor predictivo negativo).
+- **Estimados incoherentes:** si un riesgo relativo no cabe en su intervalo, se informan solo las proporciones absolutas y se registra el error en la auditoría.
+- **Letra de los esquemas anchos:** un esquema de cuatro paneles en fila se reduce al 82% del ancho de la página; con 12 puntos quedaba por debajo de 7 en el PDF, de modo que se usan 15 puntos.
