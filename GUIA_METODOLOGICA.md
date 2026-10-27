@@ -224,3 +224,11 @@ Son errores que deben vigilarse en todos los temas.
 - **Contradicciones entre la tabla de evidencias y la cédula de una misma GPC:** se elige la cifra coherente con el resto de la conducta y se registra la contradicción en la auditoría.
 - **Fichas del cuadro básico:** son generales y pueden contradecir el uso obstétrico (dilución del sulfato de magnesio, contraindicaciones); se transcriben en el anexo con una nota de lectura y el cuerpo sigue el esquema obstétrico.
 - **Mecanismos y justificaciones propias:** al redactar es fácil añadir explicaciones fisiológicas o farmacológicas ciertas pero ausentes en las fuentes (mecanismo del ácido acetilsalicílico, distensión de la cápsula de Glisson). Antes de compilar se relee cada "porque" y se retira el que no esté respaldado por una fuente citada.
+
+## 14. Lecciones aprendidas en Aborto
+
+- **Tablas muy anchas:** una tabla de 12 columnas hizo que el navegador redujera toda la página (el PDF bajó de 55 a 29 páginas con letra pequeña). Si el número de páginas o el tamaño de letra cambian sin motivo, se busca la tabla más ancha y se reorganiza (por ejemplo, filas por categoría y una columna con la lista de elementos).
+- **Listas de contraindicaciones institucionales:** pueden mezclar contraindicaciones verdaderas, precauciones y condiciones distintas en una misma frase ("trastorno hemorrágico (porfiria hereditaria)"). Se cotejan con la ficha técnica del fármaco y con una guía especializada, y se presenta la clasificación verificada junto a la de la fuente.
+- **Apuntes del usuario anotados:** los subrayados y resaltados tapan texto y producen imágenes que solo contienen líneas; esas imágenes se descartan y el texto oculto no se completa.
+- **Contenido legal:** cambia más rápido que el clínico. Se buscan las resoluciones judiciales y reformas posteriores a la norma de la fuente; si las cifras publicadas difieren (número de entidades), se cita la fuente más completa, se registra la diferencia en la auditoría y se indica consultar la ley vigente.
+- **Listas numeradas:** el margen izquierdo de `estilo.css` cortaba la primera cifra de las referencias 10 en adelante; se amplió. Los temas compilados antes del cambio deben recompilarse.
