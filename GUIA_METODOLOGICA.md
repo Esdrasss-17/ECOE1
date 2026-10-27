@@ -232,3 +232,14 @@ Son errores que deben vigilarse en todos los temas.
 - **Apuntes del usuario anotados:** los subrayados y resaltados tapan texto y producen imágenes que solo contienen líneas; esas imágenes se descartan y el texto oculto no se completa.
 - **Contenido legal:** cambia más rápido que el clínico. Se buscan las resoluciones judiciales y reformas posteriores a la norma de la fuente; si las cifras publicadas difieren (número de entidades), se cita la fuente más completa, se registra la diferencia en la auditoría y se indica consultar la ley vigente.
 - **Listas numeradas:** el margen izquierdo de `estilo.css` cortaba la primera cifra de las referencias 10 en adelante; se amplió. Los temas compilados antes del cambio deben recompilarse.
+
+## 15. Lecciones aprendidas en Hemorragia de la segunda mitad del embarazo
+
+- **Temas con varias guías:** cuando un tema reúne guías de distintos años, se fija primero cuál es la más reciente en cada punto (el ácido tranexámico pasó de "sin recomendación" en 2017 a recomendado en 2021) y se busca si alguna guía internacional posterior cambió la conducta (la OMS 2023 en la medición de la pérdida).
+- **Tablas de la evidencia a la recomendación (GRADE):** conservan el tipo de recomendación, pero no su texto. Si se pierden las páginas de recomendaciones, el texto se recupera de la cédula de verificación y no se reconstruye a partir del tipo.
+- **Cifras de subgrupos o de poblaciones especiales:** un efecto llamativo puede proceder de un subgrupo (la albúmina del estudio SAFE en la sepsis grave) o de una población seleccionada (el riesgo de acretismo por número de cesáreas en mujeres con placenta previa). Se coteja con el estudio original antes de usarlo y se precisa la población.
+- **Unidades y diluciones:** se recalculan las diluciones y los ritmos de infusión, y se revisan las unidades de tiempo y de calibre ("mL/kg/minuto" por "por hora", "mUI/mL" por "mUI/min", "14 fr" por "14 G").
+- **Ediciones de tablas clásicas:** la tabla numérica del choque del ATLS corresponde a la 9.ª edición; la 10.ª la sustituyó por tendencias. Se cita la edición de la que procede la tabla reproducida.
+- **Esquemas generados:** la letra debe tener al menos 10 puntos en la figura, porque al ajustarse al ancho de la página se reduce casi a la mitad; se revisa cada esquema en la página compilada.
+- **Remisiones a figuras:** la compilación no numera las figuras, de modo que no se escriben remisiones del tipo "(figura 1)". `herramientas/verificar_tema.py` ahora detecta estas remisiones y las que apuntan a tablas o secciones inexistentes, también en plural.
+

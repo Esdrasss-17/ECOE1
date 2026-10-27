@@ -32,7 +32,13 @@ print('Flechas (líneas):', flechas or 'ninguna')
 
 secciones = set(re.findall(r'^#{2,3} (\d+(?:\.\d+)?)', s, re.M))
 citadas = set(re.findall(r'secci[oó]n (\d+(?:\.\d+)?)', cuerpo))
+for grupo in re.findall(r'secciones ((?:\d+(?:\.\d+)?(?:, | y | a )?)+)', cuerpo):
+    citadas |= set(re.findall(r'\d+(?:\.\d+)?', grupo))
 print('Remisiones a secciones inexistentes:', sorted(citadas - secciones) or 'ninguna')
 tablas = re.findall(r'\*\*Tabla (\d+)\.', s)
 print('Tablas numeradas:', tablas)
+remitidas = set(re.findall(r'\btablas? (\d+)', s))
+print('Remisiones a tablas inexistentes:', sorted(remitidas - set(tablas), key=int) or 'ninguna')
+figuras = sorted(set(re.findall(r'\(figura \d+', s, re.I)))
+print('Remisiones a figuras numeradas (la compilación no numera figuras):', figuras or 'ninguna')
 print('Palabras del cuerpo:', len(re.sub(r'\[\^[^\]]+\]', '', cuerpo).split()))

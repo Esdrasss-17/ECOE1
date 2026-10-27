@@ -57,8 +57,8 @@ def utero(ax):
                            facecolor=PARED, edgecolor=PARED_BORDE, linewidth=0.8))
     ax.plot([0, 0], [y0 - CERVIX_LARGO, -B], color=PARED_BORDE, linewidth=1.4)
     ax.plot(0, -B, marker="o", markersize=4, color=INK)
-    ax.text(-CERVIX_ANCHO / 2 - 2, -B - 9, "OCI", ha="right", va="center", fontsize=8, color=INK)
-    ax.text(0, y0 - CERVIX_LARGO - 3, "Cuello uterino", ha="center", va="top", fontsize=7.5, color=INK2)
+    ax.text(-CERVIX_ANCHO / 2 - 2, -B - 9, "OCI", ha="right", va="center", fontsize=10, color=INK)
+    ax.text(0, y0 - CERVIX_LARGO - 3, "Cuello uterino", ha="center", va="top", fontsize=9.5, color=INK2)
 
 
 def placenta(ax, t_inferior, t_superior):
@@ -69,16 +69,16 @@ def placenta(ax, t_inferior, t_superior):
 def cota(ax, punto, texto):
     ax.plot([punto[0], 0], [punto[1], -B], color=INK, linewidth=0.9, linestyle=(0, (3, 2)))
     medio = (punto[0] / 2, (punto[1] - B) / 2)
-    ax.text(medio[0] - 3, medio[1] + 5, texto, ha="right", va="bottom", fontsize=8.5,
+    ax.text(medio[0] - 3, medio[1] + 5, texto, ha="right", va="bottom", fontsize=11,
             color=INK, fontweight="bold")
 
 
 def esquema_previa():
-    fig, ejes = plt.subplots(1, 3, figsize=(7.4, 3.6))
+    fig, ejes = plt.subplots(1, 3, figsize=(7.4, 3.9))
     casos = [
-        ("Inserción normal", "Borde a 20 mm o más del OCI", np.deg2rad(-35), np.deg2rad(70), "≥ 20 mm"),
-        ("Inserción baja", "Borde a menos de 20 mm, sin cubrir el OCI", np.deg2rad(-78), np.deg2rad(40), "< 20 mm"),
-        ("Placenta previa", "El tejido placentario cubre el OCI", np.deg2rad(-130), np.deg2rad(10), None),
+        ("Inserción normal", "Borde a 20 mm\no más del OCI", np.deg2rad(-35), np.deg2rad(70), "≥ 20 mm"),
+        ("Inserción baja", "Borde a menos de 20 mm,\nsin cubrir el OCI", np.deg2rad(-78), np.deg2rad(40), "< 20 mm"),
+        ("Placenta previa", "El tejido placentario\ncubre el OCI", np.deg2rad(-130), np.deg2rad(10), None),
     ]
     for ax, (titulo, sub, t_inf, t_sup, etiqueta) in zip(ejes, casos):
         utero(ax)
@@ -86,13 +86,14 @@ def esquema_previa():
         if etiqueta:
             borde = contorno(np.array([t_inf]), A - 7, B - 7)[0]
             cota(ax, borde, etiqueta)
-        ax.set_title(titulo, fontsize=9.5, fontweight="bold", color=INK, pad=4)
-        ax.text(0, B + GROSOR + 8, sub, ha="center", va="bottom", fontsize=7.4, color=INK2, wrap=True)
+        ax.set_title(titulo, fontsize=12.5, fontweight="bold", color=INK, pad=4)
+        ax.text(0, B + GROSOR + 6, sub, ha="center", va="bottom", fontsize=10, color=INK2,
+                linespacing=1.15)
         ax.set_xlim(-A - GROSOR - 6, A + GROSOR + 6)
-        ax.set_ylim(-B - GROSOR - CERVIX_LARGO - 12, B + GROSOR + 22)
+        ax.set_ylim(-B - GROSOR - CERVIX_LARGO - 14, B + GROSOR + 34)
         ax.set_aspect("equal")
         ax.axis("off")
-    fig.tight_layout(w_pad=0.6)
+    fig.subplots_adjust(left=0.01, right=0.99, top=0.91, bottom=0.01, wspace=0.05)
     fig.savefig(os.path.join(OUT, "pl_esquema_previa.png"), dpi=220)
     plt.close(fig)
 
@@ -106,12 +107,12 @@ def vellosidad(ax, x, base, fondo, ancho=3.2):
 def esquema_acretismo():
     # Capas de arriba hacia abajo: placenta, decidua basal, miometrio, serosa, vejiga.
     y_placenta, y_decidua, y_miometrio, y_serosa, y_vejiga = 100, 88, 82, 40, 37
-    fig, ejes = plt.subplots(1, 4, figsize=(7.4, 3.5))
+    fig, ejes = plt.subplots(1, 4, figsize=(7.4, 3.7))
     casos = [
-        ("Inserción normal", "Vellosidades ancladas\nen la decidua", True, y_decidua - 3, False),
-        ("Acreta", "Adheridas al miometrio,\nsin penetrarlo", False, y_miometrio, False),
+        ("Inserción normal", "Ancladas en\nla decidua", True, y_decidua - 3, False),
+        ("Acreta", "Adheridas al\nmiometrio, sin\npenetrarlo", False, y_miometrio, False),
         ("Increta", "Invaden el\nmiometrio", False, 56, False),
-        ("Percreta", "Atraviesan la serosa\nhasta órganos vecinos", False, 26, True),
+        ("Percreta", "Atraviesan la\nserosa hasta\nórganos vecinos", False, 26, True),
     ]
     for ax, (titulo, sub, con_decidua, fondo, vejiga) in zip(ejes, casos):
         ax.add_patch(Rectangle((0, y_vejiga - 22), 40, 22, facecolor=VEJIGA, edgecolor="#8aa9c2", linewidth=0.6))
@@ -128,16 +129,16 @@ def esquema_acretismo():
                                edgecolor="#7d2a3a", linewidth=0.6, alpha=0.92))
         for x in (8, 20, 32):
             vellosidad(ax, x, techo + 7, fondo)
-        ax.set_title(titulo, fontsize=9.5, fontweight="bold", color=INK, pad=4)
-        ax.text(20, y_placenta + 3, sub, ha="center", va="bottom", fontsize=7.2, color=INK2,
+        ax.set_title(titulo, fontsize=12.5, fontweight="bold", color=INK, pad=4)
+        ax.text(20, y_placenta + 3, sub, ha="center", va="bottom", fontsize=9.6, color=INK2,
                 linespacing=1.15)
         ax.set_xlim(-1, 41)
-        ax.set_ylim(y_vejiga - 24, y_placenta + 17)
+        ax.set_ylim(y_vejiga - 24, y_placenta + 24)
         ax.axis("off")
     rotulos = [("Placenta", 94), ("Decidua basal", 85), ("Miometrio", 61), ("Serosa", 38.5), ("Vejiga", 25)]
     for texto, y in rotulos:
-        ejes[0].text(-2, y, texto, ha="right", va="center", fontsize=7.4, color=INK2)
-    fig.subplots_adjust(left=0.13, right=0.99, top=0.9, bottom=0.03, wspace=0.12)
+        ejes[0].text(-2, y, texto, ha="right", va="center", fontsize=9.6, color=INK2)
+    fig.subplots_adjust(left=0.16, right=0.99, top=0.9, bottom=0.03, wspace=0.12)
     fig.savefig(os.path.join(OUT, "pl_esquema_acretismo.png"), dpi=220)
     plt.close(fig)
 
