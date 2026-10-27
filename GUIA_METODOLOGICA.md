@@ -132,6 +132,7 @@ Se usan los módulos pertinentes, en el orden clínico más útil, y nunca para 
   - No se usan imágenes sin pie descriptivo ni duplicados.
   - No se añaden flechas ni marcas.
   - Las láminas compuestas con texto incrustado ilegible se recortan en fotografías individuales sin alterar su contenido, y su texto pasa al pie.
+- **Sustitución de imágenes sin descripción:** se buscan primero imágenes descritas en las demás fuentes del usuario. Si no las hay y el concepto se define por umbrales objetivos (por ejemplo, los patrones del RCTG), se genera un esquema con un script en `herramientas/`, construido solo con los valores de la definición citada. El pie dice que el esquema no reproduce un caso real, y la auditoría registra los parámetros usados.
 - **Atlas:** los conjuntos extensos de fotografías van a un anexo de atlas en dos columnas, con remisiones desde el texto.
 - **Tablas:** cada tabla lleva un título en negrita del tipo **"Tabla N. …"** que incluye sus referencias. Las celdas son breves, sin explicaciones fisiopatológicas extensas.
 - **Algoritmos:**
@@ -198,3 +199,10 @@ Son errores que deben vigilarse en todos los temas.
 - **Recomendaciones históricas presentadas como conducta principal:** se corrigen con la estructura del anexo de esquemas históricos.
 - **Listas de fármacos autorizados:** se desactualizan pronto y deben verificarse.
 - **Situaciones de emergencia descritas sin contexto asistencial:** deben indicar el lugar de atención, la monitorización, el ritmo de tratamiento y la evaluación del daño agudo.
+
+## 11. Lecciones aprendidas en RCTG
+
+- **Reemplazos en bloque del archivo .md:** un recorte entre dos anclas eliminó dos secciones completas. Después de cada sustitución automática se comprueba la lista de encabezados (`grep -n "^#"`) antes de compilar.
+- **Viñetas anidadas:** reaparecen al redactar listas de criterios. Antes de compilar se buscan con `grep -n -E "^  +[-*] "` y se convierten en un párrafo con encabezado en negrita seguido de un único nivel.
+- **Boletines sustituidos:** se comprueba si el documento normativo de la fuente tiene una versión posterior (ACOG 2009 y 2010, sustituidos por la guía de 2025) y los cambios pasan al cuerpo y al anexo de discrepancias.
+- **Advertencias regulatorias:** se citan con su alcance exacto. Por ejemplo, la advertencia de la FDA sobre la terbutalina se refiere al uso prolongado, no al uso hospitalario urgente.

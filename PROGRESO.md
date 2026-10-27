@@ -5,7 +5,7 @@ La metodología está en `GUIA_METODOLOGICA.md`. Este registro se actualiza en c
 | # | Tema | Estado | Notas |
 |---|---|---|---|
 | 1 | Retinopatías | Completo | Documento de referencia. Las fotos ETDRS 2B y 3, sin descripción en la fuente, se sustituyeron por retinografías descritas en AMF 2018 |
-| 2 | RCTG | Pendiente | |
+| 2 | RCTG | Completo | Nueve trazados sin título en la fuente se sustituyeron por cuatro esquemas generados con las definiciones del NICHD (`herramientas/esquemas_rctg.py`) |
 | 3 | Propedéutica obstétrica y control prenatal | Pendiente | |
 | 4 | Cervicovaginitis | Pendiente | |
 | 5 | Enfermedades hipertensivas del embarazo | Pendiente | |
