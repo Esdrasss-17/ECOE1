@@ -274,3 +274,43 @@ Son errores que deben vigilarse en todos los temas.
 - **Límite de búsquedas:** lo que no se pudo verificar en línea se registra expresamente en la auditoría como no comprobado.
 - **Figuras divididas en fragmentos que no encajan:** si la alineación no es segura, la figura se transcribe en el texto en lugar de componerla.
 - **Ramas de otros autores en la misma rama de trabajo:** antes de subir, si el envío se rechaza, se revisan los commits remotos y se integran con un merge cuando no tocan los mismos archivos.
+
+## 20. Guías prácticas para la ECOE
+
+Las guías ECOE son un segundo entregable por tema, distinto del documento clínico. Preparan una estación de consulta de primer o segundo nivel, de pregrado, que parte de un caso clínico. Se estudian en dos días, de modo que se organizan para la eficiencia sin perder exhaustividad. Siguen vigentes todas las reglas de redacción de la sección 4: oraciones completas, sin flechas, sin viñetas anidadas, sin metacomentarios y con referencias en notas al pie.
+
+**Fuentes y prioridad.**
+
+- **La rúbrica decide qué se califica.** Está en `RUBRICAS/RUBRICAS_ECOE_VI.pdf` e incluye las prácticas 1, 4, 8, 9 y 11 y la de RCP intrahospitalaria. Se cita como fuente (`rub`).
+- **El documento clínico del tema y sus fuentes aportan el contenido.** Lo que la rúbrica pide y las fuentes no contienen se verifica externamente.
+- **Lo que no se usa como referencia:** las guías ECOE elaboradas en otras sesiones.
+- **Qué se desarrolla y qué no:** se desarrolla por completo lo que la rúbrica califica y lo que decide la conducta en primer y segundo nivel (diagnóstico, escalas y clasificaciones, estudios, tratamiento y referencia). Lo especializado se nombra en una frase en la sección de segundo plano.
+
+**Estructura.**
+
+1. La estación y su rúbrica: tabla con cada criterio, la respuesta esperada y la sección que lo resuelve; reglas de acreditación y criterios eliminatorios, con su consecuencia aritmética.
+2. Secuencia de la consulta en el orden de la rúbrica.
+3. Interrogatorio y exploración, con tablas de "qué se pregunta" y "para qué sirve".
+4. Conceptos que se preguntan de forma directa, cada uno con la frase de respuesta.
+5. Clasificaciones completas, recitables en el orden en que se dicen.
+6. Estudios, tratamiento, prevención y referencia, con la utilidad de cada estudio.
+7. Casos para ensayar en voz alta y preguntas directas con respuesta modelo.
+8. Tabla de respuestas de la rúbrica que conviene precisar: la respuesta que califica la rúbrica, su precisión vigente y cómo decir ambas en una frase.
+9. Contenido de segundo plano y plan de estudio de dos días.
+
+**Archivos.** Los archivos van en `N. TEMA/ECOE/`: la guía (`GUIA_ECOE_<TEMA>.md`), su PDF, `AUDITORIA_ECOE.md` y `assets/` para las figuras nuevas. Las figuras del tema se reutilizan con rutas `../assets/`.
+
+**Herramientas.**
+
+- Se compila con `herramientas/compilar_pdf.sh "N. TEMA/ECOE" "<pie>" GUIA_ECOE_<TEMA>`.
+- Se verifica con `python3 herramientas/verificar_tema.py "N. TEMA/ECOE" GUIA_ECOE_<TEMA>.md`.
+- Una figura ancha se marca con `{.ancho}` después de la imagen para que ocupe todo el ancho de la página.
+
+### 20.1 Lecciones aprendidas en la guía ECOE de cáncer cervicouterino
+
+- **Criterios eliminatorios:** se calcula su peso. En la práctica 9, no saber Bethesda deja como máximo 9 de los 11 puntos necesarios, por lo que la guía le da prioridad en el plan de estudio.
+- **Respuestas de la rúbrica superadas:** no se corrigen en silencio. La rúbrica pedía la vacuna bivalente o tetravalente en dos o tres dosis, y el tratamiento quirúrgico de una "IB2" que solo es quirúrgica con la FIGO 2018. Se enseña a decir la respuesta esperada y, en la misma frase, la precisión vigente.
+- **Referencias sin autor identificado:** se citan por institución o por título, sin completar autores. Un borrador inventó un autor para la triple toma; se detectó al revisar las referencias y se sustituyó.
+- **Notas que agrupan varias fuentes sin datos editoriales:** no se admiten. Se separan en referencias identificables o se retiran.
+- **Imágenes que la estación muestra y no se pueden verificar** (el frotis de carcinoma epidermoide): se sustituyen por una tabla de rasgos y una respuesta modelo.
+- **Figuras con muchos paneles:** con 15 puntos y 10 pulgadas de ancho, la letra quedaba en unos 8,6 puntos al 82% del ancho de la página; con la clase `ancho` sube a unos 10,5.

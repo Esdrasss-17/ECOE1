@@ -15,3 +15,12 @@ La metodología está en `GUIA_METODOLOGICA.md`. Este registro se actualiza en c
 | 9 | Cáncer cervicouterino | Completo | 37 páginas. Integra la GPC de lesiones precursoras (CENETEC 2024), el manual de toma de citología de la Secretaría de Salud y la GPC IMSS-333-09 de tratamiento (2017). La estadificación se describe con la FIGO 2018 y el tratamiento de la GPC conserva sus etapas de 2009 con su equivalencia; las figuras perdidas del manual se sustituyeron por dos esquemas generados (`herramientas/esquemas_citologia.py`) y se usó el único algoritmo conservado (IA1). Se corrigieron las cifras invertidas del ensayo de Peters |
 | 10 | Cáncer de mama | Completo | 34 páginas. Integra la GPC S-001-08 de prevención, tamizaje y referencia (primer nivel, 2017) y la GPC IMSS-232-09 de tratamiento (2017). Las láminas de autoexploración y exploración clínica proceden de la GPC de primer nivel (`herramientas/laminas_mama.py`). El tamizaje sigue la NOM-041 y presenta el USPSTF 2024; se corrigieron la interpretación del riesgo de cáncer de endometrio con tamoxifeno, el criterio del ACOSOG Z0011 y la definición del luminal B |
 | 11 | Choque anafiláctico y RCPIH (ACLS) | Completo | 27 páginas. Integra los Aspectos destacados de las guías de la AHA de 2020 y la revisión de UpToDate sobre el diagnóstico de la anafilaxia. Usa siete algoritmos de la AHA 2020; el tratamiento de la anafilaxia se completó con la Organización Mundial de Alergia y la AAAAI/ACAAI 2023, y los cambios de las guías de la AHA de 2025 (cadena única, temperatura posparo, atragantamiento) van al anexo B |
+
+## Guías prácticas para la ECOE
+
+Cada guía se organiza según la rúbrica de su estación (`RUBRICAS/RUBRICAS_ECOE_VI.pdf`) y sigue la sección 20 de `GUIA_METODOLOGICA.md`. Se guardan en `N. TEMA/ECOE/`, con su PDF y su `AUDITORIA_ECOE.md`.
+
+| # | Tema | Estado | Notas |
+|---|---|---|---|
+| 9 | Cáncer cervicouterino | Completa | `GUIA_ECOE_CACU.md`, 35 páginas. Cubre los 15 criterios de la práctica 9 (Tabla 1 de la guía); Bethesda es eliminatoria. Esquemas nuevos de la triple toma y de las etapas FIGO 2018 (`herramientas/esquemas_ecoe_cacu.py`). Precisa las respuestas superadas de la rúbrica: síntomas tempranos, etapa IB2 (FIGO 2018 frente a 2009) y vacunación (dosis única nonavalente en México desde 2025) |
+| 1 | Retinopatías | Existente | `1. RETINOPATÍAS/ECOE/`, elaborada en otra sesión con otro formato; no se ha revisado con la sección 20 |

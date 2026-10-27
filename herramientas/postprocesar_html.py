@@ -6,5 +6,6 @@ def tab(m):
 h=re.sub(r'<table>.*?</table>',tab,h,flags=re.S)
 h=re.sub(r'<figure>(\s*<img[^>]*>\s*<figcaption[^>]*>Foto estándar)',r'<figure class="half">\1',h)
 h=re.sub(r'<figure>(\s*<img[^>]*>\s*<figcaption[^>]*>Algoritmo)',r'<figure class="wide">\1',h)
+h=re.sub(r'<figure>(\s*<img[^>]*class="ancho")',r'<figure class="wide">\1',h)
 open(p,'w',encoding='utf-8').write(h)
 print('captions',h.count('class="tcap"'),'keep',h.count('class="keep"'),'half',h.count('class="half"'),'wide',h.count('class="wide"'))

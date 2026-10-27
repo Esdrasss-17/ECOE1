@@ -1,13 +1,15 @@
 """Comprobaciones de integridad de un tema: notas, imágenes, viñetas anidadas, flechas y extensión.
 
-Uso: python3 herramientas/verificar_tema.py "N. TEMA"
+Uso: python3 herramientas/verificar_tema.py "N. TEMA" ["nombre.md"]
+Sin segundo argumento revisa "N. TEMA/N. TEMA.md".
 """
 import os
 import re
 import sys
 
-carpeta = sys.argv[1]
-md = os.path.join(carpeta, carpeta + '.md')
+carpeta = sys.argv[1].rstrip('/')
+nombre = sys.argv[2] if len(sys.argv) > 2 else os.path.basename(carpeta) + '.md'
+md = os.path.join(carpeta, nombre)
 s = open(md, encoding='utf-8').read()
 cuerpo, _, refs = s.partition('\n## Referencias')
 
@@ -16,7 +18,7 @@ defs = set(re.findall(r'^\[\^([^\]]+)\]:', refs, re.M))
 print('Notas sin definir:', sorted(usos - defs) or 'ninguna')
 print('Notas sin usar:', sorted(defs - usos) or 'ninguna')
 
-imgs = re.findall(r'\]\((assets/[^)]+)\)', s)
+imgs = re.findall(r'\]\(((?:\.\./)*assets/[^)]+)\)', s)
 faltan = [i for i in imgs if not os.path.exists(os.path.join(carpeta, i))]
 dir_assets = os.path.join(carpeta, 'assets')
 sobran = set()

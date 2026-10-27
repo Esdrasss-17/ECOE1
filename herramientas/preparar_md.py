@@ -13,5 +13,6 @@ def grp(m):
     return '<sup>'+','.join(f'<a href="#ref-{n}">{n}</a>' for n in ns)+'</sup>'
 body=re.sub(r'(?:\[\^[A-Za-z0-9]+\])+',grp,body)
 body=body.rstrip()+'\n\n'+'\n'.join(f'{num[k]}. <span id="ref-{num[k]}"></span>{defs[k]}' for k in order)+'\n'
-body=re.sub(r'\]\(assets/',']('+os.path.dirname(os.path.abspath(src))+'/assets/',body)
+base=os.path.dirname(os.path.abspath(src))
+body=re.sub(r'\]\(((?:\.\./)*assets/[^)]+)\)',lambda m:']('+os.path.normpath(os.path.join(base,m.group(1)))+')',body)
 open(out,'w',encoding='utf-8').write(body)
