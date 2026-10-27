@@ -243,3 +243,11 @@ Son errores que deben vigilarse en todos los temas.
 - **Esquemas generados:** la letra debe tener al menos 10 puntos en la figura, porque al ajustarse al ancho de la página se reduce casi a la mitad; se revisa cada esquema en la página compilada.
 - **Remisiones a figuras:** la compilación no numera las figuras, de modo que no se escriben remisiones del tipo "(figura 1)". `herramientas/verificar_tema.py` ahora detecta estas remisiones y las que apuntan a tablas o secciones inexistentes, también en plural.
 
+## 16. Lecciones aprendidas en Trabajo de parto
+
+- **Fuentes de otros temas:** una norma que está entre las fuentes de otro tema (la NOM-007 en el tema 3) se usa cuando regula el tema actual; se cita como fuente del usuario e indicando de qué tema procede.
+- **Unidades de las tablas:** se comprueban sumando o integrando los valores contra los totales que da la misma fuente (el cuadro de dilatación rotulado "cm/h" solo cuadraba como horas por centímetro).
+- **Figuras repartidas entre páginas:** cuando la conversión divide una figura en dos imágenes, se unen calculando la alineación por la continuidad de los bordes y se comprueba la unión a simple vista.
+- **Figuras altas:** con la altura máxima de 88 mm, una figura vertical con muchos paneles queda ilegible; se divide en láminas por filas, cada una con su pie.
+- **Normas obligatorias frente a guías:** cuando la NOM y la GPC difieren (partograma, frecuencia de los tactos y de los signos vitales), el cuerpo presenta ambas y aclara que la NOM es de cumplimiento obligatorio.
+
