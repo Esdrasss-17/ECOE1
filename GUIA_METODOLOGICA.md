@@ -206,3 +206,12 @@ Son errores que deben vigilarse en todos los temas.
 - **Viñetas anidadas:** reaparecen al redactar listas de criterios. Antes de compilar se buscan con `grep -n -E "^  +[-*] "` y se convierten en un párrafo con encabezado en negrita seguido de un único nivel.
 - **Boletines sustituidos:** se comprueba si el documento normativo de la fuente tiene una versión posterior (ACOG 2009 y 2010, sustituidos por la guía de 2025) y los cambios pasan al cuerpo y al anexo de discrepancias.
 - **Advertencias regulatorias:** se citan con su alcance exacto. Por ejemplo, la advertencia de la FDA sobre la terbutalina se refiere al uso prolongado, no al uso hospitalario urgente.
+
+## 12. Lecciones aprendidas en Propedéutica obstétrica y control prenatal
+
+- **Páginas de guías convertidas en imagen:** el limpiador descarta por defecto los bloques OCR. Si la fuente tiene páginas enteras en imagen, se limpia con `--ocr 300` y se comprueba qué páginas faltan comparando la numeración de las imágenes con el texto. Las recomendaciones de páginas perdidas se recuperan de la cédula de recomendaciones clave de la GPC.
+- **Orden de las imágenes extraídas:** el orden del PDF no es el orden lógico (las maniobras de Leopold salieron como 1.ª, 3.ª, 2.ª y 4.ª). Cada imagen se identifica por su contenido contra una descripción verificada.
+- **Imágenes de tablas:** si una imagen de tabla está desalineada o contiene errores, se reconstruye como tabla Markdown con la correspondencia correcta y se registra en la auditoría.
+- **Anchos de columna:** en las tablas con celdas largas, la línea separadora se escribe con guiones proporcionales al ancho deseado (por ejemplo `|------------|------------------|------------------------------------|`), porque pandoc reparte el ancho según esa línea.
+- **Algoritmos:** las figuras cuyo pie empieza por "Algoritmo" se muestran a todo el ancho (clase `wide`), porque a menor tamaño su texto no se lee.
+- **Normas oficiales con errores en apéndices:** las tablas normativas también se verifican (por ejemplo, el apéndice K de la NOM-007 mezcla las curvas de 75 g y de 100 g).
