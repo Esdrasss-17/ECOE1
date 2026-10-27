@@ -258,3 +258,11 @@ Son errores que deben vigilarse en todos los temas.
 - **Cifras de ensayos citados:** se comprueba el orden de las comparaciones contra el ensayo original (la GPC invertía los resultados de Peters) y la interpretación de los indicadores de exactitud (una especificidad presentada como valor predictivo negativo).
 - **Estimados incoherentes:** si un riesgo relativo no cabe en su intervalo, se informan solo las proporciones absolutas y se registra el error en la auditoría.
 - **Letra de los esquemas anchos:** un esquema de cuatro paneles en fila se reduce al 82% del ancho de la página; con 12 puntos quedaba por debajo de 7 en el PDF, de modo que se usan 15 puntos.
+
+## 18. Lecciones aprendidas en Cáncer de mama
+
+- **Figuras de exploración con pie impreso:** cuando la fuente muestra dibujos de técnica con su pie dentro de la imagen, se recortan las franjas de texto de la página, se conserva el pie impreso como identificación y se agrupan en láminas por maniobra; se omiten los duplicados (el mismo dibujo con otro pie) y los dibujos sin rótulo.
+- **Algoritmos conservados como fragmentos de texto:** solo se reconstruyen en prosa los pasos que se leen sin ambigüedad, y se dice cuál algoritmo se omitió y por qué.
+- **Normas frente a guías en el tamizaje:** si la GPC propone varios intervalos que no coinciden entre sí, el cuerpo los presenta y adopta la NOM de cumplimiento obligatorio, con la guía internacional más reciente como referencia.
+- **Cifras de metanálisis citadas como "veces":** se comprueba si la fuente original da riesgos relativos o incidencias; la GPC presentaba como "1,2 veces" una incidencia del 1,2%.
+- **Afirmaciones atribuidas a sociedades:** se coteja lo que la GPC atribuye a una sociedad (la ACS) con la guía de esa sociedad.
