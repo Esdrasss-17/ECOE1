@@ -1,10 +1,16 @@
 """Reduce un .md convertido de PDF a texto útil para lectura.
-Uso: python3 limpiar_fuente.py <fuente.md> <salida.txt>
+Uso: python3 limpiar_fuente.py <fuente.md> <salida.txt> [--ocr N]
+Con --ocr N conserva el texto OCR de las imágenes cuyo bloque <details> supera N caracteres
+(páginas de guías convertidas en imagen); los bloques más cortos se descartan.
 Elimina bloques OCR duplicados (<details>, texto de imagen con <br>), cabeceras de impresión de UpToDate,
 números de página aislados y listas de referencias bibliográficas largas."""
 import re, sys
 s = open(sys.argv[1], encoding='utf-8').read()
-s = re.sub(r'<details>.*?</details>', '', s, flags=re.S)
+umbral = int(sys.argv[sys.argv.index('--ocr') + 1]) if '--ocr' in sys.argv else None
+def ocr(m):
+    texto = re.sub(r'^<summary>.*?</summary>|```', '', m.group(1).strip(), flags=re.S).strip()
+    return f'\n[OCR]\n{texto}\n[/OCR]\n' if umbral is not None and len(texto) > umbral else ''
+s = re.sub(r'<details>(.*?)</details>', ocr, s, flags=re.S)
 s = re.sub(r'<!-- Start of picture text -->.*?<!-- End of picture text -->', '', s, flags=re.S)
 out = []; skip = False
 for l in s.splitlines():
