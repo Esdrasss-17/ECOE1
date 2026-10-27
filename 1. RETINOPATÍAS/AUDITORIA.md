@@ -94,3 +94,10 @@ Cada sección desarrolla los términos en su primera mención. Dentro de las tab
 | Títulos | Poca separación | 30 pt de separación antes de cada sección; los anexos y las referencias empiezan en página nueva |
 | Márgenes | 15–16 mm | 18–19 mm |
 | Viñetas | Hasta tres niveles | Un nivel; el segundo solo dentro de pasos numerados de la fisiopatología |
+
+## 8. Sustitución de fotografías sin descripción
+
+Las fotografías estándar ETDRS 2B y 3 no tenían descripción en ninguna fuente, por lo que su contenido no era verificable. Se retiraron del atlas y, en la sección 6.2, se sustituyeron por dos retinografías de S&EMJ 2021 (figuras tomadas de AMF 2018). Su contenido está descrito en la tabla 1 de AMF 2018:
+
+- "las flechas indican dos exudados blandos";
+- "gran exudación lipídica con gran cantidad de exudados duros".
