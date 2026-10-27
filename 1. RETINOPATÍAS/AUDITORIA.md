@@ -63,3 +63,34 @@ Registro de la fase de verificación aplicada a `1. RETINOPATÍAS.md`, separada 
 - No se confirmó que la ADA califique explícitamente los anti-VEGF como alternativa a la PFC en la RDP. Esa afirmación se atribuye solo a Protocol S y a la AAO.
 - Los pasos de la técnica de oftalmoscopia de AMF 2012 se limitan a los verificados: misma mano y ojo, abordaje a 15–20° por fuera del eje y reflejo rojo primero.
 - Las dosis de brolucizumab, faricimab, dexametasona y fluocinolona no figuran en las fuentes y no se añadieron.
+
+## 7. Revisión de legibilidad y continuidad explicativa
+
+Esta revisión no añadió ni suprimió datos clínicos respecto a la versión auditada; solo cambió su organización y redacción.
+
+### Estructura
+
+| Cambio | Detalle |
+|---|---|
+| Fisiopatología integrada con la semiología | El mecanismo de cada lesión (microaneurismas, exudados, hemorragias, manchas algodonosas, AMIR, neovasos, hemorragia prerretiniana) pasa de las celdas de la tabla de lesiones a la secuencia fisiopatológica de la sección 4 |
+| Tabla de lesiones aligerada | Se queda con el aspecto y el significado clínico breve. Las distinciones prácticas (microaneurisma o hemorragia, AMIR o neovaso) pasan a viñetas explicativas |
+| Edema macular | Primero se explica la clasificación actual (con y sin afectación central) y por qué importa. Después, el EMCS como concepto del ETDRS que no equivale a la anterior y sus tres criterios. Los métodos diagnósticos se reúnen en un solo bloque con la utilidad de cada técnica |
+| Tratamiento | Cada apartado responde a una pregunta distinta, sin repetir descripciones: 9.2 compara las opciones; 9.3 y 9.4 siguen el orden indicación, mecanismo y precauciones; 9.5 agrupa la vitrectomía por mecanismo (hemorragia, tracción, actividad pese al láser); 9.6 da solo la secuencia de decisiones |
+| Hipertensión maligna | Se sustituyen las etiquetas fragmentadas por una exposición encadenada: definición, motivo de la emergencia, tratamiento y evaluación del daño de órgano diana |
+| Atlas visual | Las fotografías estándar del ETDRS pasan al anexo A, en dos columnas, con referencias desde la clasificación. Las de 2A y 8A se toman de la versión de mayor resolución para evitar duplicados |
+| Equivalencias y cribado británico | Pasan al anexo B; en el cuerpo queda la implicación práctica (detectar lesiones a partir del nivel ETDRS 20) |
+| Factores de riesgo | La tabla con explicaciones largas se convierte en bloques temáticos: factores principales, factores sistémicos sobre la microcirculación, situaciones vitales y otros |
+
+### Abreviaturas
+
+Cada sección desarrolla los términos en su primera mención. Dentro de las tablas se escriben las categorías completas ("No proliferativa moderada", "Edema con afectación central") en lugar de acumular siglas.
+
+### Tipografía del PDF
+
+| Elemento | Antes | Ahora |
+|---|---|---|
+| Texto principal | 10,5 pt | 11,25 pt, interlineado de 1,42 |
+| Tablas | 9 pt | 9,75 pt, con encabezado repetido y tablas cortas sin partir |
+| Títulos | Poca separación | 30 pt de separación antes de cada sección; los anexos y las referencias empiezan en página nueva |
+| Márgenes | 15–16 mm | 18–19 mm |
+| Viñetas | Hasta tres niveles | Un nivel; el segundo solo dentro de pasos numerados de la fisiopatología |
