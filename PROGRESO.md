@@ -9,7 +9,7 @@ La metodología está en `GUIA_METODOLOGICA.md`. Este registro se actualiza en c
 | 3 | Propedéutica obstétrica y control prenatal | Completo | 44 páginas. La conversión perdió páginas de la GPC; se recuperaron con OCR y con la cédula de recomendaciones clave. Las ilustraciones de Williams sin pie se identificaron por su contenido (actitud y Leopold) o se omitieron (variedades de posición) |
 | 4 | Cervicovaginitis | Completo | 17 páginas. La GRR de 2014 tiene varios esquemas superados; el cuerpo usa los CDC 2021 y la GPC de candidosis 2019, y las diferencias van al anexo A. Se añadió la cervicitis por gonococo, ausente en las fuentes |
 | 5 | Enfermedades hipertensivas del embarazo | Completo | 45 páginas. El cuerpo sigue la ACOG 2019-2021 y la AHA 2025; la metildopa de primera línea, las metas de la GPC y la suspensión del ácido acetilsalicílico a las 36 semanas pasan al anexo B. Se corrigieron errores de los cuadros de las GPC (plaquetas, "LDL", preeclampsia sobreagregada). Figuras: dos de Countouris 2025; los algoritmos vectoriales de las GPC no se reconstruyeron |
-| 6 | Aborto | Pendiente | |
+| 6 | Aborto | En curso | Fuentes leídas en su parte clínica (apuntes del usuario, GPC SS-026-20 de amenaza de aborto y Lineamiento técnico de aborto seguro 2022). La conversión perdió las páginas de evidencias de la GPC (13 y 15 a 20); se usan la cédula y el glosario. Falta leer el marco legal y los anexos del Lineamiento, revisar las imágenes y redactar |
 | 7 | Hemorragia de la segunda mitad del embarazo | Pendiente | Fuente muy extensa (2 MB) |
 | 8 | Trabajo de parto | Pendiente | |
 | 9 | Cáncer cervicouterino | Pendiente | |
