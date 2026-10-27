@@ -183,7 +183,7 @@ N. TEMA/
 3. Extraer las imágenes y revisar las candidatas, con su pie de origen en el `.md` fuente.
 4. Verificar externamente los datos críticos y las recomendaciones posiblemente desactualizadas.
 5. Redactar el `.md` según las secciones 3 a 6.
-6. Compilar el PDF y revisar visualmente varias páginas.
+6. Comprobar la integridad con `python3 herramientas/verificar_tema.py "N. TEMA"` (notas, imágenes, viñetas anidadas, flechas, remisiones a secciones y numeración de tablas), compilar el PDF y revisar visualmente varias páginas (`herramientas/hojas_contacto.py` genera hojas de contacto).
 7. Hacer la auditoría y documentarla en `AUDITORIA.md`.
 8. Hacer commit y push del tema y actualizar `PROGRESO.md`. En los temas largos, guardar también los avances parciales.
 
@@ -215,3 +215,12 @@ Son errores que deben vigilarse en todos los temas.
 - **Anchos de columna:** en las tablas con celdas largas, la línea separadora se escribe con guiones proporcionales al ancho deseado (por ejemplo `|------------|------------------|------------------------------------|`), porque pandoc reparte el ancho según esa línea.
 - **Algoritmos:** las figuras cuyo pie empieza por "Algoritmo" se muestran a todo el ancho (clase `wide`), porque a menor tamaño su texto no se lee.
 - **Normas oficiales con errores en apéndices:** las tablas normativas también se verifican (por ejemplo, el apéndice K de la NOM-007 mezcla las curvas de 75 g y de 100 g).
+
+## 13. Lecciones aprendidas en Enfermedades hipertensivas del embarazo
+
+- **Algoritmos vectoriales de las GPC:** no se extraen como imagen (solo salen fragmentos de pocos cientos de píxeles). No se reconstruyen; se transcriben únicamente los recuadros que el OCR deja legibles, se señala en el anexo que el algoritmo está incompleto y la secuencia vigente va en la sección de integración.
+- **Páginas perdidas en revisiones extensas:** se comprueba la continuidad de la numeración de páginas del artículo en la fuente limpia; si faltan páginas, no se completa su contenido y se registra en la auditoría.
+- **Cuadros de las GPC copiados de otras guías:** pueden introducir errores al traducir (la preeclampsia sobreagregada "antes" de la semana 20, las "complicaciones adversas o severas", la PA colocada en la fila del sistema nervioso). Se cotejan con la guía original de la que proceden y con el texto de la propia GPC.
+- **Contradicciones entre la tabla de evidencias y la cédula de una misma GPC:** se elige la cifra coherente con el resto de la conducta y se registra la contradicción en la auditoría.
+- **Fichas del cuadro básico:** son generales y pueden contradecir el uso obstétrico (dilución del sulfato de magnesio, contraindicaciones); se transcriben en el anexo con una nota de lectura y el cuerpo sigue el esquema obstétrico.
+- **Mecanismos y justificaciones propias:** al redactar es fácil añadir explicaciones fisiológicas o farmacológicas ciertas pero ausentes en las fuentes (mecanismo del ácido acetilsalicílico, distensión de la cápsula de Glisson). Antes de compilar se relee cada "porque" y se retira el que no esté respaldado por una fuente citada.
