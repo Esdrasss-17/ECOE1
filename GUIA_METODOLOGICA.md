@@ -295,7 +295,7 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 5. Clasificaciones completas, recitables en el orden en que se dicen.
 6. Estudios, tratamiento, prevención y referencia, con la utilidad de cada estudio.
 7. Casos para ensayar en voz alta y preguntas directas con respuesta modelo.
-8. Tabla de respuestas de la rúbrica que conviene precisar: la respuesta que califica la rúbrica, su precisión vigente y cómo decir ambas en una frase.
+8. Lista de respuestas de la rúbrica que conviene precisar: la respuesta que califica la rúbrica, su precisión vigente y cómo decir ambas en una frase.
 9. Contenido de segundo plano y plan de estudio de dos días.
 
 **Tablas.** En las guías ECOE solo se usa la tabla de criterios de la rúbrica (una por estación). El resto de la información (siglas, criterios, escalas, fármacos, precisiones, plan de estudio) va en párrafos o en listas de un solo nivel. Una tabla adicional solo se admite si da una ventaja imposible de obtener con otro formato, y la auditoría registra el motivo.
@@ -340,3 +340,8 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 - **Prácticas con varias estaciones:** si una práctica de la rúbrica tiene más de una estación y el tema las cubre, la guía las reúne y la respuesta final lo dice.
 - **Tablas:** a petición del usuario, la guía se rehízo sin tablas salvo las de la rúbrica. Las escalas (Glasgow) y las listas de fármacos se leen bien como listas de un solo nivel con el puntaje o la dosis en la misma línea.
 - **Revisión de completitud:** antes de dar una guía por terminada se revisa también lo que la rúbrica no pide pero la práctica exige. En esta guía faltaban el diagnóstico diferencial y la monitorización continua.
+
+### 20.5 Lecciones aprendidas al rehacer la guía ECOE de cáncer cervicouterino
+
+- **Clasificaciones largas sin tabla:** una clasificación que se recita (Bethesda) se presenta como lista numerada en el orden en que se dice; una con jerarquía (FIGO) se divide en bloques, cada uno con un párrafo en negritas para la etapa y una lista de un solo nivel para sus subetapas. Así no hacen falta viñetas anidadas.
+- **Lista de completitud de una estación de consulta:** diagnóstico diferencial del síntoma principal, conducta en el nivel de atención de la estación (aquí, las lesiones precursoras), criterios completos de referencia y la urgencia que puede presentar la misma paciente (aquí, el sangrado activo). Cada añadido se integra también en la secuencia de la consulta, en un caso y en las preguntas directas.

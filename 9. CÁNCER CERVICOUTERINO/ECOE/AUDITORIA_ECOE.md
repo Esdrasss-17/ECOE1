@@ -17,7 +17,7 @@ Registro de la verificación aplicada a `GUIA_ECOE_CACU.md`. La guía no contien
 | Instrucciones en tensión | Resolución |
 |---|---|
 | Guía "práctica y enfocada" frente a "no reducir la exhaustividad" | Se conserva todo lo que la rúbrica califica o lo que cambia la conducta en primer y segundo nivel; lo demás se nombra en una frase (sección 15) y no se elimina |
-| Eficiencia frente a la prohibición de redacción telegráfica | Oraciones completas; las tablas solo comparan, con celdas breves; las respuestas modelo se escriben como frases que pueden decirse en voz alta |
+| Eficiencia frente a la prohibición de redacción telegráfica | Oraciones completas; desde la revisión de formato solo queda la tabla de criterios de la rúbrica, y el resto va en párrafos o en listas de un solo nivel; las respuestas modelo se escriben como frases que pueden decirse en voz alta |
 | Respuesta de la rúbrica frente a evidencia vigente | Se da la respuesta que califica la rúbrica y, en la misma frase, la precisión vigente (sección 14 de la guía) |
 | Sin metacomentarios frente a la necesidad de señalar qué califica la rúbrica | La referencia a la rúbrica es contenido de examen y se cita como fuente (`rub`), no como nota sobre la elaboración |
 
@@ -81,15 +81,35 @@ Se conservaron tres inferencias de semiología básica que no figuran en las fue
 | `assets/ecoe_cacu_triple_toma.png` | Generada con `herramientas/esquemas_ecoe_cacu.py`: corte sagital esquemático con los tres sitios numerados en el orden de la toma | Nueva; el pie aclara que no reproduce un caso real |
 | `assets/ecoe_cacu_estadios_figo2018.png` | Generada con el mismo programa: ocho paneles (IB a IVB) construidos solo con las definiciones de la FIGO 2018 | Nueva; se muestra a todo el ancho (clase `ancho`) para que la letra de 15 puntos quede legible |
 | `../assets/cc_esquema_espatula_ayre.png` y `../assets/cc_esquema_zona_transformacion.png` | Esquemas del tema 9 | Reutilizados sin cambios |
-| Citología del carcinoma epidermoide | No se obtuvo una imagen verificable con su descripción | Se sustituyó por la Tabla 11 de rasgos citológicos y la respuesta modelo |
+| Citología del carcinoma epidermoide | No se obtuvo una imagen verificable con su descripción | Se sustituyó por la descripción de los rasgos citológicos de las tres lesiones escamosas (sección 6.4) y la respuesta modelo |
 
 ## 8. Diseño y herramientas
 
-- El PDF tiene 35 páginas y cuatro figuras.
+- El PDF tiene 38 páginas y cuatro figuras, y se compiló con `ENLACES=1`.
+- **Revisión de formato a petición del usuario:** se eliminaron todas las tablas salvo la de criterios de la rúbrica (Tabla 1). Las siglas pasaron a un párrafo; los antecedentes ginecoobstétricos, los síntomas, los factores de riesgo, la equivalencia de terminologías, las vías de diseminación, los esquemas de tamizaje, las conductas según el resultado, los rasgos citológicos, los estudios complementarios, el tratamiento por etapa, los criterios de Sedlis y de Peters, las vacunas y sus esquemas, la referencia, las precisiones de la rúbrica y el plan de estudio pasaron a listas de un solo nivel. El sistema Bethesda se presenta como dos listas numeradas (componentes del informe y doce categorías de interpretación en el orden en que se recitan) y la FIGO 2018 como cuatro bloques (etapas I a IV) con sus subetapas, sin cambiar el contenido.
 - `compilar_pdf.sh` acepta un tercer argumento con el nombre del `.md`, para compilar guías situadas en subcarpetas del tema.
 - `preparar_md.py` convierte en absolutas las rutas `assets/` y `../assets/`.
 - `verificar_tema.py` acepta el nombre del `.md` como segundo argumento.
 - `postprocesar_html.py` muestra a todo el ancho las figuras marcadas con `{.ancho}`. No basta con el nombre del archivo, porque pandoc incrusta las imágenes como datos.
+
+## 8.1 Revisión de completitud
+
+Al revisar la guía contra la rúbrica y contra lo que exige una consulta de primer y segundo nivel se añadieron cuatro contenidos:
+
+- **Diagnóstico diferencial del sangrado poscoital y de la lesión del cuello (sección 4.5):** cervicitis, ectropión, pólipo, lesión intraepitelial, atrofia y traumatismo, y cáncer de endometrio en el sangrado posmenopáusico; regla de biopsiar toda lesión visible sospechosa aunque la citología sea negativa. Se integró en la secuencia de la consulta, en los casos 1 y 3 y en las preguntas directas.
+- **Tratamiento de las lesiones precursoras (sección 9.2):** vigilancia de la NIC 1, LEEP de la NIC 2 o mayor con sus plazos, adenocarcinoma in situ, carcinoma in situ, tratamientos ablativos y seguimiento con prueba de VPH-AR, a partir de d1 y d3 (documento clínico del tema, secciones 6 y 8.2).
+- **Indicaciones adicionales de colposcopia (sección 6.3):** condilomatosis, inmunodepresión o VIH, menores de 25 años, citologías de seguimiento y embarazada con LEIAG (d1).
+- **Sangrado transvaginal activo (sección 9.7):** estabilización y referencia urgente; taponamiento vaginal como medida temporal y radioterapia hemostática. Se añadió al caso 3.
+
+| Dato nuevo | Fuente | Verificación |
+|---|---|---|
+| El sangrado poscoital afecta del 0,7% al 9% de las mujeres que menstrúan; la mayoría de sus causas son benignas; la cervicitis y los pólipos son causas benignas comunes; se origina en lesiones de superficie (pólipos, cervicitis, ectropión, NIC o carcinoma); las causas más comunes de cervicitis son la vaginosis bacteriana y la clamidia | Tarney y Han, Obstet Gynecol Int 2014 | Resumen y fragmentos del texto en PMC; la atrofia y el traumatismo se tomaron de la tabla de causas de la revisión según los fragmentos |
+| El ectropión es más frecuente en adolescentes, embarazadas y usuarias de anticonceptivos con estrógenos, y puede causar flujo y sangrado poscoital | StatPearls (Aggarwal y Ben Amor, 2023) y revisiones clínicas | Fragmentos; el texto completo de StatPearls está restringido en parte |
+| Endometrio de 4 mm o menos en el ultrasonido transvaginal: valor predictivo negativo mayor del 99% para cáncer de endometrio; más grueso, muestreo | ACOG Committee Opinion 734 (2018) | Fuentes secundarias que la citan; no se leyó el texto de la opinión |
+| Toda lesión visible del cuello se biopsia, salvo los hallazgos benignos comunes (cervicitis, ectropión, quistes de Naboth), porque la citología tiene falsos negativos y algunos tumores, como el cuello en barril, descaman pocas células | Johns Hopkins, OB-GYN 101 | Fragmento de la página docente; concuerda con un comentario clínico de MDedge |
+| El taponamiento vaginal suele ser solo parcialmente eficaz y puede causar daño; no hay estudios que comparen el ácido tranexámico, el taponamiento o la radiología intervencionista con la radioterapia | Cochrane (Eleje y cols., 2019) | Resumen de la revisión |
+
+**Razonamiento clínico sin fuente específica.** Las medidas iniciales ante el sangrado activo (signos vitales, datos de choque, acceso venoso, biometría hemática, grupo y Rh) son conocimiento general del manejo de la hemorragia y se registran aquí como tal; la indicación de transfusión a criterio del médico tratante procede de d3.
 
 ## 9. Limitaciones de la verificación
 
