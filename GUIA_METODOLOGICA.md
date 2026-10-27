@@ -266,3 +266,11 @@ Son errores que deben vigilarse en todos los temas.
 - **Normas frente a guías en el tamizaje:** si la GPC propone varios intervalos que no coinciden entre sí, el cuerpo los presenta y adopta la NOM de cumplimiento obligatorio, con la guía internacional más reciente como referencia.
 - **Cifras de metanálisis citadas como "veces":** se comprueba si la fuente original da riesgos relativos o incidencias; la GPC presentaba como "1,2 veces" una incidencia del 1,2%.
 - **Afirmaciones atribuidas a sociedades:** se coteja lo que la GPC atribuye a una sociedad (la ACS) con la guía de esa sociedad.
+
+## 19. Lecciones aprendidas en Choque anafiláctico y RCP
+
+- **Fuentes que son resúmenes de una guía mayor:** cuando la fuente del usuario resume una guía (los Aspectos destacados de la AHA), se comprueba si la guía completa se actualizó después (AHA 2025) y las diferencias van al anexo B, sin reescribir el cuerpo con la versión no verificada en su texto original.
+- **Fuentes que cubren solo parte del tema:** si la fuente trata el diagnóstico y no el tratamiento, el tratamiento se completa con guías internacionales y se declara en la auditoría, no en el cuerpo.
+- **Límite de búsquedas:** lo que no se pudo verificar en línea se registra expresamente en la auditoría como no comprobado.
+- **Figuras divididas en fragmentos que no encajan:** si la alineación no es segura, la figura se transcribe en el texto en lugar de componerla.
+- **Ramas de otros autores en la misma rama de trabajo:** antes de subir, si el envío se rechaza, se revisan los commits remotos y se integran con un merge cuando no tocan los mismos archivos.
