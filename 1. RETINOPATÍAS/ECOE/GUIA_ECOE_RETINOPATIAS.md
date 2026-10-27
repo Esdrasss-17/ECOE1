@@ -7,7 +7,7 @@ lang: es
 
 **Primer y segundo nivel · Pregrado · Dos días de preparación**
 
-**Versión en elaboración:** ya puedes estudiar la ruta de consulta y los criterios principales. Se están agregando los casos resueltos, el entrenamiento con imágenes y las respuestas de repaso.
+**Cómo usarla:** aprende la ruta de consulta y después resuelve los cinco casos en voz alta. La sección 12 marca lo secundario; las secciones 13–15 organizan y evalúan tu estudio. Para el repaso final, usa [Repaso en 10 minutos](REPASO_10_MINUTOS.md).
 
 ## 1. Lo que debes poder hacer en la estación
 
@@ -189,3 +189,167 @@ La cita prioritaria depende del cuadro y del circuito local. **No confundas plaz
 El calendario del niño con diabetes tipo 1 depende de edad, pubertad y duración según protocolo pediátrico: no extrapoles automáticamente el esquema adulto. [1,4]
 
 **Diferenciales prácticos:** catarata (gradual, opacidad del cristalino), defecto refractivo (puede mejorar con estenopeico), edema macular (central), hemorragia vítrea (velo/miodesopsias), desprendimiento (cortina/fotopsias), oclusión arterial (súbita intensa), oclusión venosa (hemorragias extensas/sectoriales y venas alteradas), glaucoma agudo (dolor y ojo rojo). El patrón orienta; la exploración establece la causa. [1,2,7]
+
+## 11. Casos para ensayar toda la consulta
+
+**Casos ficticios de entrenamiento.** Una persona lee los datos y entrega los hallazgos que solicites. Resuelve antes de mirar la respuesta. Los planes son ejemplos razonados, no una plantilla para todos los pacientes.
+
+### Caso 1. Consulta base: «Cada vez me cuesta más leer»
+
+**Entrada:** hombre de 58 años, diabetes tipo 2 desde hace 14 años, visión borrosa gradual bilateral de tres meses.
+
+**Si preguntas:** sin dolor, destellos, cortina ni caída súbita. Medicación irregular; no recuerda el último fondo de ojo. HTA y dislipidemia. HbA1c 9,1%. No se aportan función renal, medicamentos/dosis actuales ni albuminuria.
+
+**Si exploras:** PA 152/92, sin síntomas de daño agudo; agudeza visual corregida OD 20/60, OI 20/30. Microaneurismas, algunas hemorragias intrarretinianas y exudados próximos a la mácula derecha; sin neovasos ni criterios 4-2-1 en la evaluación proporcionada.
+
+**Respuesta esperada:**
+
+1. **Diagnóstico:** RDNP moderada bilateral y sospecha de edema macular derecho. Los exudados no permiten afirmar afectación central. Diabetes e HTA fuera de objetivos.
+2. **Diferenciales:** catarata, defecto refractivo y otras maculopatías; no atribuir toda pérdida visual a diabetes.
+3. **Estudios:** evaluación dilatada y OCT macular; función renal, albuminuria y lípidos para ajustar tratamiento. No angiografía rutinaria desde primer nivel.
+4. **Conducta ocular:** referencia oportuna, priorizada por deterioro visual/sospecha de edema. Si se confirma edema central con visión reducida, explicar probable anti-VEGF. No indicar panfotocoagulación automáticamente sin proliferación.
+5. **Conducta sistémica:** identificar barreras, reconciliar medicamentos y acordar adherencia; optimizar diabetes/HTA con función renal y tratamiento vigente. Revisar resultados pronto y comprobar acceso a la cita ocular. En este caso, revisión sistémica en 1–2 semanas es un ejemplo organizativo, no una regla de retina.
+6. **Cierre:** «La diabetes puede dañar la retina antes de dar síntomas. Necesita valoración de la mácula y mejorar el control. Si aparece una cortina, destellos nuevos o pérdida súbita, acuda ese mismo día».
+
+**Nota modelo:** «DM2 de 14 años, HbA1c 9,1%, pérdida gradual de tres meses sin alarmas agudas. AV OD 20/60, OI 20/30; PA 152/92. Lesiones compatibles con RDNP moderada bilateral; exudados paramaculares OD, sospecha de EMD. Referencia priorizada y OCT; evaluación renal/metabólica y tratamiento sistémico en paralelo. Alarmas explicadas y seguimiento acordado».
+
+**Si preguntan por qué no basta con bajar glucosa:** reduce progresión futura, pero el edema que afecta visión puede necesitar tratamiento ocular específico.
+
+### Caso 2. «Desde hace una hora veo un velo»
+
+**Entrada:** el mismo paciente tiene muchas moscas volantes nuevas y pérdida brusca indolora derecha. El fondo no se visualiza por opacidad hemática.
+
+**Respuesta:** sospecha de hemorragia vítrea; excluir desprendimiento/desgarro y otras causas. Documentar hora, agudeza visual, pupilas y síntomas; organizar oftalmología urgente el mismo día o urgencias si no hay acceso directo. La ecografía especializada puede mostrar la retina detrás de la sangre; no esperar una cita electiva. No afirmar proliferación solo por ser diabético ni garantizar que «la sangre se absorberá».
+
+**Si agregan cortina/fotopsias:** aumenta sospecha de desprendimiento. Si sugiere oclusión arterial, activar urgencias y evaluación vascular/ictus. No conducir con pérdida visual. [1,7]
+
+### Caso 3. «Veo borroso y me duele la cabeza»
+
+**Entrada:** mujer de 54 años con HTA, suspendió tratamiento. PA 230/130 confirmada; cefalea y visión borrosa. Hemorragias en llama y manchas algodonosas bilaterales, sin edema de papila.
+
+**Respuesta:** sospecha de emergencia hipertensiva con daño retiniano agudo. No esperar edema de papila. Puede describirse RH grado III de Keith-Wagener-Barker; el grado no reduce la urgencia. Evaluar cerebro, corazón, pulmón y riñón; traslado inmediato, monitorización y comunicación al receptor. Descenso hospitalario controlado.
+
+**Si agregan edema de papila:** grado IV. **Si agregan embarazo:** considerar preeclampsia grave y activar obstetricia. **Error crítico:** dar un fármaco oral y enviar a casa porque no hay edema de papila. [1,6]
+
+### Caso 4. «Veo bien; ¿para qué me revisan?»
+
+**Entrada:** hombre de 46 años, DM2 recién diagnosticada, AV 20/20; solo microaneurismas, sin edema en evaluación especializada.
+
+**Respuesta:** RDNP leve pese a visión conservada. Cribado al diagnóstico de DM2; control sistémico y seguimiento ocular al menos anual. Sin láser ni inyecciones rutinarias. Si no hubiese RD en evaluaciones adecuadas previas y el control fuera bueno, podría considerarse cada 1–2 años. [1,4]
+
+### Caso 5. HTA estable: prescripción razonada
+
+**Entrada:** hombre de 56 años con diabetes; PA persistente 154/94; cruces patológicos sin hemorragias/edema de papila ni síntomas agudos. Sin antihipertensivos. Albuminuria 90 mg/g, filtrado 75 mL/min/1,73 m², K 4,3 mmol/L; sin hipovolemia ni contraindicaciones conocidas.
+
+**Respuesta:** HTA con albuminuria y cambios retinianos crónicos, sin datos aportados de emergencia. En diabetes con PA ≥150/90 suele requerirse iniciar dos fármacos. Una opción para este caso: **losartán 50 mg vía oral cada 24 h más amlodipino 5 mg vía oral cada 24 h**, individualizados por tolerancia y disponibilidad. Confirmar ausencia de duplicaciones/contraindicaciones. No es una pauta para emergencias. [8,9]
+
+**Vigilancia:** presión domiciliaria, mareo/hipotensión, edema por amlodipino, creatinina/potasio con losartán. Revisión temprana tras iniciar según protocolo; en este ejercicio se programa en 1–2 semanas. No combinar ARA-II con IECA. Evitar ARA-II en embarazo. Si los datos cambian, la receta también. [8,9]
+
+## 12. Lo secundario: reconocerlo sin gastar la sesión aquí
+
+| Tema | Respuesta suficiente |
+|---|---|
+| Fisiopatología molecular | Daño capilar → fuga/edema; isquemia → VEGF/neovasos; fibrosis → tracción |
+| Edema macular clínicamente significativo | Criterio histórico ETDRS, no idéntico a edema central. Si profundizan: engrosamiento a ≤500 µm del centro; exudados a ≤500 µm con engrosamiento adyacente; o engrosamiento ≥1 área de disco con alguna parte a ≤1 diámetro de disco del centro |
+| Proliferativa de alto riesgo | Neovasos papilares extensos o neovasos con hemorragia incrementan riesgo; no esperar medir el área exacta para referir |
+| ETDRS completo y grados británicos | Dominar primero la escala clínica, 4-2-1 y edema |
+| Angio-OCT y mapas de investigación | Saber que existen, sin pedirlos rutinariamente |
+| Dosis intravítreas y parámetros del láser | Aprender indicación y riesgos; aplicación por especialista |
+| Porcentajes y nombres de ensayos | No desplazar diagnóstico, conducta y seguimiento |
+
+Son prioridades docentes para tu objetivo; no predicen qué preguntará tu institución. Si tienes rúbrica local, úsala para seleccionar los detalles adicionales.
+
+## 13. Lista de cotejo de práctica
+
+Marca **hecho / incompleto / omitido**. Es una herramienta de autoevaluación elaborada para esta guía, no una escala validada ni una estimación de calificación.
+
+| Conducta | Registro |
+|---|---|
+| Presentación, consentimiento y comunicación clara | ____ |
+| **Busca y actúa ante pérdida súbita, cortina, dolor y síntomas sistémicos** | ____ |
+| Caracteriza tiempo, lateralidad y síntomas | ____ |
+| Revisa diabetes/HTA, adherencia, riñón y antecedentes oculares | ____ |
+| **Solicita/mide agudeza visual por ojo y presión** | ____ |
+| Describe fondo o reconoce que no puede valorarlo | ____ |
+| Clasifica por ojo y considera edema independientemente | ____ |
+| Propone diferenciales y estudios justificados | ____ |
+| Da plan sistémico concreto y explica tratamiento ocular | ____ |
+| **Define destino/prioridad de referencia sin demorar urgencias** | ____ |
+| Acuerda seguimiento y comprueba comprensión | ____ |
+| **Da alarmas y evita normalización brusca de presión** | ____ |
+
+Meta de entrenamiento: dos casos seguidos sin omitir acciones en negrita, justificando decisiones sin leer. Anota cada omisión y repite cambiando un dato.
+
+## 14. Plan de dos días
+
+**Día 1: construir el abordaje. Cuatro horas netas más descansos.**
+
+| Bloque | Tiempo | Resultado observable |
+|---|---|---|
+| Consulta y alarmas: secciones 1–3, 9 | 45 min | Recitar la ruta en un minuto |
+| Clasificación e imágenes: 4–5 | 60 min | Aplicar 4-2-1 y reconocer imágenes sin pie |
+| Estudios y tratamiento: 6–7 | 45 min | Justificar estudios y diferenciar tratamientos |
+| RH y cribado: 8, 10 | 45 min | Urgencia vs daño crónico y calendario adulto |
+| Caso 1 completo y corrección | 45 min | Consulta de 10 min y nota de referencia |
+
+**Día 2: decidir sin consultar. Cuatro horas netas más descansos.**
+
+| Bloque | Tiempo | Resultado observable |
+|---|---|---|
+| Preguntas de sección 15 antes de leer | 30 min | Identificar lagunas reales |
+| Casos 2–5 en voz alta | 60 min | Definir prioridad y plan |
+| Corregir errores y repetir imágenes | 45 min | Explicar qué dato cambia conducta |
+| Dos simulaciones con lista de cotejo | 60 min | Consulta, explicación y referencia |
+| Errores finales y hoja de 10 minutos | 45 min | Recuperar lo esencial sin buscar nuevos detalles |
+
+Pausas de 10–15 minutos entre bloques. Reserva tiempo para sueño. Si dispones de menos horas, prioriza alarmas, 4-2-1, edema, tratamiento por escenario y casos 1–3. Verbalizar decisiones es parte central del estudio.
+
+## 15. Recuperación activa
+
+**Responde antes de leer las soluciones:**
+
+1. ¿Qué define RDNP leve?
+2. ¿Qué define proliferación?
+3. ¿Cuáles son los criterios 4-2-1 y cuántos bastan?
+4. ¿Puede haber edema macular en RD leve?
+5. ¿Qué demuestra el engrosamiento macular?
+6. ¿La angiografía es cribado?
+7. ¿Qué RD requiere referencia?
+8. ¿Qué cambia con pérdida súbita?
+9. ¿Cuándo cribar DM2 y DM1 adulta?
+10. ¿Qué cambia en embarazo?
+11. ¿Qué diferencia exudados duros de manchas algodonosas?
+12. ¿Qué trata edema central con visión reducida?
+13. ¿Qué trata proliferación?
+14. ¿La hipertensión maligna exige edema de papila?
+15. ¿RD contraindica aspirina cardiovascular?
+16. ¿Referencia y seguimiento significan lo mismo?
+
+**Soluciones:** 1) Solo microaneurismas. 2) Neovasos; valorar sangrado asociado. 3) >20 hemorragias en cada uno de 4 cuadrantes; arrosariamiento ≥2; AMIR prominentes ≥1; basta uno sin proliferación. 4) Sí. 5) OCT y evaluación clínica. 6) No. 7) Cualquier edema, RDNP moderada o peor, toda RDP. 8) Valoración urgente: hemorragia, desprendimiento, oclusión. 9) DM2 al diagnóstico; DM1 dentro de cinco años. 10) Diabetes previa: antes/primer trimestre, vigilancia trimestral y posparto individualizada; gestacional aislada no exige cribado. 11) Fuga lipídica vs isquemia de fibras nerviosas. 12) Habitualmente anti-VEGF. 13) Panfotocoagulación o anti-VEGF según caso. 14) No. 15) No por sí sola. 16) Referencia = obtener evaluación necesaria; seguimiento = vigilancia posterior del caso ya valorado.
+
+## 16. Fuentes y selección
+
+La base principal son los documentos subidos y la síntesis de la rama claude. Los casos, tiempos y lista de cotejo son material docente elaborado para esta guía. Las fotografías se conservan sin edición.
+
+[1] [Documento base: Retinopatías](../1.%20RETINOPAT%C3%8DAS.md), secciones 1–18 y bibliografía; [PDF completo](../1.%20RETINOPAT%C3%8DAS.pdf).
+
+[2] Fuentes subidas: IMSS, *Detección de retinopatía diabética en primer nivel*, IMSS-735-14 (2014), especialmente pp. 15–23; IMSS, *Diagnóstico y tratamiento de retinopatía diabética*, actualización 2015; Romero-Aroca y Sagarra Álamo, AMF 2018;14:382–393; *Manifestaciones de la retinopatía hipertensiva y diabética*, S&EMJ 2021; revisiones UpToDate aportadas sobre RD y efectos oculares de HTA. La síntesis [1] reúne sus contenidos.
+
+[3] Fernández Revuelta A. *Técnica de exploración del fondo de ojo*. AMF 2012;8:383–387. Fuente subida y [publicación original](https://www.amf-semfyc.com/es/web/articulo/tecnica-de-exploracion-del-fondo-de-ojo).
+
+[4] ADA. *Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026*. [Artículo](https://doi.org/10.2337/dc26-S012). Cribado/referencia contrastados con la síntesis y extractos públicos.
+
+[5] NICE NG242 (2024). [Justificación e intervalos de vigilancia](https://www.nice.org.uk/guidance/ng242/chapter/Rationale-and-impact). Para pacientes en atención oftalmológica.
+
+[6] [ESC 2024: hipertensión](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/elevated-blood-pressure-and-hypertension/) y documento de emergencias ESC 2019 citado en [1].
+
+[7] AAO, [desprendimiento y alarmas](https://www.aao.org/eye-health/diseases/detached-torn-retina); AHA, [oclusión arterial como emergencia](https://professional.heart.org/en/science-news/management-of-central-retinal-artery-occlusion/top-things-to-know).
+
+[8] ADA 2026, [riesgo cardiovascular y antihipertensivos](https://diabetesjournals.org/care/article/49/Supplement_1/S216/163933/10-Cardiovascular-Disease-and-Risk-Management) y [metas glucémicas individualizadas](https://doi.org/10.2337/dc26-S006).
+
+[9] DailyMed: [losartán](https://www.dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=a5b5da65-a4d5-1bd5-e053-2a95a90a6a60&type=pdf) y [amlodipino](https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=56d031db-67ed-217d-e054-00144ff88e88&type=pdf), dosis iniciales del caso docente.
+
+**Diferencias relevantes:** IMSS 2014 permitía vigilar algunas lesiones moderadas en primer nivel; aquí se prioriza referencia desde RDNP moderada según ADA. No se adopta HbA1c <6,5% para todos. El intervalo de vigilancia no autoriza a demorar referencia. Las escalas antiguas no sustituyen el juicio de urgencia.
+
+**Alcance de revisión:** las fuentes aportadas son el soporte principal; algunas comprobaciones web se limitaron a extractos indexados por restricciones de acceso. No es una auditoría exhaustiva de toda la bibliografía ni una rúbrica oficial. Preparación: 27 de octubre de 2026.
+
