@@ -7,16 +7,7 @@ lang: es
 
 **Dos estaciones de urgencias con simulador · Segundo nivel de atención**
 
-**Siglas de uso frecuente.** Cada sección desarrolla los términos en su primera mención; las siglas se reservan para las menciones siguientes.
-
-| Sigla | Significado | Sigla | Significado |
-|---|---|---|---|
-| PA, PAS, PAM | Presión arterial, sistólica y media | FC | Frecuencia cardiaca |
-| IM, IV, IO | Intramuscular, intravenosa, intraósea | SRI | Secuencia rápida de intubación |
-| RCP | Reanimación cardiopulmonar | RCE | Retorno de la circulación espontánea |
-| FV | Fibrilación ventricular | TVSP | Taquicardia ventricular sin pulso |
-| AESP | Actividad eléctrica sin pulso | ETCO2 | Dióxido de carbono al final de la espiración |
-| BVM | Bolsa-válvula-mascarilla | AHA | American Heart Association |
+**Siglas de uso frecuente.** PA, PAS y PAM: presión arterial, sistólica y media. FC: frecuencia cardiaca. IM, IV e IO: vías intramuscular, intravenosa e intraósea. SRI: secuencia rápida de intubación. RCP: reanimación cardiopulmonar. RCE: retorno de la circulación espontánea. FV: fibrilación ventricular. TVSP: taquicardia ventricular sin pulso. AESP: actividad eléctrica sin pulso. ETCO2: dióxido de carbono al final de la espiración. BVM: bolsa-válvula-mascarilla. AHA: American Heart Association.
 
 ---
 
@@ -34,8 +25,8 @@ La rúbrica numera 13 criterios y se acredita con 10 de 13, pero **omite el núm
 |---|------------------------|------------------------------------------|------|
 | 1 | Presentación y motivo de consulta | Presentarse e interrogar el motivo | 2.1 |
 | 2 | Interrogatorio | Pedir al monitor los datos del SAMPLE | 2.1 |
-| 3 | Diagnóstico | Criterios de anafilaxia (al menos 4) y tipo de choque | 2.2 y 2.3 |
-| 4 | Estado de choque | Índice de choque, uresis, Glasgow, presión de pulso y llenado capilar | 2.4 |
+| 3 | Diagnóstico | Criterios de anafilaxia (al menos 4) y tipo de choque | 2.2 y 2.4 |
+| 4 | Estado de choque | Índice de choque, uresis, Glasgow, presión de pulso y llenado capilar | 2.5 |
 | 5 | Adrenalina | 0,01 mg/kg, máximo 0,5 mg, IM a 90°, con cálculo por peso; verificar que se aplique bien | 3.1 |
 | 6 | A: vía aérea | Permeabilidad; mascarilla con reservorio a 15 L/min como primera elección | 3.3 |
 | 8 | B: tórax | Inspección, palpación, percusión y auscultación en busca de dificultad respiratoria | 3.4 |
@@ -89,42 +80,38 @@ El primer criterio se cumple al presentarse con la paciente y con el equipo, y a
 
 ### 2.2 Criterios diagnósticos
 
-La anafilaxia es una reacción de hipersensibilidad sistémica, aguda y potencialmente mortal, causada por la liberación súbita de los mediadores de los mastocitos y los basófilos. El diagnóstico es **clínico** y el tratamiento no espera la confirmación de laboratorio.[^d2]
+La anafilaxia es una reacción de hipersensibilidad sistémica, aguda y potencialmente mortal, causada por la liberación súbita de los mediadores de los mastocitos y los basófilos. El diagnóstico es **clínico** y el tratamiento no espera la confirmación de laboratorio.[^d2] La anafilaxia es muy probable si se cumple cualquiera de los criterios siguientes:[^d2]
 
-**Tabla 3. Criterios diagnósticos de la anafilaxia**[^d2]
+- **Organización Mundial de Alergia 2020, criterio 1:** inicio agudo (minutos a horas) con afección de la piel o las mucosas y al menos uno de los siguientes: compromiso respiratorio, compromiso circulatorio, o síntomas gastrointestinales graves (dolor cólico intenso, vómito repetido), sobre todo con alérgenos no alimentarios.
+- **Organización Mundial de Alergia 2020, criterio 2:** hipotensión, broncoespasmo o afección laríngea (estridor, cambios de la voz, odinofagia) de inicio agudo tras la exposición a un alérgeno conocido o muy probable, aun sin manifestaciones cutáneas.
+- **NIAID/FAAN 2006, criterio 1:** inicio agudo con afección de la piel o las mucosas y compromiso respiratorio, o PA baja o síntomas de hipoperfusión.
+- **NIAID/FAAN 2006, criterio 2:** dos o más de los siguientes poco después de la exposición a un alérgeno probable: afección de la piel y las mucosas, compromiso respiratorio, PA baja o hipoperfusión, y síntomas gastrointestinales persistentes.
+- **NIAID/FAAN 2006, criterio 3:** PA baja después de la exposición a un alérgeno conocido para ese paciente.
 
-| Criterios | La anafilaxia es muy probable si se cumple cualquiera de los siguientes |
-|------------------|----------------------------------------------------------------|
-| Organización Mundial de Alergia 2020, criterio 1 | Inicio agudo (minutos a horas) con afección de la piel o las mucosas, y al menos uno de los siguientes: compromiso respiratorio; compromiso circulatorio; síntomas gastrointestinales graves (dolor cólico intenso, vómito repetido), sobre todo con alérgenos no alimentarios |
-| Organización Mundial de Alergia 2020, criterio 2 | Hipotensión, broncoespasmo o afección laríngea (estridor, cambios de la voz, odinofagia) de inicio agudo tras la exposición a un alérgeno conocido o muy probable, aun sin manifestaciones cutáneas |
-| NIAID/FAAN 2006, criterio 1 | Inicio agudo con afección de la piel o las mucosas y compromiso respiratorio, o PA baja o síntomas de hipoperfusión |
-| NIAID/FAAN 2006, criterio 2 | Dos o más de los siguientes poco después de la exposición a un alérgeno probable: piel y mucosas; compromiso respiratorio; PA baja o hipoperfusión; síntomas gastrointestinales persistentes |
-| NIAID/FAAN 2006, criterio 3 | PA baja después de la exposición a un alérgeno conocido para ese paciente |
-
-**Cómo cumplir "al menos 4 criterios".** La rúbrica pide mencionar al menos cuatro criterios.[^rub] La forma más segura es enumerar los cuatro grupos de manifestaciones que combinan los criterios (afección de **piel y mucosas**, **compromiso respiratorio**, **compromiso circulatorio** y **síntomas gastrointestinales**) y después decir cómo se combinan.[^d2]
+**Cómo cumplir "al menos 4 criterios".** La rúbrica pide mencionar al menos cuatro.[^rub] La forma más segura es enumerar los cuatro grupos de manifestaciones que combinan los criterios (afección de **piel y mucosas**, **compromiso respiratorio**, **compromiso circulatorio** y **síntomas gastrointestinales**) y después decir cómo se combinan.[^d2]
 
 **PA baja.** En el adulto y en los mayores de 10 años es una PAS menor de 90 mmHg o una caída de más del 30% respecto de la basal.[^d2]
 
 **Manifestaciones por sistema.** La piel y las mucosas se afectan hasta en el 90% de los casos (urticaria, prurito, rubor y angioedema), el aparato respiratorio hasta en el 85% (disfonía, estridor, sibilancias, disnea), y el gastrointestinal y el cardiovascular hasta en el 45% cada uno (dolor cólico, vómito, mareo, síncope, hipotensión). La PA baja no es necesaria para el diagnóstico, y los signos cutáneos faltan o no se reconocen en hasta el 10% de los episodios.[^d2]
 
-### 2.3 Tipo de choque
+### 2.3 Diagnóstico diferencial
+
+Los cuadros que más se confunden con la anafilaxia son la **urticaria o el angioedema agudos generalizados** sin compromiso respiratorio ni circulatorio, la **crisis asmática**, el **síncope vasovagal** y la **crisis de pánico**. Deben considerarse también otras causas de choque (hipovolémico, cardiogénico, séptico u obstructivo), los eventos respiratorios (embolia pulmonar, neumotórax, aspiración de un cuerpo extraño) y los cardiacos (infarto, arritmias).[^d2] Ante la duda, se trata como anafilaxia.[^d2]
+
+### 2.4 Tipo de choque
 
 El choque anafiláctico es un **choque distributivo**. Los cuatro tipos de choque son el distributivo (séptico y anafiláctico), el hipovolémico, el cardiogénico y el obstructivo; el distributivo suele cursar con gasto cardiaco alto, y los otros tres con gasto bajo.[^vincent]
 
-### 2.4 Parámetros del estado de choque
+### 2.5 Parámetros del estado de choque
 
-El criterio 4 se pierde si falta uno de estos parámetros: índice de choque, uresis, Glasgow, presión de pulso y llenado capilar.[^rub]
+El criterio 4 se pierde si falta uno de estos parámetros: índice de choque, uresis, Glasgow, presión de pulso y llenado capilar. Conviene decirlos siempre junto con la PA.[^rub][^gpchem][^lebas2014][^d2]
 
-**Tabla 4. Parámetros para identificar el estado de choque**[^rub][^gpchem][^lebas2014][^d2]
-
-| Parámetro | Cómo se obtiene | Interpretación |
-|------------------|------------------------------|------------------------------------|
-| Índice de choque | FC entre PAS | Normal de 0,5 a 0,7 fuera del embarazo; un valor mayor de 0,9 es un dato de hipoperfusión |
-| Uresis | Volumen urinario por hora con sonda | Menos de 0,5 mL/kg por hora indica hipoperfusión |
-| Glasgow | Escala de coma de Glasgow (Tabla 5) | La alteración del estado de alerta es un dato de hipoperfusión |
-| Presión de pulso | PAS menos PA diastólica | Se registra y se sigue su tendencia junto con la PA |
-| Llenado capilar | Tiempo de recoloración después de presionar el lecho ungueal | Lento en la hipoperfusión; la GPC del IMSS de choque usa más de 3 segundos |
-| PA | PAS y PAM | PAS menor de 90 mmHg o caída de más del 30% respecto de la basal |
+- **Índice de choque:** FC entre PAS. Es normal de 0,5 a 0,7 fuera del embarazo, y un valor mayor de 0,9 es un dato de hipoperfusión.
+- **Uresis:** volumen urinario horario medido con sonda; menos de 0,5 mL/kg por hora indica hipoperfusión.
+- **Glasgow:** la alteración del estado de alerta es un dato de hipoperfusión (sección 3.7).
+- **Presión de pulso:** PAS menos PA diastólica; se registra y se sigue su tendencia junto con la PA.
+- **Llenado capilar:** tiempo de recoloración del lecho ungueal después de presionarlo; se alarga en la hipoperfusión, y la GPC del IMSS de choque usa como umbral más de 3 segundos.
+- **PA:** PAS menor de 90 mmHg o caída de más del 30% respecto de la basal.
 
 ## 3. Choque anafiláctico: tratamiento
 
@@ -139,9 +126,9 @@ La adrenalina es **el único tratamiento que salva la vida** y se aplica de inme
 
 **Ejemplos de cálculo.** Adulto de 70 kg: 0,01 × 70 = 0,7 mg, que supera el máximo, por lo que se aplican **0,5 mg (0,5 mL)**. Niño de 20 kg: 0,01 × 20 = **0,2 mg (0,2 mL)**. Con la rúbrica, el alumno debe además **verificar que la persona encargada aplique la dosis correcta en el sitio y el ángulo correctos**.[^rub]
 
-### 3.2 Posición y retiro del desencadenante
+### 3.2 Posición, desencadenante y monitorización
 
-Se retira el desencadenante si es posible (por ejemplo, se suspende la infusión del fármaco sospechoso). La paciente se coloca en decúbito supino con las piernas elevadas, o sentada si tiene dificultad respiratoria, y no debe ponerse de pie bruscamente.[^wao]
+Se retira el desencadenante si es posible (por ejemplo, se suspende la infusión del fármaco sospechoso). La paciente se coloca en decúbito supino con las piernas elevadas, o sentada si tiene dificultad respiratoria, y no debe ponerse de pie bruscamente. Los signos vitales y el estado cardiorrespiratorio se vigilan de forma frecuente y, de preferencia, continua, con monitor y oxímetro de pulso.[^wao]
 
 ### 3.3 A: vía aérea y oxígeno
 
@@ -160,7 +147,7 @@ Las sibilancias aisladas después de la exposición a un desencadenante conocido
 
 ### 3.5 C: circulación
 
-- **Hipoperfusión:** piel fría y pálida, llenado capilar lento, taquicardia, hipotensión y alteración del estado de alerta (Tabla 4).[^gpchem]
+- **Hipoperfusión:** piel fría y pálida, llenado capilar lento, taquicardia, hipotensión y alteración del estado de alerta (sección 2.5).[^gpchem]
 - **Dos vías periféricas:** la rúbrica pide explicar que **una es para soluciones y otra para medicamentos de alto riesgo** en caso de necesitarlos (por ejemplo, la infusión de adrenalina). Si no se logra el acceso IV, se usa el IO.[^rub][^aaaai2023]
 - **Líquidos:** cristaloides si hay hipotensión. La guía de la Organización Mundial de Alergia indica en el adulto de 1 a 2 L de solución salina al 0,9% de forma rápida, con 5 a 10 mL/kg en los primeros 5 a 10 minutos, y 10 mL/kg en el niño.[^wao][^rcuk]
 - **Sonda urinaria:** para medir la uresis horaria, que guía la reanimación.[^rub]
@@ -169,40 +156,20 @@ Las sibilancias aisladas después de la exposición a un desencadenante conocido
 
 Se toman al mismo tiempo que se canaliza, sin retrasar el tratamiento. La rúbrica pide los seis estudios:[^rub][^d2]
 
-**Tabla 5. Laboratorios de la anafilaxia**[^rub][^d2]
-
-| Estudio | Para qué sirve |
-|------------------|------------------------------------------------|
-| Gasometría | Oxigenación, ventilación y acidosis por hipoperfusión |
-| Triptasa sérica | Apoya el diagnóstico de forma retrospectiva; muestra ideal entre 15 minutos y 3 horas después del inicio; una triptasa normal no descarta la anafilaxia; la basal se mide al recuperarse |
-| Histamina plasmática | Alcanza su máximo a los 5 a 15 minutos y vuelve a la basal en 60 minutos; solo es útil en las reacciones intrahospitalarias y requiere un manejo especial de la muestra |
-| Biometría hemática | Valoración basal |
-| Química sanguínea | Glucosa y función renal |
-| Electrolitos séricos | Alteraciones que agravan las arritmias |
+- **Gasometría:** oxigenación, ventilación y acidosis por hipoperfusión.
+- **Triptasa sérica:** apoya el diagnóstico de forma retrospectiva; la muestra ideal se toma entre 15 minutos y 3 horas después del inicio; una triptasa normal no descarta la anafilaxia; la basal se mide cuando la paciente se recupera.
+- **Histamina plasmática:** alcanza su máximo a los 5 a 15 minutos y vuelve a la basal en 60 minutos, de modo que solo es útil en las reacciones intrahospitalarias, y requiere un manejo especial de la muestra.
+- **Biometría hemática:** valoración basal.
+- **Química sanguínea:** glucosa y función renal.
+- **Electrolitos séricos:** alteraciones que agravan las arritmias.
 
 ### 3.7 D: estado neurológico
 
-Se valora la escala de Glasgow y se **revalora cada 5 minutos**, como pide la rúbrica, junto con los signos vitales.[^rub] Un Glasgow de 8 o menos es criterio de vía aérea definitiva (sección 3.9).[^sri]
+Se valora la escala de Glasgow y se **revalora cada 5 minutos**, como pide la rúbrica, junto con los signos vitales.[^rub] Un Glasgow de 8 o menos es criterio de vía aérea definitiva (sección 3.9).[^sri] La escala suma tres componentes, de 3 a 15 puntos:[^gpchem]
 
-**Tabla 6. Escala de coma de Glasgow**[^gpchem]
-
-| Componente | Respuesta | Puntos |
-|----------------|------------------------------------------------------|------|
-| Apertura ocular | Espontánea | 4 |
-| Apertura ocular | A la orden verbal | 3 |
-| Apertura ocular | Ante un estímulo doloroso | 2 |
-| Apertura ocular | Ausente | 1 |
-| Respuesta verbal | Orientada | 5 |
-| Respuesta verbal | Confusa | 4 |
-| Respuesta verbal | Palabras inapropiadas | 3 |
-| Respuesta verbal | Sonidos incomprensibles | 2 |
-| Respuesta verbal | Ausente | 1 |
-| Respuesta motora | Obedece órdenes | 6 |
-| Respuesta motora | Localiza el estímulo doloroso | 5 |
-| Respuesta motora | Retira el segmento ante el dolor | 4 |
-| Respuesta motora | Flexión anormal | 3 |
-| Respuesta motora | Extensión anormal | 2 |
-| Respuesta motora | Ausente | 1 |
+- **Apertura ocular (1 a 4):** espontánea, 4; a la orden verbal, 3; ante un estímulo doloroso, 2; ausente, 1.
+- **Respuesta verbal (1 a 5):** orientada, 5; confusa, 4; palabras inapropiadas, 3; sonidos incomprensibles, 2; ausente, 1.
+- **Respuesta motora (1 a 6):** obedece órdenes, 6; localiza el estímulo doloroso, 5; retira el segmento ante el dolor, 4; flexión anormal, 3; extensión anormal, 2; ausente, 1.
 
 ### 3.8 E: exploración completa
 
@@ -230,33 +197,22 @@ Se desviste a la paciente y se explora de la cabeza a los pies, porque los signo
 1. **Preparación:** equipo de aspiración, oxígeno, laringoscopio, tubos de varios calibres (incluidos más pequeños), fármacos, monitorización y plan de vía aérea quirúrgica.
 2. **Preoxigenación:** oxígeno al 100% con mascarilla con reservorio durante 3 a 5 minutos.
 3. **Pretratamiento** (opcional).
-4. **Parálisis con inducción:** inductor y relajante neuromuscular en bolo.
+4. **Parálisis con inducción:** un inductor y un relajante neuromuscular en bolo.
 5. **Posición y protección** de la vía aérea.
 6. **Colocación con comprobación:** la capnografía es el estándar para confirmar la posición del tubo.
 7. **Manejo posintubación:** sedación, analgesia y ventilación.
 
-**Tabla 7. Fármacos de la SRI**[^sri]
-
-| Fármaco | Dosis IV |
-|------------------|------------------------------------------------|
-| Ketamina (inductor) | 1 a 2 mg/kg |
-| Etomidato (inductor) | 0,3 mg/kg; se reduce en el paciente hipotenso |
-| Rocuronio (relajante) | 0,6 a 1,2 mg/kg |
-| Succinilcolina (relajante) | 1 a 1,5 mg/kg |
+**Fármacos.** Como inductor se usa ketamina, 1 a 2 mg/kg IV, o etomidato, 0,3 mg/kg IV, con una dosis menor en la paciente hipotensa. Como relajante, rocuronio, 0,6 a 1,2 mg/kg IV, o succinilcolina, 1 a 1,5 mg/kg IV.[^sri]
 
 **En la anafilaxia, la vía aérea es difícil.** La intubación la hace la persona con más experiencia, con tubos de menor calibre disponibles. Si no se puede intubar ni oxigenar, se hace una **cricotiroidotomía** sin demora.[^sri]
 
 ### 3.10 Anafilaxia refractaria y fármacos complementarios
 
-**Tabla 8. Tratamiento después de la adrenalina IM**[^aaaai2023][^rcuk][^d2][^adyuvantes]
-
-| Situación o fármaco | Conducta |
-|------------------------|------------------------------------------------|
-| Anafilaxia refractaria (persiste tras 2 o 3 dosis IM) | Infusión IV de adrenalina: en el adulto de unos 2 a 10 µg/min, ajustada a la PA, la FC y la oxigenación; en el niño desde 0,1 µg/kg/min |
-| Paciente con betabloqueador que no responde | Glucagón, 1 a 5 mg IV en 5 minutos y luego 5 a 15 µg/min |
-| Broncoespasmo persistente | Salbutamol nebulizado, 2,5 a 5 mg |
-| Antihistamínicos | Complementarios, para el prurito y la urticaria: difenhidramina 25 a 50 mg IV; famotidina 20 mg IV. Nunca sustituyen a la adrenalina |
-| Glucocorticoides | No se usan de rutina; no han demostrado prevenir la reacción bifásica |
+- **Anafilaxia refractaria** (persiste tras dos o tres dosis IM): infusión IV de adrenalina, en el adulto de unos 2 a 10 µg/min, ajustada a la PA, la FC y la oxigenación, y en el niño desde 0,1 µg/kg/min.[^aaaai2023]
+- **Paciente con betabloqueador que no responde:** glucagón, 1 a 5 mg IV en 5 minutos y luego 5 a 15 µg/min.[^aaaai2023]
+- **Broncoespasmo persistente:** salbutamol nebulizado, 2,5 a 5 mg.[^adyuvantes]
+- **Antihistamínicos:** complementarios, para el prurito y la urticaria: difenhidramina, 25 a 50 mg IV, y famotidina, 20 mg IV. Nunca sustituyen a la adrenalina.[^adyuvantes][^rcuk][^d2]
+- **Glucocorticoides:** no se usan de rutina, porque no han demostrado prevenir la reacción bifásica.[^rcuk][^adyuvantes]
 
 ### 3.11 Observación y egreso
 
@@ -273,18 +229,16 @@ Ante una paciente que no responde y no respira o solo jadea, se comprueba el pul
 
 ### 4.2 RCP de alta calidad
 
-**Tabla 9. Componentes de la RCP de alta calidad en el adulto**[^d1]
+La RCP de alta calidad tiene estos componentes:[^d1]
 
-| Componente | Meta |
-|------------------|------------------------------------------------|
-| Frecuencia | 100 a 120 compresiones por minuto |
-| Profundidad | Al menos 5 cm, con expansión completa del tórax |
-| Interrupciones | Mínimas, solo para analizar el ritmo y descargar |
-| Cambio de compresor | Cada 2 minutos o antes si está cansado |
-| Sin vía aérea avanzada | 30 compresiones y 2 ventilaciones con BVM |
-| Con vía aérea avanzada | 1 ventilación cada 6 segundos (10 por minuto) con compresiones continuas |
-| Ventilación | Sin exceso |
-| Calidad | Si el ETCO2 es bajo o disminuye, se revalúa la calidad; meta de al menos 10 mmHg, idealmente 20 mmHg o más |
+- **Frecuencia:** 100 a 120 compresiones por minuto.
+- **Profundidad:** al menos 5 cm, permitiendo la expansión completa del tórax.
+- **Interrupciones:** mínimas, solo para analizar el ritmo y descargar.
+- **Cambio del compresor:** cada 2 minutos, o antes si está cansado.
+- **Sin vía aérea avanzada:** 30 compresiones y 2 ventilaciones con BVM.
+- **Con vía aérea avanzada:** 1 ventilación cada 6 segundos (10 por minuto) con compresiones continuas.
+- **Ventilación:** sin exceso.
+- **Control de la calidad:** si el ETCO2 es bajo o disminuye, se revalúa la calidad; la meta es de al menos 10 mmHg, idealmente 20 mmHg o más.
 
 ### 4.3 Ritmo, descarga y revaloración
 
@@ -296,15 +250,11 @@ Ante una paciente que no responde y no respira o solo jadea, se comprueba el pul
 
 ### 4.4 Fármacos y tiempos
 
-**Tabla 10. Fármacos del paro cardiaco del adulto**[^d1]
+- **Adrenalina IV o IO, 1 mg cada 3 a 5 minutos.** En el ritmo no desfibrilable se administra **lo antes posible** (la rúbrica dice "tras el primer ciclo"). En el desfibrilable, **después de que fallan las primeras descargas** (la rúbrica dice "tras la 2.ª descarga").[^d1][^rub]
+- **Amiodarona IV o IO, 300 mg en bolo y una segunda dosis de 150 mg,** en el ritmo desfibrilable refractario (la rúbrica dice "tras la 3.ª descarga").[^d1][^rub]
+- **Lidocaína IV o IO, 1 a 1,5 mg/kg y luego 0,5 a 0,75 mg/kg,** como alternativa a la amiodarona.[^d1]
 
-| Fármaco | Dosis | Momento |
-|------------------|------------------------------|------------------------------------|
-| Adrenalina IV o IO | 1 mg cada 3 a 5 minutos | Ritmo no desfibrilable: lo antes posible (después del primer ciclo, según la rúbrica). Ritmo desfibrilable: después de que fallan las primeras descargas (después de la 2.ª, según la rúbrica) |
-| Amiodarona IV o IO | 300 mg en bolo; segunda dosis de 150 mg | Ritmo desfibrilable refractario (después de la 3.ª descarga, según la rúbrica) |
-| Lidocaína IV o IO (alternativa) | 1 a 1,5 mg/kg; luego 0,5 a 0,75 mg/kg | La misma indicación que la amiodarona |
-
-El acceso IV se intenta primero, y el IO se usa si el IV fracasa o no es factible.[^d1]
+El acceso IV se intenta primero, y el IO se usa si el IV fracasa o no es factible. Quien toma el tiempo anuncia cuándo toca la siguiente dosis.[^d1][^rub]
 
 ![Algoritmo de paro cardiaco en adultos de la AHA 2020, con las ramas de FV o TVSP y de asistolia o AESP, y sus recuadros de calidad de la RCP, energía de descarga, farmacoterapia, manejo avanzado de la vía aérea, signos de RCE y causas reversibles.[^d1]](../assets/rcp_algoritmo_paro_adulto_aha2020.png)
 
@@ -352,7 +302,7 @@ Los escenarios se ensayan en voz alta, anunciando cada paso y cada tiempo.
 
 1. **Identificación:** anafilaxia (afección cutánea con compromiso respiratorio y circulatorio, de inicio agudo) con choque distributivo; índice de choque de 1,6.
 2. **Adrenalina IM inmediata:** 0,01 × 60 = 0,6 mg, que supera el máximo, por lo que se aplican **0,5 mg (0,5 mL de la solución de 1 mg/mL)** en el vasto lateral a 90°, verificando la aplicación; repetir a los 5 a 15 minutos si no mejora.
-3. **Retirar el antibiótico** y colocar a la paciente en decúbito supino con las piernas elevadas, o sentada si la disnea empeora.
+3. **Retirar el antibiótico,** monitorizar y colocar a la paciente en decúbito supino con las piernas elevadas, o sentada si la disnea empeora.
 4. **A:** vía aérea permeable con disfonía; mascarilla con reservorio a 15 L/min.
 5. **B:** inspección, palpación, percusión y auscultación (sibilancias).
 6. **C:** dos vías periféricas (soluciones y fármacos de alto riesgo), carga rápida de solución salina, sonda urinaria y laboratorios (gasometría, triptasa, histamina, biometría hemática, química sanguínea y electrolitos).
@@ -363,7 +313,7 @@ Los escenarios se ensayan en voz alta, anunciando cada paso y cada tiempo.
 
 **Planteamiento.** La paciente pierde el pulso; el monitor muestra asistolia.
 
-**Respuesta esperada:** activar el código azul, tabla rígida y designar a quien toma el tiempo; compresiones de 100 a 120 por minuto, de al menos 5 cm, con 30:2 con BVM; ritmo no desfibrilable, sin descarga; **adrenalina 1 mg IV lo antes posible** y cada 3 a 5 minutos; analizar el ritmo cada 2 minutos; intubar y confirmar con capnografía, y después 1 ventilación cada 6 segundos; buscar las H y las T (hipovolemia e hipoxia en la anafilaxia).
+**Respuesta esperada:** activar el código azul, colocar la tabla rígida y designar a quien toma el tiempo; compresiones de 100 a 120 por minuto, de al menos 5 cm, con 30:2 con BVM; ritmo no desfibrilable, sin descarga; **adrenalina 1 mg IV lo antes posible** y cada 3 a 5 minutos; analizar el ritmo cada 2 minutos; intubar y confirmar con capnografía, y después 1 ventilación cada 6 segundos; buscar las H y las T (hipoxia e hipovolemia en la anafilaxia).
 
 ### Escenario 3. Paro en FV
 
@@ -376,6 +326,8 @@ Los escenarios se ensayan en voz alta, anunciando cada paso y cada tiempo.
 **¿Cuál es el tratamiento de primera línea de la anafilaxia?** Adrenalina IM, 0,01 mg/kg de la solución de 1 mg/mL, máximo 0,5 mg en el adulto, en el vasto lateral, repetida cada 5 a 15 minutos.[^wao]
 
 **¿Qué tipo de choque es el anafiláctico?** Distributivo.[^vincent]
+
+**¿Con qué se confunde la anafilaxia?** Con la urticaria o el angioedema aislados, la crisis asmática, el síncope vasovagal y la crisis de pánico.[^d2]
 
 **¿Cómo se calcula el índice de choque?** FC entre PAS; normal de 0,5 a 0,7.[^gpchem][^lebas2014]
 
@@ -407,24 +359,20 @@ Los escenarios se ensayan en voz alta, anunciando cada paso y cada tiempo.
 
 ## 7. Respuestas de la rúbrica que conviene precisar
 
-La rúbrica califica una respuesta concreta. Cuando difiere de la evidencia vigente o tiene un error, lo más seguro es decir la respuesta correcta sin contradecir lo que se califica.
+La rúbrica califica una respuesta concreta. Cuando difiere de la evidencia vigente o tiene un error, lo más seguro es decir la respuesta correcta sin contradecir lo que se califica.[^rub][^wao][^d1][^aha2025]
 
-**Tabla 11. Respuestas esperadas y su precisión**[^rub][^wao][^d1][^aha2025][^rcuk][^aaaai2023]
-
-| Criterio | Respuesta de la rúbrica | Precisión | Cómo decirlo |
-|------------|----------------------|------------------------------|------------------------------|
-| Anafilaxia 5 | "Dosis máxima de 0,5 mg/kg" | La dosis máxima es de 0,5 mg en total en el adulto (0,3 mg en el niño) | "0,01 mg/kg, máximo 0,5 mg" |
-| Anafilaxia 6 | Mascarilla con reservorio a 15 L/min | Las guías indican oxígeno a flujo alto sin fijar el dispositivo | Dar la respuesta de la rúbrica con su justificación |
-| Anafilaxia 10 | Histamina entre los laboratorios | Solo es útil en los primeros 60 minutos y requiere un manejo especial | Pedirla y explicar su ventana |
-| RCP 5 y 10 | Ritmo durante 5 segundos; revaloración de 5 a 10 segundos | La AHA limita la pausa a no más de 10 segundos | "Analizo el ritmo sin pasar de 10 segundos" |
-| RCP 11 | Adrenalina tras la 2.ª descarga o tras el primer ciclo | La AHA dice "después de que fallan las primeras descargas" y "lo antes posible" | Decir ambas formulaciones |
-| RCP 15 | Cuidados posparo | Las guías de 2025 cambiaron el control de la temperatura a 32 °C a 37,5 °C durante al menos 36 horas | Dar las metas de 2020 y el cambio de 2025 |
+- **Anafilaxia, criterio 5 (dosis máxima).** La rúbrica escribe "0,5 mg/kg"; la dosis máxima es de 0,5 mg en total en el adulto y de 0,3 mg en el niño. Se dice: "0,01 mg/kg, máximo 0,5 mg".
+- **Anafilaxia, criterio 6 (oxígeno).** La rúbrica pide la mascarilla con reservorio a 15 L/min; las guías indican oxígeno a flujo alto sin fijar el dispositivo. Se da la respuesta de la rúbrica con su justificación.
+- **Anafilaxia, criterio 10 (histamina).** Solo es útil en los primeros 60 minutos y requiere un manejo especial de la muestra. Se pide y se explica su ventana.
+- **RCP, criterios 5 y 10 (análisis del ritmo).** La rúbrica habla de 5 segundos y de 5 a 10 segundos; la AHA limita la pausa a no más de 10 segundos. Se dice: "Analizo el ritmo sin pasar de 10 segundos".
+- **RCP, criterio 11 (adrenalina).** La rúbrica dice "tras la 2.ª descarga" y "tras el primer ciclo"; la AHA dice "después de que fallan las primeras descargas" y "lo antes posible". Se dicen ambas formulaciones.
+- **RCP, criterio 15 (posparo).** Las guías de 2025 cambiaron el control de la temperatura a 32 °C a 37,5 °C durante al menos 36 horas. Se dan las metas de 2020 y el cambio de 2025.
 
 ## 8. Contenido de segundo plano
 
 Los siguientes temas pertenecen al especialista. En la estación basta con reconocerlos en una frase:
 
-- **Anafilaxia en la paciente con betabloqueador:** puede no responder a la adrenalina; se usa glucagón (Tabla 8).[^aaaai2023]
+- **Anafilaxia en la paciente con betabloqueador:** puede no responder a la adrenalina; se usa glucagón (sección 3.10).[^aaaai2023]
 - **Desfibrilación secuencial doble y cambio de vector:** su utilidad no se ha establecido.[^d1][^aha2025]
 - **Paro en la embarazada:** desplazamiento uterino a la izquierda y cesárea perimortem a los 5 minutos; se desarrolla en el tema de RCP.[^d1]
 - **Neuropronóstico multimodal:** no antes de 72 horas después de la normotermia.[^d1]
@@ -432,16 +380,12 @@ Los siguientes temas pertenecen al especialista. En la estación basta con recon
 
 ## 9. Plan de estudio de dos días
 
-**Tabla 12. Distribución del estudio**
-
-| Bloque | Contenido | Resultado al terminar |
-|------------------|------------------------------|------------------------------------------|
-| Día 1, mañana | Secciones 1 y 2 | Recitar SAMPLE, los criterios diagnósticos y los parámetros de choque sin omitir uno |
-| Día 1, tarde | Secciones 3.1 a 3.8 | Calcular la adrenalina para tres pesos distintos y narrar el ABCDE completo |
-| Día 1, noche | Secciones 3.9 a 3.11 | Recitar los criterios de SRI, las 7 P y los fármacos |
-| Día 2, mañana | Sección 4 | Narrar ambas ramas del algoritmo con energías, fármacos y tiempos; recitar las H y las T y los signos de RCE |
-| Día 2, tarde | Secciones 5 y 6 | Ensayar los tres escenarios con cronómetro, alternando el papel de líder |
-| Día 2, noche | Tablas 1, 2 y 11 | Repaso final de los criterios de ambas estaciones y de las precisiones |
+- **Día 1, mañana (secciones 1 y 2):** recitar SAMPLE, los criterios diagnósticos, el diferencial y los parámetros de choque sin omitir uno.
+- **Día 1, tarde (secciones 3.1 a 3.8):** calcular la adrenalina para tres pesos distintos y narrar el ABCDE completo.
+- **Día 1, noche (secciones 3.9 a 3.11):** recitar los criterios de SRI, las 7 P y los fármacos.
+- **Día 2, mañana (sección 4):** narrar ambas ramas del algoritmo con energías, fármacos y tiempos; recitar las H y las T y los signos de RCE.
+- **Día 2, tarde (secciones 5 y 6):** ensayar los tres escenarios con cronómetro, alternando el papel de líder.
+- **Día 2, noche (Tablas 1 y 2, y sección 7):** repaso final de los criterios de ambas estaciones y de las precisiones.
 
 Conviene ensayar los cálculos en voz alta, porque el criterio de la adrenalina se pierde si no se muestra el cálculo por peso.
 

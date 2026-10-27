@@ -298,6 +298,8 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 8. Tabla de respuestas de la rúbrica que conviene precisar: la respuesta que califica la rúbrica, su precisión vigente y cómo decir ambas en una frase.
 9. Contenido de segundo plano y plan de estudio de dos días.
 
+**Tablas.** En las guías ECOE solo se usa la tabla de criterios de la rúbrica (una por estación). El resto de la información (siglas, criterios, escalas, fármacos, precisiones, plan de estudio) va en párrafos o en listas de un solo nivel. Una tabla adicional solo se admite si da una ventaja imposible de obtener con otro formato, y la auditoría registra el motivo.
+
 **Archivos.** Los archivos van en `N. TEMA/ECOE/`: la guía (`GUIA_ECOE_<TEMA>.md`), su PDF, `AUDITORIA_ECOE.md` y `assets/` para las figuras nuevas. Las figuras del tema se reutilizan con rutas `../assets/`.
 
 **Herramientas.**
@@ -336,3 +338,5 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 - **Se cuentan los criterios de la rúbrica:** la de choque anafiláctico numera 13 pero omite el 7, lo que reduce el margen real a dos criterios. Se informa al alumno.
 - **Errores de dosis en la rúbrica:** se corrigen de forma explícita y visible ("0,5 mg/kg" en lugar de 0,5 mg), porque repetirlos sería peligroso.
 - **Prácticas con varias estaciones:** si una práctica de la rúbrica tiene más de una estación y el tema las cubre, la guía las reúne y la respuesta final lo dice.
+- **Tablas:** a petición del usuario, la guía se rehízo sin tablas salvo las de la rúbrica. Las escalas (Glasgow) y las listas de fármacos se leen bien como listas de un solo nivel con el puntaje o la dosis en la misma línea.
+- **Revisión de completitud:** antes de dar una guía por terminada se revisa también lo que la rúbrica no pide pero la práctica exige. En esta guía faltaban el diagnóstico diferencial y la monitorización continua.

@@ -60,7 +60,12 @@ Registro de la verificación aplicada a `GUIA_ECOE_ANAFILAXIA_RCP.md`. La guía 
 
 ## 7. Diseño
 
-- El PDF tiene 20 páginas y se compiló con `ENLACES=1`.
+- El PDF tiene 19 páginas y se compiló con `ENLACES=1`.
+- **Revisión de formato a petición del usuario:** se eliminaron todas las tablas salvo las dos de criterios de la rúbrica (Tablas 1 y 2). Las siglas, los criterios diagnósticos, los parámetros de choque, los laboratorios, la escala de Glasgow, los fármacos de la SRI, el tratamiento complementario, la RCP de alta calidad, los fármacos del paro, las precisiones de la rúbrica y el plan de estudio pasaron a párrafos o a listas de un solo nivel, sin cambiar su contenido.
+
+## 7.1 Revisión de completitud
+
+Al revisar la guía contra ambas rúbricas y contra la práctica de urgencias se añadieron dos contenidos que faltaban: el diagnóstico diferencial de la anafilaxia (urticaria o angioedema aislados, crisis asmática, síncope vasovagal, crisis de pánico y otras causas de choque; d2) y la monitorización continua de los signos vitales y del estado cardiorrespiratorio (WAO 2011).
 
 ## 8. Limitaciones de la verificación
 
