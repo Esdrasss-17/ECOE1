@@ -323,3 +323,10 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 - **Tratamientos de la rúbrica sin respaldo en guías** (nitrofurazona): se transcriben como respuesta de la rúbrica y se dice expresamente que no figuran en las guías revisadas, sin inventar un esquema alternativo.
 - **Factores de riesgo de la rúbrica con evidencia débil:** se conservan en la tabla con una columna de respaldo, para que el alumno empiece por los sólidos.
 - **Secciones que repiten tablas:** se eliminan antes de compilar.
+
+### 20.3 Lecciones aprendidas en la guía ECOE de trabajo de parto
+
+- **Estaciones de procedimiento:** la guía se organiza por bloques de la técnica (preparación estéril, campo, expulsivo, alumbramiento y cierre). Cada paso se escribe como una acción que se anuncia en voz alta, porque el evaluador califica lo que ve y lo que oye.
+- **Pasos sin fuente clínica verificable** (asepsia "en calzoncillo", orden de los campos): se transcriben de la rúbrica y se citan como tal, sin inventar un respaldo.
+- **Fuentes docentes de menor jerarquía** (manuales universitarios, revistas de enfermería): se aceptan para técnicas que las guías no describen, se citan sin autor si no se identifica y la auditoría registra su nivel.
+- **Criterios que se solapan** (la oxitocina aparece en los criterios 13 y 18): la guía propone una forma de anunciarlos que cumpla ambos sin duplicar la dosis.
