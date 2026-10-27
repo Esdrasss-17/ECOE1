@@ -314,3 +314,4 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 - **Notas que agrupan varias fuentes sin datos editoriales:** no se admiten. Se separan en referencias identificables o se retiran.
 - **Imágenes que la estación muestra y no se pueden verificar** (el frotis de carcinoma epidermoide): se sustituyen por una tabla de rasgos y una respuesta modelo.
 - **Figuras con muchos paneles:** con 15 puntos y 10 pulgadas de ancho, la letra quedaba en unos 8,6 puntos al 82% del ancho de la página; con la clase `ancho` sube a unos 10,5.
+- **Navegación del PDF:** con `ENLACES=1` antes de `compilar_pdf.sh` se añaden índice, marcadores, enlaces a secciones y tablas, regreso de cada referencia a su primera cita y un botón "Índice" en cada página (`enlaces_html.py` y `boton_indice.py`). Un botón de "regresar al último sitio" no funciona en Vista Previa de Mac, que no ejecuta esas acciones; ahí se usa Cmd + [.
