@@ -330,3 +330,9 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 - **Pasos sin fuente clínica verificable** (asepsia "en calzoncillo", orden de los campos): se transcriben de la rúbrica y se citan como tal, sin inventar un respaldo.
 - **Fuentes docentes de menor jerarquía** (manuales universitarios, revistas de enfermería): se aceptan para técnicas que las guías no describen, se citan sin autor si no se identifica y la auditoría registra su nivel.
 - **Criterios que se solapan** (la oxitocina aparece en los criterios 13 y 18): la guía propone una forma de anunciarlos que cumpla ambos sin duplicar la dosis.
+
+### 20.4 Lecciones aprendidas en la guía ECOE de choque anafiláctico y RCP
+
+- **Se cuentan los criterios de la rúbrica:** la de choque anafiláctico numera 13 pero omite el 7, lo que reduce el margen real a dos criterios. Se informa al alumno.
+- **Errores de dosis en la rúbrica:** se corrigen de forma explícita y visible ("0,5 mg/kg" en lugar de 0,5 mg), porque repetirlos sería peligroso.
+- **Prácticas con varias estaciones:** si una práctica de la rúbrica tiene más de una estación y el tema las cubre, la guía las reúne y la respuesta final lo dice.
