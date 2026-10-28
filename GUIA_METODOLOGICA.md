@@ -353,3 +353,7 @@ Convertir una tabla en texto no es copiar sus celdas en una lista. Cada celda br
 ### 20.7 Guías sin rúbrica
 
 Cuando el tema no tiene práctica en el documento de rúbricas, la guía lo dice en su primera sección y presenta una lista de verificación propuesta, construida con el patrón de las estaciones de consulta del mismo examen y declarada como no oficial. Va como lista numerada, no como tabla. La sección de precisiones de la rúbrica se sustituye por las diferencias entre las fuentes mexicanas y las internacionales que pueden aparecer en la estación.
+
+### 20.8 Guías que integran varios temas
+
+Cuando una guía reúne varios temas, como la de aborto, hemorragia obstétrica y RCTG, se organiza alrededor de un eje común (en ese caso, la edad gestacional y las dos pacientes, la madre y el feto) y no como la suma de tres guías. El abordaje compartido se escribe una sola vez, cada tema conserva su sección y una sección propia explica cómo se relacionan: fármacos cuya dosis o utilidad cambia con la edad gestacional, riesgos que pasan de un tema a otro y medidas que tienen objetivos distintos en cada uno. Las claves de las referencias llevan el prefijo de su tema (por ejemplo, `ab1`, `hem1` y `rctg1`) para no confundir las fuentes `d1` de cada documento. Las imágenes de otros temas se copian a la carpeta `assets` de la guía, porque `preparar_md.py` solo reescribe las rutas que empiezan con `assets/` o `../assets/`. Las rúbricas de otras prácticas pueden aportar criterios trasladables, como los parámetros del choque de la práctica 11, y se citan como tales.
