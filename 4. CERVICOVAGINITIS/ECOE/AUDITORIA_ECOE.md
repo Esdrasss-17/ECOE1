@@ -87,3 +87,13 @@ Al revisar la guía contra la rúbrica y contra lo que exige una consulta prenat
 - El acceso directo a las webs está bloqueado; todo se verificó con el buscador y con fragmentos. No se leyeron íntegras las guías de los CDC de 2021.
 - La revaloración de la tricomoniasis antes de 3 meses y la recomendación de evitar el alcohol con el metronidazol proceden de d1; no se confirmaron en el texto de los CDC.
 - Los datos bibliográficos completos de Foxman 1990, Reed 1992 y Liang 2019 se confirmaron solo en parte (título, revista y año).
+
+## Versión 2 (`GUIA_ECOE2_CERVICOVAGINITIS.md`)
+
+- **Motivo:** la versión 1 giraba en torno al caso de la rúbrica (tricomoniasis a las 22 semanas) y trataba las demás causas solo en la medida en que la rúbrica las preguntaba. La versión 2 desarrolla con la misma profundidad la vaginosis bacteriana, la candidosis (no complicada, complicada, recurrente, por especies distintas de *C. albicans* y en el embarazo), la tricomoniasis y la cervicitis por *Chlamydia* y gonococo, fuera y dentro del embarazo, y las resuelve en nueve casos (rúbrica, VB fuera y dentro del embarazo, CVV no complicada, recurrente en la diabética y en el embarazo, cervicitis fuera y dentro del embarazo y cuerpo extraño).
+- **Límite de contenido:** por indicación del usuario, la guía no sale de los temas que desarrollan los documentos .md principales: el del tema 4 (todas las entidades, pruebas, tratamientos y discrepancias), el del tema 3 (control prenatal, FPP, estudios, ecografías y vacunas) y la técnica del espejo del manual de citología del tema 9. Se descartaron la vaginitis atrófica, la vaginitis inflamatoria descamativa y el tratamiento de la enfermedad inflamatoria pélvica, que se habían buscado en fuentes externas. La vaginitis aeróbica se conserva en el nivel que exige la rúbrica (criterio 14), con las mismas fuentes que la versión 1.
+- **Tablas:** solo la de la rúbrica.
+- **Frases retiradas por falta de fuente:** el olor de la VB "sobre todo después del coito", el mecanismo de la disuria en la CVV, los síntomas de la pareja como orientación y el sangrado poscoital como dato de cervicitis (se sustituyó por el sangrado endocervical provocado, que sí está en los CDC).
+- **Autores:** en las referencias con más de tres autores se dejaron los tres primeros y "et al.".
+- **Formato:** 33 páginas, compilada con `ENLACES=1`; el verificador no encontró notas sin definir o sin usar, viñetas anidadas, flechas ni remisiones rotas.
+- La versión 1 se conserva sin cambios.

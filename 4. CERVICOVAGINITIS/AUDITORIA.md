@@ -71,3 +71,15 @@ Las fuentes no tratan la gonorrea y tratan la clamidia como "vaginitis". Se comp
 - La definición de candidosis recurrente de los CDC 2021 (3 o más episodios al año) solo se confirmó a través de un consenso de expertos de 2022 que cita esas guías.
 - La recomendación de suspender la lactancia 12 a 24 horas tras el metronidazol procede de d1 y no se confirmó en los CDC 2021.
 - La advertencia de evitar el alcohol con el metronidazol se mantiene atribuida a d1; las guías recientes la han matizado, pero no se pudo confirmar su redacción exacta.
+
+## Actualización: coherencia con las guías ECOE
+
+La guía ECOE contenía material del mismo tema que este documento no tenía. Se añadió, sin salir de los temas del documento:
+
+- **Sección 2.2:** preparación, inspección vulvar, técnica de la especuloscopia (manual de toma de citología de la Secretaría de Salud, fuente del tema 9), toma de muestras, hallazgos según la causa y tacto bimanual con los signos de enfermedad inflamatoria pélvica de los CDC 2021.
+- **Sección 1.3:** vaginitis aeróbica (Donders 2002 y la revisión de 2017 sobre el embarazo), que la rúbrica de la ECOE llama "bacterias gramnegativas". La sección de frecuencia pasó a ser la 1.4.
+- **Sección 1.4:** relación de la tricomoniasis con el VIH y de la vaginosis con el VPH (metaanálisis de Masha 2019 y Liang 2019).
+- **Sección 3.4:** seguridad del metronidazol en el embarazo (Struthers 1997) y las dos dosis de la VB en el embarazo (GPC de control prenatal y CDC).
+- **Sección 7:** diagnóstico diferencial en la embarazada (rotura prematura de membranas, infección urinaria y datos de alarma), con la GPC de control prenatal y la NOM-007.
+
+El PDF pasó de 18 a 21 páginas.
