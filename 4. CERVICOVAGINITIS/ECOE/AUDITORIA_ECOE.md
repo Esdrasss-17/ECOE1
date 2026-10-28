@@ -69,7 +69,18 @@ Se añadieron solo los que la estación necesita para cumplir un criterio o para
 
 ## 7. Diseño
 
-- El PDF tiene 26 páginas y se compiló con `ENLACES=1`: índice, marcadores, enlaces internos, regreso desde la bibliografía y botón "Índice" en cada página.
+- El PDF tiene 24 páginas y se compiló con `ENLACES=1`: índice, marcadores, enlaces internos, regreso desde la bibliografía y botón "Índice" en cada página.
+- **Revisión de formato a petición del usuario:** se eliminaron todas las tablas salvo la de criterios de la rúbrica (Tabla 1). Las siglas pasaron a un párrafo, y los antecedentes ginecoobstétricos, el interrogatorio del flujo, las pruebas de consultorio, el diagnóstico diferencial, los factores de riesgo, los laboratorios, las ecografías, los esquemas de tratamiento, las complicaciones, la referencia, las precisiones de la rúbrica y el plan de estudio pasaron a listas de un solo nivel.
+- **Aclaraciones al pasar de tabla a texto:** cada elemento se redactó con su "qué se pregunta" y su "para qué" en la misma oración; se definió "óbito" (muerte fetal); el diagnóstico diferencial pasó a un párrafo por infección con flujo, síntomas, signos, pH, microscopía y conducta con la pareja; se añadió la dosis del clotrimazol (crema al 1%, 5 g al día) y la del miconazol (5 g al día), que la tabla daba solo como duración; se precisó que en la curva de 75 g basta un valor alterado; y se explicó que los dos esquemas de metronidazol para la VB duran 7 días y difieren en la dosis.
+
+## 7.1 Revisión de completitud
+
+Al revisar la guía contra la rúbrica y contra lo que exige una consulta prenatal se añadieron:
+
+- **Diagnóstico diferencial con la secreción fisiológica, la RPM y la infección urinaria** (sección 4.3), con la comprobación del orificio cervical cerrado en la especuloscopia (d1 y GPC de control prenatal).
+- **Seguridad del metronidazol en el embarazo** (sección 7.1): revisión de Struthers (1997), que concluye que no es teratógeno en ningún trimestre; la revisión fue escrita desde una compañía farmacéutica, y una revisión sistemática posterior (Current Drug Safety) y la recomendación de los CDC de usarlo en cualquier trimestre coinciden. Se verificó con fragmentos.
+- **Indicaciones prenatales de la misma consulta** (sección 9.2): hierro y ácido fólico, Td, Tdpa e influenza, próximos estudios y calendario de consultas, tomados del documento del tema 3 (NOM-007, GPC IMSS-028-22, OMS 2016 y CDC 2024).
+- **Dosis de los azoles tópicos:** clotrimazol en crema al 1% y miconazol en crema al 2%, 5 g por vía vaginal al día durante 7 días en el embarazo (CDC 2021, verificado con fragmentos; una tabla comparativa atribuye a los CDC una duración de 7 a 14 días para el miconazol, y la guía conserva los 7 días que piden los CDC en el embarazo).
 
 ## 8. Limitaciones de la verificación
 

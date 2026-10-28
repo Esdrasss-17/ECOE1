@@ -7,18 +7,7 @@ lang: es
 
 **Estación de consulta con caso clínico · Primer y segundo nivel de atención**
 
-**Siglas de uso frecuente.** Cada sección desarrolla los términos en su primera mención; las siglas se reservan para las menciones siguientes.
-
-| Sigla | Significado | Sigla | Significado |
-|---|---|---|---|
-| FUM | Fecha de la última menstruación | FPP | Fecha probable de parto |
-| SDG | Semanas de gestación | AGO | Antecedentes ginecoobstétricos |
-| AHF, APP, APNP | Antecedentes heredofamiliares, personales patológicos y personales no patológicos | IVSA | Inicio de la vida sexual activa |
-| MPF | Método de planificación familiar | ITS | Infección de transmisión sexual |
-| VB | Vaginosis bacteriana | CVV | Candidosis vulvovaginal |
-| KOH | Hidróxido de potasio | NAAT | Prueba de amplificación de ácidos nucleicos |
-| VIH | Virus de la inmunodeficiencia humana | VPH | Virus del papiloma humano |
-| RPM | Rotura prematura de membranas | GPC | Guía de práctica clínica |
+**Siglas de uso frecuente.** Cada sección desarrolla los términos en su primera mención; las siglas se reservan para las menciones siguientes. FUM: fecha de la última menstruación. FPP: fecha probable de parto. SDG: semanas de gestación. AHF, APNP y APP: antecedentes heredofamiliares, personales no patológicos y personales patológicos. AGO: antecedentes ginecoobstétricos. IVSA: inicio de la vida sexual activa. MPF: método de planificación familiar. ITS: infección de transmisión sexual. VB: vaginosis bacteriana. CVV: candidosis vulvovaginal. KOH: hidróxido de potasio. NAAT: prueba de amplificación de ácidos nucleicos. VIH: virus de la inmunodeficiencia humana. VPH: virus del papiloma humano. RPM: rotura prematura de membranas. GPC: guía de práctica clínica.
 
 ---
 
@@ -64,9 +53,9 @@ La rúbrica sigue el orden de una consulta prenatal en la que la paciente refier
 3. **Signos vitales y somatometría:** presión arterial, frecuencias cardiaca y respiratoria, temperatura, peso, talla y glucosa capilar.
 4. **Padecimiento actual:** características del flujo, síntomas acompañantes y datos de alarma obstétrica.
 5. **Exploración:** autorización, bata y privacidad; exploración cefalocaudal con la exploración obstétrica del abdomen y, al final, la especuloscopia con la toma del exudado.
-6. **Integración verbal:** factores de riesgo, agentes posibles y diagnóstico.
+6. **Integración verbal:** factores de riesgo, agentes posibles, diagnóstico diferencial y diagnóstico.
 7. **Estudios:** laboratorios del control prenatal con el exudado vaginal, y calendario de ecografías.
-8. **Plan:** tratamiento de la paciente y de la pareja, consejería, datos de alarma y seguimiento.
+8. **Plan:** tratamiento de la paciente y de la pareja, indicaciones prenatales de la consulta, consejería, datos de alarma y seguimiento.
 9. **Preguntas directas:** tratamiento de la candidosis y de las bacterias gramnegativas, complicaciones e ITS relacionadas.
 
 ## 2. Interrogatorio
@@ -83,20 +72,18 @@ El primer criterio se cumple con una presentación completa: saludar a la pacien
 
 ### 2.3 Antecedentes ginecoobstétricos
 
-**Tabla 2. Antecedentes ginecoobstétricos y su utilidad en la estación**[^rub][^d1][^gpcprenatal][^nom007]
+La rúbrica enumera los AGO que deben preguntarse. Cada uno tiene una utilidad en la estación:[^rub][^d1][^gpcprenatal][^nom007]
 
-| Dato | Qué se pregunta | Utilidad |
-|------------------|------------------------------|------------------------------------|
-| Menarca | Edad de la primera menstruación | Dato obligatorio de la historia ginecoobstétrica |
-| Ritmo | Duración del ciclo y del sangrado y regularidad | La FPP por FUM solo es confiable con ciclos regulares de unos 28 días |
-| FUM | Primer día de la última menstruación y si es confiable | Base del cálculo de la FPP y de la edad gestacional (sección 2.4) |
-| Gestas, partos, abortos, cesáreas y óbitos | Número de cada uno y su evolución | Más de 3 embarazos, más de 2 abortos, parto pretérmino o muerte fetal previos son factores de riesgo obstétrico |
-| IVSA | Edad de la primera relación sexual | Historia sexual para estimar el riesgo de ITS |
-| Parejas sexuales y preservativo | Número de parejas, pareja nueva y uso de condón | Las múltiples parejas y no usar preservativo aumentan el riesgo de ITS como la tricomoniasis |
-| MPF | Método previo al embarazo | Completa la historia y orienta la planificación familiar después del parto |
-| Último Papanicolaou | Fecha y resultado | La citología se toma en el embarazo si corresponde por calendario; puede informar tricomonas, *Candida* o vaginosis |
-| Última mastografía | Fecha y resultado | Dato que pide la rúbrica para completar el tamizaje de la mujer |
-| ITS y cervicovaginitis previas | Diagnósticos, número de episodios y tratamientos de la paciente y de la pareja | Una tricomoniasis recurrente obliga a buscar VIH; la CVV de 4 o más episodios al año es recurrente |
+- **Menarca:** edad de la primera menstruación; es un dato obligatorio de la historia ginecoobstétrica.
+- **Ritmo:** duración del ciclo y del sangrado y regularidad. La FPP calculada por la FUM solo es confiable con ciclos regulares de unos 28 días.
+- **FUM:** primer día de la última menstruación y si la paciente está segura de la fecha; es la base del cálculo de la FPP y de la edad gestacional (sección 2.4).
+- **Gestas, partos, abortos, cesáreas y óbitos (muertes fetales):** número de cada uno y su evolución. Más de 3 embarazos, más de 2 abortos, un parto pretérmino previo o una muerte fetal previa son factores de riesgo obstétrico.
+- **IVSA:** edad de la primera relación sexual; forma parte de la historia sexual que estima el riesgo de ITS.
+- **Parejas sexuales y preservativo:** número de parejas, si hay una pareja nueva y si se usa condón. Las múltiples parejas y no usar preservativo aumentan el riesgo de ITS como la tricomoniasis.
+- **MPF:** método que usaba antes del embarazo; completa la historia y orienta la planificación familiar después del parto.
+- **Último Papanicolaou:** fecha y resultado. La citología se toma en el embarazo si corresponde por calendario, y puede informar tricomonas, *Candida* o cambios sugestivos de VB.
+- **Última mastografía:** fecha y resultado; es un dato que pide la rúbrica para completar el tamizaje de la mujer.
+- **ITS y cervicovaginitis previas:** diagnósticos, número de episodios y tratamientos de la paciente y de la pareja. Una tricomoniasis recurrente obliga a buscar VIH, y la CVV con 4 o más episodios al año se considera recurrente.
 
 ### 2.4 Fecha probable de parto y edad gestacional
 
@@ -118,20 +105,16 @@ La línea de tiempo explica dos decisiones del caso: la ecografía estructural (
 
 ### 2.5 Padecimiento actual
 
-La rúbrica pide preguntar por los datos de alarma y caracterizar el flujo (tiempo de evolución, color y olor) y los síntomas relevantes: disuria, dispareunia y prurito vaginal.[^rub] Los síntomas por sí solos no distinguen las causas de vaginitis, pero orientan la exploración y los estudios.[^d1]
+La rúbrica pide preguntar por los datos de alarma y caracterizar el flujo (tiempo de evolución, color y olor) y los síntomas relevantes: disuria, dispareunia y prurito vaginal.[^rub] Los síntomas por sí solos no distinguen las causas de vaginitis, pero orientan la exploración y los estudios. Cada dato se pregunta por lo que sugiere:[^rub][^d1][^d2]
 
-**Tabla 3. Características del flujo y síntomas que se interrogan**[^rub][^d1][^d2]
-
-| Dato | Qué se pregunta | Orientación |
-|------------------|------------------------------|------------------------------------|
-| Tiempo de evolución | Inicio, episodios previos y tratamientos | La recurrencia orienta a CVV recurrente o a reinfección por tricomonas |
-| Cantidad y consistencia | Abundante, fluido, espumoso o grumoso | Espumoso y abundante en la tricomoniasis; grumoso "como requesón" en la candidosis; fluido y homogéneo en la VB |
-| Color | Blanco, grisáceo, amarillo o verdoso | Amarillo-verdoso en la tricomoniasis; blanco o grisáceo en la VB; blanco en la candidosis |
-| Olor | Fétido o "a pescado" | Olor a pescado en la VB; fétido en la tricomoniasis; sin mal olor en la candidosis |
-| Prurito y ardor vulvar | Intensidad y relación con el flujo | Frecuentes en la candidosis |
-| Disuria | Ardor al orinar | Tricomoniasis (uretritis) o candidosis; obliga a descartar infección urinaria |
-| Dispareunia | Dolor con el coito | Tricomoniasis y candidosis |
-| Dolor pélvico | Dolor bajo, fiebre | Tricomoniasis; si hay fiebre o dolor abdominal, descartar una complicación obstétrica |
+- **Tiempo de evolución:** inicio, episodios previos y tratamientos. La recurrencia orienta a CVV recurrente o a reinfección por tricomonas.
+- **Cantidad y consistencia:** el flujo abundante y espumoso orienta a tricomoniasis; el grumoso, "como requesón", a candidosis; el fluido y homogéneo, a VB.
+- **Color:** amarillo-verdoso en la tricomoniasis; blanco o grisáceo en la VB; blanco en la candidosis.
+- **Olor:** "a pescado" en la VB; fétido en la tricomoniasis; sin mal olor en la candidosis.
+- **Prurito y ardor vulvar:** su intensidad y su relación con el flujo; son frecuentes en la candidosis.
+- **Disuria:** aparece en la tricomoniasis (por uretritis) y en la candidosis, y obliga a descartar una infección urinaria.
+- **Dispareunia:** acompaña a la tricomoniasis y a la candidosis.
+- **Dolor pélvico bajo:** puede acompañar a la tricomoniasis; si hay fiebre o dolor abdominal, se descarta una complicación obstétrica.
 
 **Datos de alarma obstétrica.** En la embarazada se interrogan en cada consulta, porque algunas complicaciones de la cervicovaginitis (RPM y parto pretérmino) se manifiestan así:[^nom007][^gpcprenatal]
 
@@ -175,8 +158,9 @@ El criterio 6 pide explicar el procedimiento, hacer la especuloscopia de forma a
 - **Técnica:** espejo de tamaño adecuado, introducido sin lubricante si se van a tomar muestras; se exponen las paredes vaginales y el cuello.[^d1]
 - **Toma de muestras:** el pH se mide con tira sobre la secreción de la pared lateral de la vagina, y se toma el exudado vaginal para el examen en fresco con solución salina y con KOH, y para frotis y cultivo.[^d1][^gpcprenatal]
 - **Descripción del cuello:** en la tricomoniasis el cuello tiene un **puntilleo rojo ("en fresa")**, con flujo abundante, amarillo-verdoso, **espumoso** y fétido. En la cervicitis por *Chlamydia* o gonococo hay un exudado endocervical mucopurulento o un sangrado endocervical que se provoca con facilidad al pasar un hisopo.[^d1][^cdc2021]
+- **Orificio cervical:** se comprueba que esté cerrado y que no salga líquido amniótico, para no confundir una RPM con un flujo.[^gpcprenatal]
 
-**Cómo decirlo:** "Vulva con eritema; paredes vaginales eritematosas con flujo abundante, amarillo-verdoso, espumoso y fétido; cérvix con puntilleo hemorrágico (en fresa), sin sangrado activo ni salida de líquido por el orificio cervical."
+**Cómo decirlo:** "Vulva con eritema; paredes vaginales eritematosas con flujo abundante, amarillo-verdoso, espumoso y fétido; cérvix con puntilleo hemorrágico (en fresa), orificio cervical cerrado, sin sangrado activo ni salida de líquido."
 
 ## 4. Diagnóstico
 
@@ -193,29 +177,28 @@ Las "bacterias gramnegativas" de la rúbrica corresponden a la flora aerobia de 
 
 ### 4.2 Pruebas de consultorio
 
-**Tabla 4. Pruebas de consultorio para el diagnóstico de la vaginitis**[^d1][^d2][^cdc2021]
+Las pruebas que se hacen con la muestra de la especuloscopia orientan el diagnóstico en la misma consulta:[^d1][^d2][^cdc2021]
 
-| Prueba | Técnica | Interpretación |
-|------------|------------------------|------------------------------------|
-| pH vaginal | Tira de pH sobre la secreción de la pared lateral | Normal de 3,5 a 4,5; mayor de 4,5 en la VB y a menudo en la tricomoniasis; normal en la candidosis |
-| Prueba de aminas | KOH al 10% sobre la secreción | Olor a pescado: VB |
-| Examen en fresco con solución salina | Microscopía inmediata | Células clave en la VB; tricomonas móviles en la tricomoniasis, con sensibilidad de alrededor del 60% |
-| Examen en fresco con KOH al 10% | El KOH destruye las células y deja ver los hongos | Levaduras, hifas o pseudohifas: candidosis |
-| Exudado vaginal con frotis y cultivo | Muestra de la pared vaginal enviada al laboratorio | Identifica el agente; el cultivo de *Candida* identifica la especie |
-| NAAT | Muestra vaginal, endocervical u orina | Prueba más sensible para tricomonas, *Chlamydia* y gonococo |
+- **pH vaginal:** se mide con una tira sobre la secreción de la pared lateral. El normal es de 3,5 a 4,5; es mayor de 4,5 en la VB y a menudo en la tricomoniasis, y normal en la candidosis.
+- **Prueba de aminas:** se añade KOH al 10% a la secreción; el olor a pescado indica VB.
+- **Examen en fresco con solución salina:** se observa al microscopio de inmediato. Muestra células clave en la VB y tricomonas móviles en la tricomoniasis, con una sensibilidad de alrededor del 60% para estas.
+- **Examen en fresco con KOH al 10%:** el KOH destruye las células y deja ver los hongos; las levaduras, hifas o pseudohifas indican candidosis.
+- **Exudado vaginal con frotis y cultivo:** la muestra de la pared vaginal se envía al laboratorio para identificar el agente; el cultivo de *Candida* identifica la especie.
+- **NAAT:** en una muestra vaginal, endocervical o de orina, es la prueba más sensible para tricomonas, *Chlamydia* y gonococo.
 
 ### 4.3 Diagnóstico diferencial
 
-**Tabla 5. Diagnóstico diferencial de las vaginitis infecciosas**[^d1][^d2]
+Las tres vaginitis infecciosas se distinguen por el flujo, los síntomas, los signos, el pH y la microscopía, y difieren en si se trata a la pareja:[^d1][^d2]
 
-| Rasgo | Vaginosis bacteriana | Candidosis vulvovaginal | Tricomoniasis |
-|------------|------------------|------------------|------------------|
-| Flujo | Homogéneo, fluido, blanco o grisáceo, con olor a pescado | Blanco, espeso y grumoso, adherente, sin mal olor | Abundante, amarillo-verdoso, espumoso y fétido |
-| Síntomas | Ninguno además del flujo y el olor | Prurito, ardor vulvar, disuria y dispareunia | Disuria, dispareunia y dolor pélvico bajo |
-| Signos | Sin inflamación | Eritema y edema vulvovaginal, fisuras y lesiones satélite | Vaginitis intensa y **cuello en fresa** |
-| pH vaginal | Mayor de 4,5 | Normal | Habitualmente mayor de 4,5 |
-| Microscopía | Células clave; aminas positivas | Levaduras, hifas o pseudohifas | Tricomonas móviles |
-| Pareja | No se trata de rutina | No se trata | Se trata siempre |
+- **Vaginosis bacteriana:** flujo homogéneo, fluido, blanco o grisáceo, con olor a pescado; sin otros síntomas además del flujo y el olor; sin inflamación de la vulva ni de la vagina; pH mayor de 4,5; células clave y prueba de aminas positiva. La pareja no se trata de rutina.
+- **Candidosis vulvovaginal:** flujo blanco, espeso, grumoso y adherente, sin mal olor; prurito, ardor vulvar, disuria y dispareunia; eritema y edema vulvovaginal, fisuras y lesiones satélite; pH normal; levaduras, hifas o pseudohifas. La pareja no se trata.
+- **Tricomoniasis:** flujo abundante, amarillo-verdoso, espumoso y fétido; disuria, dispareunia y dolor pélvico bajo; vaginitis intensa y **cuello en fresa**; pH habitualmente mayor de 4,5; tricomonas móviles. La pareja se trata siempre.
+
+En la embarazada con flujo se descartan además otras tres situaciones:
+
+- **Secreción fisiológica:** varía con los cambios hormonales y no requiere tratamiento; se considera anormal la secreción lechosa o blanquecina, amarillenta, fétida, pruriginosa o con ardor genital.[^d1]
+- **RPM:** la salida de líquido por el orificio cervical no es un flujo; se refiere de inmediato a ginecoobstetricia.[^gpcprenatal]
+- **Infección urinaria:** la disuria puede deberse a ella; se busca con el examen general de orina y el urocultivo (sección 5).[^gpcprenatal]
 
 **Diagnóstico del caso de la rúbrica.** El cuello en fresa con flujo espumoso orienta a tricomoniasis, y el diagnóstico que se califica es **cervicovaginitis por tricomonas**.[^rub] La forma completa de decirlo es: "Embarazo de 22 semanas y 5 días con cervicovaginitis por *Trichomonas vaginalis*". El examen en fresco con tricomonas móviles lo confirma; como su sensibilidad es de alrededor del 60%, un resultado negativo no lo descarta, y la NAAT es la prueba más sensible. Si la citología o el frotis informan tricomonas y no hay prueba confirmatoria, se trata.[^d1][^cdc2021]
 
@@ -227,55 +210,43 @@ El embarazo es el único factor que se ha correlacionado de forma consistente co
 
 ### 4.5 Factores de riesgo
 
-La rúbrica acepta tres de su lista.[^rub] La tabla los relaciona con la infección que favorecen y con el respaldo que tienen, para elegir los más sólidos:
+La rúbrica acepta tres de su lista.[^rub] Para elegir los más sólidos conviene saber qué infección favorece cada factor y qué respaldo tiene:[^rub][^d1][^d2][^reed][^foxman]
 
-**Tabla 6. Factores de riesgo de la cervicovaginitis**[^rub][^d1][^d2][^reed][^foxman]
-
-| Factor | Infección que favorece | Respaldo |
-|------------------------------|------------------|------------------------------------|
-| Duchas vaginales | VB | La GPC aconseja evitarlas; se asocian además a enfermedad inflamatoria pélvica en estudios observacionales |
-| Múltiples parejas sexuales y pareja nueva | Tricomoniasis, VB y cervicitis | Factor de riesgo de ITS y de VB |
-| No usar preservativo | Tricomoniasis y cervicitis | El preservativo previene las ITS y la reinfección |
-| Ropa interior de lycra o ajustada | CVV | La humedad, el calor, la maceración y la fricción favorecen la CVV; los estudios sobre la ropa son contradictorios |
-| Higiene inadecuada | Varias | Factor que enumera la rúbrica; las guías revisadas no lo cuantifican |
-| Coito más de 3 veces por semana | CVV | Un estudio de 1990 encontró más CVV con 7 o más coitos por semana; su papel sigue en discusión |
-| Alimentos ricos en levaduras | CVV | Sin respaldo consistente; el factor dietético demostrado es la hiperglucemia de la diabetes mal controlada |
-| Embarazo | CVV | El único factor correlacionado de forma consistente |
-| Antibióticos, corticoides, diabetes e inmunodepresión | CVV | Factores de la GPC de candidosis |
-| Tabaquismo y cunnilingus receptivo | VB | Factores de la GPC de vaginitis |
+- **Duchas vaginales:** favorecen la VB. La GPC aconseja evitarlas, y en estudios observacionales se asocian además con enfermedad inflamatoria pélvica.
+- **Múltiples parejas sexuales y pareja nueva:** favorecen la tricomoniasis, la VB y la cervicitis; son factor de riesgo de ITS y de VB.
+- **No usar preservativo:** favorece la tricomoniasis y la cervicitis; el preservativo previene las ITS y la reinfección.
+- **Ropa interior de lycra o ajustada:** se atribuye a la CVV, porque la humedad, el calor, la maceración y la fricción la favorecen; los estudios sobre la ropa son contradictorios.
+- **Higiene inadecuada:** es un factor que enumera la rúbrica; las guías revisadas no lo cuantifican.
+- **Coito más de 3 veces por semana:** se atribuye a la CVV; un estudio de 1990 encontró más CVV con 7 o más coitos por semana, y su papel sigue en discusión.
+- **Alimentos ricos en levaduras:** se atribuyen a la CVV, pero no tienen respaldo consistente; el factor dietético demostrado es la hiperglucemia de la diabetes mal controlada.
+- **Embarazo:** es el único factor correlacionado de forma consistente con la CVV.
+- **Antibióticos, corticoides, diabetes e inmunodepresión:** son factores de la CVV según la GPC de candidosis.
+- **Tabaquismo y cunnilingus receptivo:** son factores de la VB según la GPC de vaginitis.
 
 En la estación conviene mencionar primero los de la rúbrica que tienen respaldo (duchas vaginales, múltiples parejas sexuales y no usar preservativo) y añadir el embarazo.
 
 ## 5. Estudios de laboratorio
 
-El criterio 8 se pierde si no se solicita el **exudado vaginal**, que es el estudio dirigido al motivo de consulta. Los demás son los del control prenatal. El evaluador informa como negativos el VIH, el VDRL y la tira reactiva si se solicitan.[^rub]
+El criterio 8 se pierde si no se solicita el **exudado vaginal**, que es el estudio dirigido al motivo de consulta. Los demás son los del control prenatal. El evaluador informa como negativos el VIH, el VDRL y la tira reactiva si se solicitan.[^rub] Cada estudio tiene una finalidad y un momento:[^rub][^gpcprenatal][^nom007]
 
-**Tabla 7. Estudios de laboratorio y su finalidad**[^rub][^gpcprenatal][^nom007]
-
-| Estudio | Finalidad | Interpretación y momento |
-|------------------------|------------------------------|------------------------------------------|
-| **Exudado vaginal** con frotis y cultivo | Identificar el agente de la cervicovaginitis | Se solicita ante leucorrea y prurito vaginal |
-| Biometría hemática | Detectar anemia | Anemia en el segundo trimestre: hemoglobina menor de 10,5 g/dL |
-| Química sanguínea | Glucosa, creatinina y ácido úrico basales | Forma parte del panel de la NOM |
-| Grupo sanguíneo y factor Rh | Prevenir la aloinmunización | En la mujer Rh negativo, Coombs indirecto y, si no está sensibilizada, inmunoglobulina anti-D a las 28 semanas |
-| Examen general de orina | Proteinuria basal y bacteriuria | Ante disuria, orienta a infección urinaria además de la vaginitis |
-| Urocultivo | Bacteriuria asintomática | Sin tratamiento predispone a pielonefritis y parto pretérmino |
-| VDRL | Sífilis | Se confirma con una prueba treponémica; un resultado positivo se envía al segundo nivel |
-| Prueba de VIH | VIH | En el primer y el tercer trimestres; la tricomoniasis aumenta la adquisición y la transmisión del virus |
-| Curva de tolerancia a la glucosa | Diabetes gestacional | Entre las semanas 24 y 28; con 75 g, son diagnósticos 92, 180 o 153 mg/dL en ayuno, a la hora o a las 2 horas |
-| Proteinuria con tira reactiva | Preeclampsia | En cada consulta |
+- **Exudado vaginal con frotis y cultivo:** identifica el agente de la cervicovaginitis; se solicita ante leucorrea y prurito vaginal.
+- **Biometría hemática:** detecta anemia, que en el segundo trimestre se define por una hemoglobina menor de 10,5 g/dL.
+- **Química sanguínea:** glucosa, creatinina y ácido úrico basales, como parte del panel de la NOM-007.
+- **Grupo sanguíneo y factor Rh:** previene la aloinmunización. En la mujer Rh negativo se pide el Coombs indirecto y, si no está sensibilizada, se aplica inmunoglobulina anti-D a las 28 semanas.
+- **Examen general de orina:** busca proteinuria y bacteriuria; ante disuria, orienta a una infección urinaria además de la vaginitis.
+- **Urocultivo:** detecta la bacteriuria asintomática, que sin tratamiento predispone a pielonefritis y parto pretérmino.
+- **VDRL:** cribado de sífilis; se confirma con una prueba treponémica, y un resultado positivo se envía al segundo nivel.
+- **Prueba de VIH:** en el primer y el tercer trimestres; la tricomoniasis aumenta la adquisición y la transmisión del virus.
+- **Curva de tolerancia a la glucosa:** busca diabetes gestacional entre las semanas 24 y 28. Con la carga de 75 g, basta un valor igual o mayor que 92 mg/dL en ayuno, 180 mg/dL a la hora o 153 mg/dL a las 2 horas para el diagnóstico.
+- **Proteinuria con tira reactiva:** cribado de preeclampsia en cada consulta.
 
 ## 6. Ecografía obstétrica
 
-El criterio 10 se pierde si no se conocen las semanas y la utilidad de las tres ecografías.[^rub] La NOM-007 promueve una ecografía por trimestre, realizada por personal capacitado.[^nom007]
+El criterio 10 se pierde si no se conocen las semanas y la utilidad de las tres ecografías.[^rub] La NOM-007 promueve una ecografía por trimestre, realizada por personal capacitado. Su calendario y su utilidad son:[^rub][^nom007][^gpcprenatal]
 
-**Tabla 8. Calendario de ecografías**[^rub][^nom007][^gpcprenatal]
-
-| Semanas | Utilidad |
-|------------------|------------------------------------------------|
-| 11 a 13,6 | Vitalidad, edad gestacional (longitud cráneo-caudal, el método más preciso), número de fetos y cribado de aneuploidías con marcadores como la translucencia nucal |
-| 18 a 22 | Estudio estructural (anatomía fetal) |
-| 29 a 30 o más | Bienestar materno y fetal: inserción de la placenta, peso fetal estimado y líquido amniótico |
+- **De 11 a 13,6 semanas:** confirma la vitalidad, establece la edad gestacional con la longitud cráneo-caudal (el método más preciso), cuenta los fetos y hace el cribado de aneuploidías con marcadores como la translucencia nucal.
+- **De 18 a 22 semanas:** es el estudio estructural de la anatomía fetal.
+- **De 29 a 30 semanas o más:** valora el bienestar materno y fetal: inserción de la placenta, peso fetal estimado y líquido amniótico.
 
 La rúbrica describe ecografías "cada 15 días" en el tercer trimestre; la NOM-007 promueve una ecografía en ese trimestre, y las ecografías seriadas se reservan para indicaciones concretas (sección 12).[^rub][^nom007]
 
@@ -285,17 +256,13 @@ La rúbrica describe ecografías "cada 15 días" en el tercer trimestre; la NOM-
 
 **Respuesta de la rúbrica.** Metronidazol en tabletas vaginales, una cada 24 horas durante 10 noches, con tratamiento de la pareja; la rúbrica marca el criterio como no cumplido si no se conocen las dosis.[^rub]
 
-**Tratamiento vigente.** El tratamiento de la tricomoniasis es **sistémico**, porque el metronidazol vaginal no alcanza concentraciones eficaces en la uretra ni en las glándulas perivaginales.[^d1][^cdc2021]
+**Tratamiento vigente.** El tratamiento de la tricomoniasis es **sistémico**, porque el metronidazol vaginal no alcanza concentraciones eficaces en la uretra ni en las glándulas perivaginales.[^d1][^cdc2021] Los esquemas son:[^cdc2021][^gpcprenatal][^d1]
 
-**Tabla 9. Tratamiento de la tricomoniasis**[^cdc2021][^gpcprenatal][^d1]
+- **Mujer, incluida la embarazada en cualquier trimestre:** metronidazol, 500 mg por vía oral cada 12 horas durante 7 días.
+- **Pareja (varón):** metronidazol, 2 g por vía oral en dosis única.
+- **Alternativa fuera del embarazo:** tinidazol o secnidazol, 2 g por vía oral en dosis única.
 
-| Situación | Esquema |
-|------------------|------------------------------------------|
-| Mujer, incluida la embarazada en cualquier trimestre | Metronidazol, 500 mg por vía oral cada 12 horas durante 7 días |
-| Pareja (varón) | Metronidazol, 2 g por vía oral en dosis única |
-| Alternativa fuera del embarazo | Tinidazol o secnidazol, 2 g por vía oral en dosis única |
-
-En la mujer, el esquema de 7 días redujo a la mitad la persistencia de la infección frente a la dosis única de 2 g.[^gpcprenatal] Las indicaciones que acompañan al tratamiento son:[^d1]
+En la mujer, el esquema de 7 días redujo a la mitad la persistencia de la infección frente a la dosis única de 2 g.[^gpcprenatal] El metronidazol puede usarse en el embarazo: las revisiones de la literatura no han encontrado que sea teratógeno en ningún trimestre.[^struthers][^cdc2021] Las indicaciones que acompañan al tratamiento son:[^d1]
 
 - **Pareja:** tratamiento simultáneo de la pareja o parejas.
 - **Abstinencia:** sin relaciones sexuales, genitales ni orales, hasta que ambos terminen el tratamiento y estén sin síntomas; después, preservativo.
@@ -308,16 +275,12 @@ En la mujer, el esquema de 7 días redujo a la mitad la persistencia de la infec
 
 **Respuesta de la rúbrica.** Miconazol en crema vaginal cada 12 horas durante 7 días; o nistatina, un óvulo o tableta vaginal al día durante 7 días.[^rub]
 
-**Tratamiento vigente en el embarazo.** Solo se usan **azoles tópicos durante 7 días**; los azoles orales se evitan, porque el fluconazol oral se ha asociado con aborto y malformaciones.[^cid2022][^d2]
+**Tratamiento vigente en el embarazo.** Solo se usan **azoles tópicos durante 7 días**; los azoles orales se evitan, porque el fluconazol oral se ha asociado con aborto y malformaciones.[^cid2022][^d2] Las opciones son:[^gpcprenatal][^d2][^d1][^cid2022][^cdc2021]
 
-**Tabla 10. Tratamiento de la candidosis en el embarazo**[^gpcprenatal][^d2][^d1][^cid2022]
-
-| Opción | Esquema |
-|------------------|------------------------------------------|
-| Clotrimazol tópico (GPC de control prenatal) | Durante 7 días |
-| Miconazol en crema al 2% | Una aplicación vaginal al día durante 7 días |
-| Nistatina (opción institucional del IMSS) | 100 000 UI, un óvulo o tableta vaginal al día durante **14 días** |
-| Fluconazol oral | No se usa en el embarazo |
+- **Clotrimazol en crema al 1%:** 5 g por vía vaginal al día durante 7 días; es la opción que menciona la GPC de control prenatal.
+- **Miconazol en crema al 2%:** 5 g por vía vaginal al día durante 7 días.
+- **Nistatina (opción institucional del IMSS):** 100 000 UI, un óvulo o tableta vaginal al día durante **14 días**.
+- **Fluconazol oral:** no se usa en el embarazo.
 
 Los azoles tópicos son más eficaces que la nistatina, y pueden dañar los condones de látex. La pareja no se trata, porque no se ha demostrado que la CVV se transmita sexualmente. Si los síntomas persisten, se confirma la causa con examen en fresco y cultivo.[^d2]
 
@@ -325,17 +288,13 @@ Los azoles tópicos son más eficaces que la nistatina, y pueden dañar los cond
 
 ### 7.3 Vaginosis bacteriana
 
-La VB **sintomática** se trata en el embarazo, porque se asocia con aborto, parto pretérmino, RPM y endometritis. La **asintomática** no se busca ni se trata de rutina, porque su tratamiento no ha reducido el parto pretérmino.[^d1][^lockwood]
+La VB **sintomática** se trata en el embarazo, porque se asocia con aborto, parto pretérmino, RPM y endometritis. La **asintomática** no se busca ni se trata de rutina, porque su tratamiento no ha reducido el parto pretérmino.[^d1][^lockwood] Los esquemas para la VB sintomática en el embarazo son:[^gpcprenatal][^cdc2021][^d1]
 
-**Tabla 11. Tratamiento de la vaginosis bacteriana sintomática en el embarazo**[^gpcprenatal][^cdc2021][^d1]
+- **GPC de control prenatal:** metronidazol, 250 mg por vía oral cada 8 horas durante 7 días.
+- **CDC (2021):** metronidazol, 500 mg por vía oral cada 12 horas durante 7 días.
+- **Alergia o intolerancia al metronidazol:** clindamicina, 300 mg por vía oral cada 12 horas durante 7 días, o en crema vaginal al 2% durante 7 días.
 
-| Opción | Esquema |
-|------------------|------------------------------------------|
-| GPC de control prenatal | Metronidazol, 250 mg por vía oral cada 8 horas durante 7 días |
-| CDC (2021) | Metronidazol, 500 mg por vía oral cada 12 horas durante 7 días |
-| Alergia o intolerancia al metronidazol | Clindamicina, 300 mg por vía oral cada 12 horas durante 7 días, o en crema vaginal al 2% durante 7 días |
-
-La pareja no se estudia ni se trata de rutina.[^d1]
+Los dos esquemas de metronidazol duran 7 días y difieren en la dosis; en la estación se dice el de la GPC mexicana y se menciona el de los CDC. La pareja no se estudia ni se trata de rutina.[^d1]
 
 ### 7.4 Bacterias gramnegativas
 
@@ -351,16 +310,12 @@ Si la especuloscopia muestra cervicitis mucopurulenta, se buscan ambos agentes c
 
 ### 8.1 Complicaciones en el embarazo
 
-La rúbrica pide al menos tres de estas: amenaza de aborto, aborto, amenaza de parto pretérmino, RPM y enfermedad inflamatoria pélvica.[^rub] Cada infección tiene complicaciones documentadas:
+La rúbrica pide al menos tres de estas: amenaza de aborto, aborto, amenaza de parto pretérmino, RPM y enfermedad inflamatoria pélvica.[^rub] Cada infección tiene complicaciones documentadas:[^d1][^gpcprenatal][^avpreg]
 
-**Tabla 12. Complicaciones obstétricas de la cervicovaginitis**[^d1][^gpcprenatal][^avpreg]
-
-| Infección | Complicaciones |
-|------------------|------------------------------------------|
-| Vaginosis bacteriana | Aborto, parto pretérmino, RPM y endometritis |
-| Tricomoniasis | Parto pretérmino, RPM y bajo peso al nacer |
-| Vaginitis aeróbica | Parto pretérmino, RPM e infección fetal |
-| Infecciones genitales en general | Enfermedad inflamatoria pélvica, RPM, mayor adquisición de VIH e infertilidad |
+- **Vaginosis bacteriana:** aborto, parto pretérmino, RPM y endometritis.
+- **Tricomoniasis:** parto pretérmino, RPM y bajo peso al nacer.
+- **Vaginitis aeróbica:** parto pretérmino, RPM e infección fetal.
+- **Infecciones genitales en general:** enfermedad inflamatoria pélvica, RPM, mayor adquisición de VIH e infertilidad.
 
 La RPM se refiere de inmediato a ginecoobstetricia por el riesgo de corioamnionitis, y las contracciones dolorosas antes de la semana 37 son un dato de alarma de parto pretérmino.[^gpcprenatal]
 
@@ -373,7 +328,7 @@ La respuesta que pide la rúbrica es **VPH y VIH**.[^rub] Su relación tiene res
 
 En la consulta esto se traduce en ofrecer la prueba de VIH y el VDRL, y en revisar la fecha del último Papanicolaou.[^gpcprenatal]
 
-## 9. Prevención, consejería y referencia
+## 9. Prevención, indicaciones prenatales y referencia
 
 ### 9.1 Consejería
 
@@ -383,18 +338,25 @@ En la consulta esto se traduce en ofrecer la prueba de VIH y el VDRL, y en revis
 - **Ropa holgada y transpirable**, porque la humedad y el calor favorecen la CVV.[^d2]
 - **Datos de alarma obstétrica** y plan de seguridad para acudir a urgencias (sección 2.5).[^nom007]
 
-### 9.2 Referencia
+### 9.2 Indicaciones prenatales de la misma consulta
 
-**Tabla 13. Situaciones que se refieren**[^d1][^d2][^gpcprenatal]
+La estación es una consulta prenatal, de modo que el plan no termina con el tratamiento de la vaginitis. Se revisan y se indican:[^nom007][^gpcprenatal][^who2016][^cdcvac]
 
-| Situación | Destino |
-|------------------------------|------------------------------------------|
-| Salida de líquido (sospecha de RPM) | Ginecoobstetricia de inmediato |
-| Contracciones antes de la semana 37, sangrado o fiebre | Urgencias obstétricas |
-| Mujer con VIH | Segundo nivel |
-| CVV sin respuesta al tratamiento empírico o complicada sin laboratorio | Ginecología del segundo nivel |
-| VDRL o VIH positivos | Segundo nivel |
-| Cuello uterino alterado que persiste después del tratamiento | Segundo nivel, con citología y cultivo |
+- **Hierro y ácido fólico:** la NOM-007 promueve su prescripción, y la OMS recomienda a todas las embarazadas un suplemento diario de 30 a 60 mg de hierro elemental con 0,4 mg de ácido fólico.
+- **Vacunas:** el toxoide tetánico y diftérico según el esquema de la NOM-007; la vacuna contra tétanos, difteria y tos ferina acelular (Tdpa), que la GPC indica entre las semanas 16 y 32 en la mujer no vacunada y los CDC recomiendan en cada embarazo, de preferencia entre las semanas 27 y 36; y la vacuna contra la influenza en la temporada, en cualquier trimestre.
+- **Próximos estudios:** la curva de tolerancia a la glucosa entre las semanas 24 y 28 y la ecografía del tercer trimestre (secciones 5 y 6).
+- **Siguiente consulta:** dentro del calendario de la NOM-007, que fija un mínimo de cinco consultas y propone ocho; en ella se revisa además la respuesta al tratamiento de la vaginitis, cuya revaloración no debe pasar de 3 meses en la tricomoniasis.
+
+### 9.3 Referencia
+
+Las situaciones que se refieren, y su destino, son:[^d1][^d2][^gpcprenatal]
+
+- **Salida de líquido (sospecha de RPM):** a ginecoobstetricia de inmediato.
+- **Contracciones antes de la semana 37, sangrado o fiebre:** a urgencias obstétricas.
+- **Mujer con VIH:** al segundo nivel.
+- **CVV sin respuesta al tratamiento empírico, o complicada sin laboratorio para estudiarla:** a ginecología del segundo nivel.
+- **VDRL o VIH positivos:** al segundo nivel.
+- **Cuello uterino alterado que persiste después del tratamiento:** al segundo nivel, con citología y cultivo.
 
 ## 10. Casos clínicos para practicar
 
@@ -412,16 +374,17 @@ Los casos se ensayan en voz alta y en el orden de la sección 1.2. Los datos ent
 
 1. **Cálculo obstétrico:** FPP del 7 de marzo de 2024 contando 280 días (8 de marzo por la regla de Naegele, por el año bisiesto) y embarazo de 22 semanas y 5 días.
 2. **Factores de riesgo:** pareja nueva, no usa preservativo y embarazo.
-3. **Diagnóstico:** embarazo de 22.5 SDG con cervicovaginitis por *Trichomonas vaginalis*.
+3. **Diagnóstico:** embarazo de 22.5 SDG con cervicovaginitis por *Trichomonas vaginalis*; no es una RPM, porque el orificio está cerrado y no sale líquido.
 4. **Estudios:** exudado vaginal con frotis y cultivo, biometría hemática, química sanguínea, grupo y Rh, examen general de orina, urocultivo, VDRL, VIH, proteinuria con tira reactiva y curva de tolerancia a la glucosa entre las semanas 24 y 28; ecografías de 11 a 13,6, de 18 a 22 y del tercer trimestre con su utilidad.
 5. **Tratamiento:** metronidazol 500 mg por vía oral cada 12 horas durante 7 días; pareja con metronidazol 2 g en dosis única; abstinencia hasta terminar ambos; preservativo; revaloración antes de 3 meses. Mencionar el esquema vaginal de la rúbrica y por qué ya no se usa.
-6. **Riesgos que se explican:** parto pretérmino, RPM y bajo peso al nacer; mayor riesgo de adquirir VIH. Datos de alarma: salida de líquido, sangrado, contracciones, fiebre o disminución de los movimientos fetales.
+6. **Indicaciones prenatales:** hierro y ácido fólico; Tdpa y vacuna contra la influenza si corresponden.
+7. **Riesgos que se explican:** parto pretérmino, RPM y bajo peso al nacer; mayor riesgo de adquirir VIH. Datos de alarma: salida de líquido, sangrado, contracciones, fiebre o disminución de los movimientos fetales.
 
 ### Caso 2. Prurito vulvar a las 30 semanas
 
 **Planteamiento.** Mujer de 31 años con 30 semanas de embarazo, prurito vulvar intenso y flujo blanco y grumoso, sin mal olor. "Vulva con eritema, edema y lesiones satélite; pH de 4,0; examen con KOH: pseudohifas."
 
-**Respuesta esperada:** CVV en el embarazo, que se clasifica como complicada. Tratamiento con un azol tópico durante 7 días (clotrimazol, o miconazol en crema al 2% una vez al día) o, en el IMSS, nistatina vaginal durante 14 días; sin fluconazol oral. La pareja no se trata. Revisar la glucosa y el resultado de la curva de tolerancia, porque la hiperglucemia favorece la candidosis. Preguntas probables: el esquema de la rúbrica (miconazol en crema cada 12 horas durante 7 días o nistatina durante 7 días) y por qué no se usa el fluconazol.
+**Respuesta esperada:** CVV en el embarazo, que se clasifica como complicada. Tratamiento con un azol tópico durante 7 días (clotrimazol en crema al 1% o miconazol en crema al 2%, 5 g por vía vaginal al día) o, en el IMSS, nistatina vaginal durante 14 días; sin fluconazol oral. La pareja no se trata. Revisar la glucosa y el resultado de la curva de tolerancia, porque la hiperglucemia favorece la candidosis. Preguntas probables: el esquema de la rúbrica (miconazol en crema cada 12 horas durante 7 días o nistatina durante 7 días) y por qué no se usa el fluconazol.
 
 ### Caso 3. Flujo con olor a pescado y antecedente de parto pretérmino
 
@@ -443,6 +406,8 @@ Los casos se ensayan en voz alta y en el orden de la sección 1.2. Los datos ent
 
 **¿Por qué no se usa el metronidazol vaginal para las tricomonas?** Porque no alcanza concentraciones eficaces en la uretra ni en las glándulas perivaginales.[^cdc2021]
 
+**¿Es seguro el metronidazol en el embarazo?** Sí; se usa en cualquier trimestre y las revisiones no han encontrado efecto teratógeno.[^cdc2021][^struthers]
+
 **¿Cuál es el tratamiento de la candidosis en el embarazo?** Azoles tópicos durante 7 días (clotrimazol o miconazol), o nistatina vaginal durante 14 días en el IMSS; nunca fluconazol oral de rutina. La rúbrica registra miconazol en crema cada 12 horas durante 7 días o nistatina durante 7 días.[^gpcprenatal][^d2][^rub]
 
 **¿Qué tratamiento pide la rúbrica para las bacterias gramnegativas?** Nitrofurazona, un óvulo vaginal cada 12 a 24 horas durante 10 a 15 días; no figura en las guías vigentes revisadas.[^rub]
@@ -455,25 +420,21 @@ Los casos se ensayan en voz alta y en el orden de la sección 1.2. Los datos ent
 
 **¿Con qué ITS se relaciona?** Con el VIH, cuya adquisición aumenta con la tricomoniasis, y con el VPH, asociado con la VB.[^rub][^masha][^liang]
 
-**¿Cuándo se hace la curva de tolerancia a la glucosa?** Entre las semanas 24 y 28.[^nom007]
+**¿Cuándo se hace la curva de tolerancia a la glucosa?** Entre las semanas 24 y 28; con 75 g, basta un valor igual o mayor que 92, 180 o 153 mg/dL en ayuno, a la hora o a las 2 horas.[^nom007][^gpcprenatal]
 
 **¿Qué ecografías se solicitan?** De 11 a 13,6 semanas (vitalidad, edad gestacional, número de fetos y aneuploidías), de 18 a 22 (estructural) y del tercer trimestre (bienestar, placenta, peso fetal y líquido amniótico).[^nom007][^rub]
 
 ## 12. Respuestas de la rúbrica que conviene precisar
 
-La rúbrica califica una respuesta concreta. Cuando esa respuesta difiere de la evidencia vigente, lo más seguro es decir primero lo que pide la rúbrica y añadir la precisión en la misma frase.
+La rúbrica califica una respuesta concreta. Cuando esa respuesta difiere de la evidencia vigente, lo más seguro es decir primero lo que pide la rúbrica y añadir la precisión en la misma frase.[^rub][^velasco][^nom007][^cdc2021][^gpcprenatal][^d2][^cid2022][^donders][^reed]
 
-**Tabla 14. Respuestas esperadas y su precisión actual**[^rub][^velasco][^nom007][^cdc2021][^gpcprenatal][^d2][^cid2022][^donders][^reed]
-
-| Criterio | Respuesta de la rúbrica | Precisión | Cómo decirlo |
-|------------|----------------------|------------------------------|------------------------------|
-| 2. FPP | 07/03/2024 | Es el conteo de 280 días; la regla de Naegele da el 8 de marzo por el año bisiesto | "7 de marzo contando 280 días; 8 de marzo por Naegele" |
-| 7. Factores de riesgo | Incluye la lycra, los alimentos con levaduras y el coito más de 3 veces por semana | Su respaldo es débil o contradictorio; el embarazo es el factor más consistente de la CVV | Empezar por duchas, múltiples parejas y no usar preservativo |
-| 10. Ecografías | Tercer trimestre "cada 15 días" | La NOM-007 promueve una ecografía por trimestre | Dar la utilidad de la del tercer trimestre sin insistir en la frecuencia |
-| 12. Tricomoniasis | Metronidazol vaginal cada 24 horas durante 10 noches | Metronidazol oral 500 mg cada 12 horas durante 7 días; la vía vaginal no es eficaz | Dar ambos y explicar por qué |
-| 13. Candidosis | Miconazol en crema cada 12 horas durante 7 días; nistatina durante 7 días | Azoles tópicos durante 7 días; nistatina durante 14 días; sin fluconazol oral | Dar el esquema de la rúbrica y la duración de la nistatina del IMSS |
-| 14. Gramnegativas | Nitrofurazona en óvulos durante 10 a 15 días | No figura en las guías revisadas; corresponde a la vaginitis aeróbica, sin tratamiento establecido en ellas | Dar la respuesta y aclarar que no es un esquema de guía |
-| 15. Complicaciones | Incluye la enfermedad inflamatoria pélvica | Las complicaciones mejor documentadas son el aborto, el parto pretérmino, la RPM, la endometritis y el bajo peso al nacer | Mencionar primero las documentadas |
+- **Criterio 2 (FPP).** La rúbrica registra el 07/03/2024, que es el conteo de 280 días; la regla de Naegele da el 8 de marzo por el año bisiesto. Se dice: "7 de marzo contando 280 días; 8 de marzo por Naegele".
+- **Criterio 7 (factores de riesgo).** La rúbrica incluye la lycra, los alimentos con levaduras y el coito más de 3 veces por semana, cuyo respaldo es débil o contradictorio; el embarazo es el factor más consistente de la CVV. Se empieza por las duchas, las múltiples parejas y no usar preservativo.
+- **Criterio 10 (ecografías).** La rúbrica habla de ecografías del tercer trimestre "cada 15 días"; la NOM-007 promueve una ecografía por trimestre. Se da la utilidad de la del tercer trimestre sin insistir en la frecuencia.
+- **Criterio 12 (tricomoniasis).** La rúbrica registra metronidazol vaginal cada 24 horas durante 10 noches; el vigente es metronidazol oral, 500 mg cada 12 horas durante 7 días, porque la vía vaginal no es eficaz. Se dicen ambos y se explica por qué.
+- **Criterio 13 (candidosis).** La rúbrica registra miconazol en crema cada 12 horas durante 7 días o nistatina durante 7 días; lo vigente son los azoles tópicos una vez al día durante 7 días o la nistatina durante 14 días, sin fluconazol oral. Se da el esquema de la rúbrica y la duración de la nistatina del IMSS.
+- **Criterio 14 (gramnegativas).** La nitrofurazona en óvulos durante 10 a 15 días no figura en las guías revisadas; la flora gramnegativa corresponde a la vaginitis aeróbica, sin tratamiento establecido en ellas. Se da la respuesta y se aclara que no es un esquema de guía.
+- **Criterio 15 (complicaciones).** La rúbrica incluye la enfermedad inflamatoria pélvica; las complicaciones mejor documentadas en el embarazo son el aborto, el parto pretérmino, la RPM, la endometritis y el bajo peso al nacer. Se mencionan primero estas.
 
 ## 13. Contenido de segundo plano
 
@@ -487,16 +448,12 @@ Los siguientes temas pertenecen al especialista o al laboratorio. En la estació
 
 ## 14. Plan de estudio de dos días
 
-**Tabla 15. Distribución del estudio**
-
-| Bloque | Contenido | Resultado al terminar |
-|------------------|------------------------------|------------------------------------------|
-| Día 1, mañana | Secciones 1 y 2 | Recitar los antecedentes completos y calcular la FPP y la edad gestacional de tres FUM distintas sin error |
-| Día 1, tarde | Secciones 3 y 4 | Describir la especuloscopia de cada vaginitis y distinguirlas por flujo, pH y microscopía |
-| Día 1, noche | Secciones 5 y 6 | Enumerar los laboratorios con su finalidad y las tres ecografías con su utilidad |
-| Día 2, mañana | Secciones 7 y 8 | Dar las dosis de la rúbrica y las vigentes, las complicaciones y las ITS relacionadas |
-| Día 2, tarde | Secciones 9 a 11 | Resolver los tres casos en voz alta en 10 minutos cada uno |
-| Día 2, noche | Tabla 1 y secciones 12 y 2.4 | Repaso final de los criterios, de las precisiones y del cálculo obstétrico |
+- **Día 1, mañana (secciones 1 y 2):** recitar los antecedentes completos y calcular la FPP y la edad gestacional de tres FUM distintas sin error.
+- **Día 1, tarde (secciones 3 y 4):** describir la especuloscopia de cada vaginitis y distinguirlas por el flujo, el pH y la microscopía.
+- **Día 1, noche (secciones 5 y 6):** enumerar los laboratorios con su finalidad y las tres ecografías con su utilidad.
+- **Día 2, mañana (secciones 7 a 9):** dar las dosis de la rúbrica y las vigentes, las complicaciones, las ITS relacionadas y las indicaciones prenatales.
+- **Día 2, tarde (secciones 10 y 11):** resolver los tres casos en voz alta en 10 minutos cada uno y responder las preguntas directas.
+- **Día 2, noche (Tabla 1 y secciones 12 y 2.4):** repaso final de los criterios, de las precisiones y del cálculo obstétrico.
 
 Conviene dedicar más repeticiones al cálculo de la FPP y de la edad gestacional, y a las dosis, porque son los criterios que se pierden por un solo dato.
 
@@ -509,8 +466,11 @@ Conviene dedicar más repeticiones al cálculo de la FPP y de la edad gestaciona
 [^nom007]: Secretaría de Salud. Norma Oficial Mexicana NOM-007-SSA2-2016, Para la atención de la mujer durante el embarazo, parto y puerperio, y de la persona recién nacida. Diario Oficial de la Federación, 7 de abril de 2016. Fuente del usuario del tema 3.
 [^velasco]: Velasco A. Reglas de apoyo en obstetricia: regla de Alfehld, regla de Johnson-Toshach, regla de McDonald y regla de Naegele. Material didáctico en PDF. Fuente del usuario del tema 3.
 [^lockwood]: Lockwood CJ, Magriples U. Prenatal care: Initial assessment. UpToDate. Berghella V (ed). Revisión de la literatura hasta mayo de 2025. Fuente del usuario del tema 3.
+[^who2016]: World Health Organization. WHO recommendations on antenatal care for a positive pregnancy experience. Geneva: WHO; 2016.
+[^cdcvac]: Centers for Disease Control and Prevention. Prenatal care and routinely recommended vaccinations. Vaccines during pregnancy toolkit for health care professionals. 2024.
 [^cdc2021]: Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.
 [^cdcgono]: St Cyr S, Barbee L, Workowski KA, et al. Update to CDC's treatment guidelines for gonococcal infection, 2020. MMWR Morb Mortal Wkly Rep. 2020;69(50):1911-1916.
+[^struthers]: Struthers BJ. Metronidazole appears not to be a human teratogen: review of literature. Infect Dis Obstet Gynecol. 1997;5(4):326-335.
 [^amsel]: Amsel R, Totten PA, Spiegel CA, Chen KC, Eschenbach D, Holmes KK. Nonspecific vaginitis. Diagnostic criteria and microbial and epidemiologic associations. Am J Med. 1983;74(1):14-22.
 [^cid2022]: Nyirjesy P, Brookhart C, Lazenby G, Schwebke J, Sobel JD. Vulvovaginal candidiasis: a review of the evidence for the 2021 Centers for Disease Control and Prevention of Sexually Transmitted Infections Treatment Guidelines. Clin Infect Dis. 2022;74(Suppl 2):S162-S168.
 [^donders]: Donders GG, Vereecken A, Bosmans E, Dekeersmaecker A, Salembier G, Spitz B. Definition of a type of abnormal vaginal flora that is distinct from bacterial vaginosis: aerobic vaginitis. BJOG. 2002;109(1):34-43.

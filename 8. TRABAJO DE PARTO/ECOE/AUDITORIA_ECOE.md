@@ -70,7 +70,24 @@ Registro de la verificación aplicada a `GUIA_ECOE_TRABAJO_DE_PARTO.md`. La guí
 
 ## 7. Diseño
 
-- El PDF tiene 21 páginas y se compiló con `ENLACES=1`.
+- El PDF tiene 23 páginas y se compiló con `ENLACES=1`.
+- **Revisión de formato a petición del usuario:** se eliminaron todas las tablas salvo la de criterios de la rúbrica (Tabla 1). Las siglas pasaron a un párrafo; los mecanismos de Schultze y Duncan, la separación de los RPBI, los grados de los desgarros, las precisiones de la rúbrica y el plan de estudio pasaron a listas de un solo nivel.
+- **Aclaraciones al pasar de tabla a texto:** Schultze y Duncan se redactaron como dos mecanismos completos que explican por qué el hematoma central invierte la placenta y retrasa el sangrado; se definieron el "riñón" y la "gasa montada"; los desgarros de tercer grado se precisaron como porcentaje del espesor del esfínter, y el grado I incluye la lesión aislada de la mucosa vaginal según el RCOG; la cifra de cotiledones se presenta como variable entre textos.
+
+## 7.1 Revisión de completitud
+
+Al revisar la guía contra la rúbrica y contra la práctica de la atención del parto se añadieron:
+
+- **Comunicación con la mujer y consentimiento** (sección 3.2): atención amigable, explicación de cada paso, consentimiento, posición libre y acompañamiento continuo (GPC, NOM-007 y CNDH).
+- **Comprobaciones antes del expulsivo y duración esperada** (sección 3.3): posición de la cabeza, FCF, vejiga, medianas de 50 y 20 minutos y límites de 3 y 2 horas de la OMS (Williams y OMS 2018, del documento del tema).
+- **Analgesia y antibiótico de la episiotomía** (sección 5.3): dosis máxima de lidocaína de la tabla de medicamentos de la GPC y ausencia de antibiótico si no hay complicaciones.
+- **Apgar y Silverman-Anderson** (sección 6.3): signos y puntuaciones de los apéndices F y G de la NOM-007, leídos en la conversión de la fuente del tema 3.
+- **Pinzamiento en la madre Rh negativa** (sección 6.2), de la NOM-007.
+- **Hemorragia posparto** (sección 8.3 y escenario 5): definición de la GPC SS-103-21, paquete de primera respuesta de la OMS 2023 y las 4 T, tomados del documento del tema 7.
+- **Puerperio inmediato** (sección 8.4): sin antibiótico profiláctico, profilaxis anti-D, anticoncepción posparto y signos de alarma, del documento del tema 8.
+- **Clasificación de los desgarros del RCOG** (Green-top 29, 2015): verificada con un resumen australiano y fragmentos de la guía; incluye la regla de asignar el grado mayor en caso de duda.
+
+**Razonamiento sin fuente específica.** La sugerencia de analgesia local con lidocaína para la episiotomía es práctica habitual; la GPC solo exige "analgesia adecuada" y da la dosis máxima del fármaco.
 
 ## 8. Limitaciones de la verificación
 

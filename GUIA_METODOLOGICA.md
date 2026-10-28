@@ -345,3 +345,7 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 
 - **Clasificaciones largas sin tabla:** una clasificación que se recita (Bethesda) se presenta como lista numerada en el orden en que se dice; una con jerarquía (FIGO) se divide en bloques, cada uno con un párrafo en negritas para la etapa y una lista de un solo nivel para sus subetapas. Así no hacen falta viñetas anidadas.
 - **Lista de completitud de una estación de consulta:** diagnóstico diferencial del síntoma principal, conducta en el nivel de atención de la estación (aquí, las lesiones precursoras), criterios completos de referencia y la urgencia que puede presentar la misma paciente (aquí, el sangrado activo). Cada añadido se integra también en la secuencia de la consulta, en un caso y en las preguntas directas.
+
+### 20.6 Pasar de tabla a texto
+
+Convertir una tabla en texto no es copiar sus celdas en una lista. Cada celda breve se completa hasta formar una oración que diga qué es, qué se pregunta o qué se hace, y para qué sirve. Al hacerlo aparecen los huecos que el formato escondía: dosis que la tabla daba solo como duración, términos sin definir, cifras sin unidad o sin la regla que las aplica (por ejemplo, "basta un valor alterado"), y comparaciones cuyo motivo no se explicaba. Esos huecos se completan con las fuentes y la auditoría los registra como aclaraciones.
