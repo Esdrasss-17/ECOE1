@@ -91,3 +91,7 @@ Registro de la fase de verificación aplicada a `10. CÁNCER DE MAMA.md`, separa
 - El acceso directo a webs está bloqueado; las verificaciones se hicieron con el buscador. No se leyó el texto de la NOM-041 en el Diario Oficial ni el de la actualización de la ASCO y el CAP.
 - No se verificaron las recomendaciones actuales de la NCCN sobre los umbrales de tratamiento adyuvante por subtipo (Tabla 6), que se transcriben de d2 (2015).
 - La reconstrucción de los algoritmos 2 y 3 de d1 se basa en fragmentos de texto; se limitó a los pasos que se leen sin ambigüedad.
+
+## Actualización: coherencia con las guías ECOE
+
+Se añadieron dentro de los temas del documento: el diagnóstico diferencial de los síntomas mamarios (secreción patológica y galactorrea, mastalgia, lesiones benignas por imagen y cáncer inflamatorio frente a mastitis) al final de la sección 5.1, con las revisiones de la AAFP de 2012 y 2019; y el tipo histológico invasor más frecuente en la sección 1.1, con la clasificación de la OMS de 2019. El PDF pasó de 34 a 35 páginas.

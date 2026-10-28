@@ -46,3 +46,9 @@ Además de lo que la estación calificaría con el patrón de la práctica 9, se
 
 - El acceso directo a las webs está bloqueado; las externas nuevas se verificaron con resúmenes y fuentes secundarias.
 - Las cifras del documento del tema 10 se tomaron de su versión auditada, sin volver a consultar las fuentes primarias.
+
+## Versión 2 (`GUIA_ECOE2_CANCER_MAMA.md`)
+
+- **Motivo:** la versión 1 se centraba en el diagnóstico y la referencia y omitía datos del documento del tema 10: TRH y estilo de vida, indicaciones completas de RM y ultrasonido, la referencia de la masa no palpable, la mastectomía bilateral y el ganglio centinela en el CDIS, los detalles de la axila y de la RT, las histologías favorables, los factores de alto riesgo en la premenopausia, la respuesta patológica completa y la hormonoterapia neoadyuvante, la evaluación y el dolor en la enfermedad metastásica, el detalle del embarazo, de Paget y del hombre, los estudios ante síntomas en el seguimiento, las categorías N y pN y las dosis del cuadro básico. Sus cinco casos no cubrían el riesgo promedio, el alto riesgo, la TRH, el CDIS, cada subtipo, la enfermedad inflamatoria, la metastásica, el tamoxifeno con sangrado, Paget ni el hombre. La versión 2 los incorpora y tiene catorce casos.
+- **Límite de contenido:** no sale de los temas del documento .md. Se retiró el protocolo SPIKES, porque la comunicación de malas noticias no es un tema del documento; la sección 13 usa lo que dicen las GPC (informar con claridad, consentimiento informado). El diferencial de la secreción y la mastalgia (AFP 2012 y 2019) y la nomenclatura histológica (OMS 2019) se conservan porque se añadieron al documento general (secciones 1.1 y 5.1), que ya trataba la secreción, el dolor focal y los tipos histológicos.
+- **Formato:** 31 páginas con `ENLACES=1`, sin tablas; el verificador no encontró errores. La versión 1 se conserva.
