@@ -349,3 +349,7 @@ Las guías ECOE son un segundo entregable por tema, distinto del documento clín
 ### 20.6 Pasar de tabla a texto
 
 Convertir una tabla en texto no es copiar sus celdas en una lista. Cada celda breve se completa hasta formar una oración que diga qué es, qué se pregunta o qué se hace, y para qué sirve. Al hacerlo aparecen los huecos que el formato escondía: dosis que la tabla daba solo como duración, términos sin definir, cifras sin unidad o sin la regla que las aplica (por ejemplo, "basta un valor alterado"), y comparaciones cuyo motivo no se explicaba. Esos huecos se completan con las fuentes y la auditoría los registra como aclaraciones.
+
+### 20.7 Guías sin rúbrica
+
+Cuando el tema no tiene práctica en el documento de rúbricas, la guía lo dice en su primera sección y presenta una lista de verificación propuesta, construida con el patrón de las estaciones de consulta del mismo examen y declarada como no oficial. Va como lista numerada, no como tabla. La sección de precisiones de la rúbrica se sustituye por las diferencias entre las fuentes mexicanas y las internacionales que pueden aparecer en la estación.
