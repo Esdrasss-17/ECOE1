@@ -58,3 +58,15 @@ Además de lo que una estación de este tema calificaría, se incluyeron: el int
 
 - El acceso directo a las webs está bloqueado; la única externa nueva (ACOG 181) se verificó con resúmenes secundarios.
 - Las cifras de los documentos de los temas 6, 7 y 2 se tomaron de sus versiones auditadas, sin volver a consultar las fuentes primarias.
+
+## Versión 2 (`GUIA_ECOE2_HEMORRAGIAS.md`)
+
+**Motivo.** El usuario pidió aplicar el criterio de las versiones 2 a la guía de hemorragias, con todas las causas de sangrado y un límite de unas 25 páginas de contenido (sin índice ni referencias). La versión 1 se conserva.
+
+**Espectro.** Todas las causas de las fuentes de los temas 6, 7 y 2: variantes del aborto (amenaza, inevitable, incompleto, completo, diferido y séptico), descarte del ectópico y de la enfermedad trofoblástica, complicaciones del aborto, placenta previa e inserción baja, acretismo, desprendimiento, ruptura uterina, vasa previa, HPP por cada una de las 4 T y choque. Catorce casos (antes siete): se añadieron el aborto diferido, el ectópico, el acretismo conocido, la vasa previa rota y la HPP por trauma, tejido y trombina.
+
+**Condensación.** Siete tablas sustituyen las listas paralelas: triage, clasificación del choque, uterotónicos y misoprostol por indicación (que reúne las dosis repetidas en cuatro secciones), variantes del aborto, causas de la segunda mitad, elementos del RCTG y 4 T. Se suprimieron las preguntas directas y el contenido de segundo plano, se resumieron la AMEU, la consejería, el marco legal y la relación entre los temas, y se pasó de ocho a cuatro imágenes. Se conservan los datos de la versión 1 que se dicen en la estación (regla del 30, analgesia, segundo trimestre, marco legal esencial).
+
+**Fuentes.** Las mismas de la versión 1, sin datos externos nuevos.
+
+**Resultado.** 26 páginas en total: unas 22 de contenido, más la portada con siglas, el índice y 3 de referencias. Unas 7100 palabras, frente a las 15 000 de la versión 1.
