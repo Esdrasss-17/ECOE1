@@ -97,3 +97,7 @@ Al revisar la guía contra la rúbrica y contra lo que exige una consulta prenat
 - **Autores:** en las referencias con más de tres autores se dejaron los tres primeros y "et al.".
 - **Formato:** 33 páginas, compilada con `ENLACES=1`; el verificador no encontró notas sin definir o sin usar, viñetas anidadas, flechas ni remisiones rotas.
 - La versión 1 se conserva sin cambios.
+
+## Condensación de la versión 2 (a petición del usuario)
+
+La versión 2 tenía unas 9800 palabras, casi el doble que el documento del tema (5600). Se condensó con el criterio de la estación: dos tablas (diferencial de las cuatro causas y tratamiento fuera y dentro del embarazo) sustituyen la repetición por secciones; se suprimieron las preguntas directas, el contenido de segundo plano, el algoritmo de la GPC de 2014, los esquemas detallados de la CVV recurrente, el ensayo de tratamiento de la pareja en la VB y la mayor parte de las diferencias entre fuentes. Se conservan la rúbrica, el interrogatorio, el cálculo obstétrico, la técnica de especuloscopia, la descripción por causa, los nueve casos y las precisiones. Resultado: 18 páginas, unas 5000 palabras, 3 tablas.
