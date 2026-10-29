@@ -70,3 +70,5 @@ Además de lo que una estación de este tema calificaría, se incluyeron: el int
 **Fuentes.** Las mismas de la versión 1, sin datos externos nuevos.
 
 **Resultado.** 26 páginas en total: unas 22 de contenido, más la portada con siglas, el índice y 3 de referencias. Unas 7100 palabras, frente a las 15 000 de la versión 1.
+
+**Preguntas directas (a petición del usuario).** Se añadió la sección 10 con 39 preguntas directas y respuesta de una frase, agrupadas en abordaje y choque, primera mitad, segunda mitad, RCTG y posparto. Reutilizan las de la versión 1 y añaden las de vasa previa, acretismo, clasificación ecográfica de la placenta, legrado, cuantificación de la pérdida, balón intrauterino y síndrome de Sheehan. El PDF queda en 30 páginas, unas 25 de contenido. La regla de la sección 20.9 de la guía metodológica se actualizó: toda guía ECOE incluye preguntas directas, y el límite orientativo es de unas 25 páginas de contenido.

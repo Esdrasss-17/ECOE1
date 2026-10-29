@@ -363,7 +363,8 @@ Cuando una guía reúne varios temas, como la de aborto, hemorragia obstétrica 
 Al pedir que las guías cubrieran todo el espectro de casos, las versiones 2 de retinopatías, cervicovaginitis y cáncer de mama crecieron hasta igualar o superar al documento del tema (la de retinopatías llegó a 66 páginas y 19 000 palabras). El usuario lo señaló y se condensaron. Reglas:
 
 - **Espectro no es copia:** cada escenario del tema entra con lo que se dice o se decide en la estación (descripción, clasificación, conducta, plazo de referencia y tratamiento de primera línea), no con su fisiopatología, técnica especializada, dosis de segundo y tercer nivel ni historia de las clasificaciones, que quedan en el documento del tema.
-- **Un dato, un lugar:** no se repite la misma información en texto, tabla, caso y pregunta directa; los casos aplican las tablas en lugar de repetirlas y se suprimen las secciones de preguntas directas y de segundo plano.
+- **Un dato, un lugar:** no se repite la misma información en texto y tabla; los casos aplican las tablas en lugar de repetirlas y se suprime el contenido de segundo plano.
+- **Preguntas directas:** por indicación del usuario, toda guía ECOE incluye una sección de preguntas directas con respuesta modelo de una frase, agrupadas por bloque temático. Es la única repetición admitida, porque entrena el formato de la pregunta del evaluador.
 - **Tablas que sustituyen secciones:** una tabla por estadio o por causa con hallazgos, conducta y seguimiento reemplaza varias secciones paralelas.
 - **Imágenes:** solo las que sirven para reconocer o describir en la estación (unas 2 a 8).
-- **Límite orientativo:** la guía no supera la mitad o dos tercios de las palabras del documento del tema; como referencia, de 5000 a 8000 palabras y de 17 a 31 páginas.
+- **Límite orientativo:** unas 25 páginas de contenido (sin portada, índice ni referencias), con flexibilidad prudente si el tema lo exige; la guía no debe acercarse a la extensión del documento del tema.

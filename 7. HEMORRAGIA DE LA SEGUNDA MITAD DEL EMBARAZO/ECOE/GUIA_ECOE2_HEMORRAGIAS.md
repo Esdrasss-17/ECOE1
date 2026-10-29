@@ -382,7 +382,99 @@ Mujer de 30 años con parto vaginal; la placenta salió con un cotiledón faltan
 
 Mujer de 32 años con desprendimiento y feto muerto, que tras el parto sangra en capa por las venopunciones y el útero, sin coágulos. "Plaquetas de 60 000, fibrinógeno de 110 mg/dL." **Respuesta:** HPP por trombina con CID. Protocolo de transfusión masiva con plasma, crioprecipitados (fibrinógeno mayor de 200 mg/dL) y plaquetas (mayores de 50 000), ATX y uterotónicos; terapia intensiva.
 
-## 10. Diferencias entre fuentes
+## 10. Preguntas directas con respuesta modelo
+
+Las respuestas son las que se dicen en una frase; el desarrollo está en la sección correspondiente de la guía.
+
+### 10.1 Abordaje y choque
+
+**¿Qué es la hemorragia obstétrica?** La pérdida de 500 mL o más durante el embarazo, el parto o el puerperio.[^hem1]
+
+**¿Qué es el índice de choque y cuál es su valor normal en la embarazada?** La FC entre la PAS; es normal hasta 0,9.[^hem1]
+
+**¿Por qué la hipotensión es un signo tardío en la embarazada?** Porque el volumen sanguíneo aumenta alrededor de 45% y la mujer joven compensa grandes pérdidas antes de que baje la presión.[^hem1]
+
+**¿Con qué parámetros se identifica el estado de choque?** IC, uresis, escala de Glasgow, presión de pulso y llenado capilar.[^rub][^hem1]
+
+**¿Qué IC asigna el código rojo del triage?** Un IC mayor de 0,8.[^hem2]
+
+**¿Cuáles son las metas de la reanimación?** PAS de 80 a 90 mmHg, IC menor de 0,9 y diuresis de 1 a 2 mL/kg por hora, con hasta 30 mL/kg de cristaloides balanceados.[^hem1]
+
+**¿Qué contiene el protocolo de transfusión masiva?** 6 concentrados eritrocitarios, 6 unidades de plasma, 6 aféresis plaquetarias y 10 crioprecipitados.[^hem1]
+
+**¿Cuándo se da anti-D después de un aborto?** Desde las 12 semanas, a la mujer Rh negativo no sensibilizada.[^who2022][^acogrh2024]
+
+### 10.2 Primera mitad
+
+**¿Hasta cuándo se habla de aborto?** Hasta antes de las 22 semanas completas o con un producto de menos de 500 g.[^ab3]
+
+**¿Qué distingue la amenaza del aborto inevitable?** En la amenaza el cuello está cerrado y el embrión vivo; en el inevitable el cuello está dilatado o las membranas rotas.[^ab1][^ab2]
+
+**¿Cuáles son los criterios ecográficos de pérdida del embarazo?** LCC de 7 mm o más sin actividad cardiaca, o DMS de 25 mm o más sin embrión.[^acog200][^nice126]
+
+**¿Qué diagnóstico se descarta primero en el sangrado del primer trimestre?** El embarazo ectópico.[^ab3]
+
+**¿Qué contraindica el manejo expectante y el farmacológico del aborto?** La inestabilidad hemodinámica, la infección y la sepsis.[^ab3]
+
+**¿Cuál es el tratamiento farmacológico del aborto incompleto antes de las 14 semanas?** Misoprostol 600 µg por vía oral o 400 µg sublingual.[^ab3]
+
+**¿Y el del aborto diferido?** Mifepristona 200 mg y, 1 a 2 días después, misoprostol 800 µg; o misoprostol 800 µg solo.[^ab3]
+
+**¿Por qué no se usa oxitocina en la hemorragia del primer trimestre?** Porque el útero aún no tiene suficientes receptores; se recomienda después de las 18 a 20 semanas.[^ab3]
+
+**¿Cuál es el esquema antibiótico del aborto séptico?** Ampicilina, gentamicina y metronidazol intravenosos, antes de evacuar el útero por aspiración.[^ab3]
+
+**¿Por qué el legrado instrumental se considera obsoleto?** Porque causa más perforaciones, laceraciones y sinequias que la aspiración y requiere quirófano.[^ab3][^who2022]
+
+### 10.3 Segunda mitad
+
+**¿Qué no se hace en la hemorragia de la segunda mitad hasta tener el ultrasonido?** El tacto vaginal, por el riesgo de placenta previa.[^rcog63]
+
+**¿Cómo se distingue la placenta previa del desprendimiento?** La previa sangra sin dolor y con útero blando; el desprendimiento duele, el útero está hipertónico y la FCF se altera.[^hem3][^oyelese2006]
+
+**¿Cómo se clasifica la placenta por ultrasonido?** Previa si cubre el OCI, inserción baja si está a menos de 20 mm sin cubrirlo y normal a 20 mm o más.[^hem3]
+
+**¿Cómo cambia el riesgo de acretismo con las cesáreas si hay placenta previa?** Es de 3, 11, 40, 61 y 67% de la primera a la quinta cesárea.[^hem3][^silver2006]
+
+**¿Cuál es el tratamiento del acretismo?** Cesárea-histerectomía con la placenta in situ entre las 34 y las 36 semanas, en un hospital con banco de sangre y terapia intensiva.[^hem3]
+
+**¿Por qué no se usa tocolisis en el desprendimiento?** Porque puede empeorar la hemorragia; aunque haya taquisistolia, el tratamiento es el nacimiento si hay compromiso.[^rctg1][^oyelese2006]
+
+**¿Cuál es el signo más constante de la ruptura uterina?** El RCTG anormal, presente en el 66 a 76% de los casos.[^hem4]
+
+**¿Por qué en la vasa previa rota la madre está estable y el feto no?** Porque la sangre que se pierde es fetal.[^hem3]
+
+### 10.4 RCTG
+
+**¿Cuáles son las categorías del RCTG?** I normal, II indeterminada y III anormal: variabilidad ausente con tardías o variables recurrentes o con bradicardia, o patrón sinusoidal.[^nichd]
+
+**¿Qué significa una deceleración tardía?** Insuficiencia uteroplacentaria; con variabilidad ausente indica acidemia.[^rctg2]
+
+**¿Qué sugiere un patrón sinusoidal?** Anemia fetal grave, como la de una vasa previa rota.[^rctg1]
+
+**¿Cuándo no se usa la tocolisis en la reanimación intrauterina?** Cuando se sospecha un desprendimiento de placenta.[^rctg1]
+
+**¿Se da oxígeno a la madre por un RCTG anormal?** No de forma sistemática si su saturación es normal; sí si está en choque, por su propia indicación.[^acog2025][^hem1]
+
+### 10.5 Posparto
+
+**¿Cómo define la GPC la HPP?** Pérdida de 1000 mL o más, o cualquier pérdida con signos de hipovolemia, en las 24 horas que siguen al nacimiento.[^hem5]
+
+**¿Cuáles son las 4 T?** Tono, trauma, tejido y trombina; la atonía es la causa más frecuente.[^hem5]
+
+**¿Cómo se previene la HPP?** Con el manejo activo del tercer periodo: 10 UI de oxitocina al salir el hombro anterior, tracción controlada del cordón y masaje uterino.[^hem5]
+
+**¿Por qué se mide la pérdida en lugar de estimarla?** Porque la estimación visual la subestima un 33 a 50%.[^hem1]
+
+**¿Cuál es la contraindicación de la ergonovina?** La hipertensión, incluidos los estados hipertensivos del embarazo.[^hem5]
+
+**¿Cómo se usa el ATX en la HPP?** 1 g intravenoso en 10 minutos dentro de las primeras 3 horas, con una segunda dosis si el sangrado sigue a los 30 minutos.[^hem5]
+
+**¿Qué medida temporal es de primera línea antes de la cirugía en la atonía?** El balón hidrostático intrauterino.[^hem5]
+
+**¿Qué sugiere la falta de lactancia después de una HPP grave?** Síndrome de Sheehan.[^hem1]
+
+## 11. Diferencias entre fuentes
 
 Se dice la respuesta de la guía mexicana y se añade la internacional:[^ab1][^ab2][^ab3][^hem1][^hem2][^hem5][^who2022][^who2023][^acogrh2024][^nice126][^acog831]
 
@@ -395,14 +487,14 @@ Se dice la respuesta de la guía mexicana y se añade la internacional:[^ab1][^a
 - **Placenta previa:** nacimiento de 34 a 36 semanas si sangró (GPC); de 36 a 37 sin complicaciones (ACOG).
 - **ATX:** la GPC de choque de 2017 no lo recomendaba; la GPC de 2021 y la OMS lo indican en toda HPP.
 
-## 11. Plan de estudio de dos días
+## 12. Plan de estudio de dos días
 
 - **Día 1, mañana:** secciones 1 y 2; triage (tabla 1), los cinco parámetros del choque, su clasificación (tabla 2) y la reanimación con sus metas.
 - **Día 1, tarde:** secciones 3 y 4; tablas 3 y 4, ultrasonido, amenaza, séptico y AMEU.
 - **Día 1, noche:** sección 5; tabla 5, previa, acretismo, desprendimiento, ruptura y vasa previa.
 - **Día 2, mañana:** sección 6; tabla 6, categorías, reanimación intrauterina y huella de cada causa.
 - **Día 2, tarde:** secciones 7 y 8; tabla 7, paquete de primera respuesta y escalamiento.
-- **Día 2, noche:** los catorce casos en voz alta y las diferencias entre fuentes; repetir las dosis de misoprostol, el orden de los uterotónicos y los cinco parámetros del choque.
+- **Día 2, noche:** los catorce casos en voz alta, las preguntas directas y las diferencias entre fuentes; repetir las dosis de misoprostol, el orden de los uterotónicos y los cinco parámetros del choque.
 
 ## Referencias
 
