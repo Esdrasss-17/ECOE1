@@ -357,3 +357,13 @@ Cuando el tema no tiene práctica en el documento de rúbricas, la guía lo dice
 ### 20.8 Guías que integran varios temas
 
 Cuando una guía reúne varios temas, como la de aborto, hemorragia obstétrica y RCTG, se organiza alrededor de un eje común (en ese caso, la edad gestacional y las dos pacientes, la madre y el feto) y no como la suma de tres guías. El abordaje compartido se escribe una sola vez, cada tema conserva su sección y una sección propia explica cómo se relacionan: fármacos cuya dosis o utilidad cambia con la edad gestacional, riesgos que pasan de un tema a otro y medidas que tienen objetivos distintos en cada uno. Las claves de las referencias llevan el prefijo de su tema (por ejemplo, `ab1`, `hem1` y `rctg1`) para no confundir las fuentes `d1` de cada documento. Las imágenes de otros temas se copian a la carpeta `assets` de la guía, porque `preparar_md.py` solo reescribe las rutas que empiezan con `assets/` o `../assets/`. Las rúbricas de otras prácticas pueden aportar criterios trasladables, como los parámetros del choque de la práctica 11, y se citan como tales.
+
+### 20.9 Extensión: la guía ECOE no es una segunda versión del documento del tema
+
+Al pedir que las guías cubrieran todo el espectro de casos, las versiones 2 de retinopatías, cervicovaginitis y cáncer de mama crecieron hasta igualar o superar al documento del tema (la de retinopatías llegó a 66 páginas y 19 000 palabras). El usuario lo señaló y se condensaron. Reglas:
+
+- **Espectro no es copia:** cada escenario del tema entra con lo que se dice o se decide en la estación (descripción, clasificación, conducta, plazo de referencia y tratamiento de primera línea), no con su fisiopatología, técnica especializada, dosis de segundo y tercer nivel ni historia de las clasificaciones, que quedan en el documento del tema.
+- **Un dato, un lugar:** no se repite la misma información en texto, tabla, caso y pregunta directa; los casos aplican las tablas en lugar de repetirlas y se suprimen las secciones de preguntas directas y de segundo plano.
+- **Tablas que sustituyen secciones:** una tabla por estadio o por causa con hallazgos, conducta y seguimiento reemplaza varias secciones paralelas.
+- **Imágenes:** solo las que sirven para reconocer o describir en la estación (unas 2 a 8).
+- **Límite orientativo:** la guía no supera la mitad o dos tercios de las palabras del documento del tema; como referencia, de 5000 a 8000 palabras y de 17 a 31 páginas.
