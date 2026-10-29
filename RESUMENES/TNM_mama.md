@@ -71,6 +71,7 @@ Fuente: GPC de tratamiento de cáncer de mama (Cuadro 2), basada en AJCC 2010 (7
 | **IV** | Cualquier T | Cualquier N | **M1** |
 
 ## Para recordar
+
 - Cortes de tamaño: **20 mm y 50 mm**. T4 no depende del tamaño.
 - **N1 es móvil, N2 es fijo.**
 - **I y II** son tempranos. **IIIA a IIIC** son localmente avanzados (se inicia con tratamiento sistémico neoadyuvante). **IV** es metastásico.

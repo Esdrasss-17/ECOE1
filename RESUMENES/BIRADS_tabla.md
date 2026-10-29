@@ -16,6 +16,7 @@ Fuente: GPC de cáncer de mama en el primer nivel (cuadros 2 y 3), basada en ACR
 | **6** | **Malignidad comprobada por biopsia** | Se usa **después de una biopsia positiva** y antes de la extirpación completa, cuando no hay otras anomalías distintas del cáncer conocido. | No aplica | **Tercer nivel**, manejo por especialista en mama. Escisión quirúrgica cuando lo permita. |
 
 ## Reglas para recordar
+
 - **Una sola categoría final por estudio**, y la conducta sigue la recomendación de esa categoría.
 - **El corte entre vigilar y biopsiar es el 2 %**: la 3 se vigila y de la 4 en adelante se biopsia.
 - **De la 3 a la 6 se refiere.** Todo caso sospechoso, clínico o por imagen, va al especialista en mama.

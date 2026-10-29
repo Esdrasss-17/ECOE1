@@ -1,6 +1,7 @@
 # Hemorragia obstétrica: guía ECOE
 
 **Fuentes:**
+
 - **Tema 7 del repositorio:**
   - GPC *Prevención y manejo de la hemorragia postparto* (CENETEC 2021).
   - GPC *Diagnóstico y tratamiento del choque hemorrágico en obstetricia*.
@@ -23,6 +24,7 @@ No hay una definición única. Estas son las que más se preguntan:
 - **Secundaria o tardía:** ocurre de las 24 h a las 12 semanas. Las causas habituales son restos placentarios, endometritis y subinvolución del lecho placentario.
 
 **Por qué importa la clínica más que los mililitros.**
+
 - La embarazada tiene un **volumen sanguíneo aumentado**: unos 100 ml/kg, cerca de 7 litros en una mujer de 70 kg.
 - Por eso tolera pérdidas grandes **sin hipotensión**. El pulso y la presión pueden seguir normales hasta que se pierden más de 1000 ml.
 - La **taquicardia** es el primer signo. La **hipotensión es un signo tardío**: cuando aparece, la paciente ya perdió más del 30 % de su volemia.
@@ -40,12 +42,14 @@ Ante cualquier HPP hay que revisar las cuatro causas **en orden**, porque pueden
 | **Trombina** | Coagulopatía: CID, preeclampsia o HELLP, desprendimiento, embolia de líquido amniótico, anticoagulantes, enfermedad de Von Willebrand | < 1 % | Sangre que **no coagula**, sangrado por sitios de punción, petequias |
 
 *Ejemplo de razonamiento:* tras el alumbramiento, la paciente sigue sangrando rojo rutilante, pero el útero está firme y por debajo del ombligo.
+
 - Con el útero contraído, **no es atonía**.
 - El siguiente paso es revisar el canal del parto con valvas. Lo más probable es un **desgarro cervical o vaginal**, que se repara.
 
 ## 3. Factores de riesgo de HPP
 
 **Antes del parto (se identifican en el control prenatal):**
+
 - Anemia.
 - **Sobredistensión uterina:** embarazo múltiple, polihidramnios, macrosomía.
 - Multiparidad.
@@ -57,6 +61,7 @@ Ante cualquier HPP hay que revisar las cuatro causas **en orden**, porque pueden
 - Preeclampsia.
 
 **Durante el parto:**
+
 - **Trabajo de parto prolongado o precipitado.**
 - Uso prolongado de oxitocina.
 - Corioamnionitis o fiebre.
@@ -78,6 +83,7 @@ En muchas pacientes con HPP **no hay ningún factor de riesgo**. Por eso la prev
 3. **Masaje uterino** después de la salida de la placenta, con vigilancia del tono cada 15 minutos durante las primeras 2 horas.
 
 Además:
+
 - Se **revisa la placenta** para comprobar que esté completa.
 - Se **cuantifica objetivamente el sangrado**.
 - Se vigila según la NOM-007.
@@ -110,6 +116,7 @@ Se clasifica por el **parámetro más alterado**. Los volúmenes corresponden a 
 | **Choque severo** | > 40 % | > 2800 ml | > 140 | PAS < 90 y PAD < 60 | **Datos de severidad** (falla orgánica) |
 
 **Signos de choque que se deben vigilar en la puérpera:**
+
 - **Hipotensión:** PAS menor de 90 mmHg, o caída de más de 40 mmHg respecto a la basal.
 - **Presión arterial media** menor de 60 mmHg.
 - **Frecuencia cardiaca** mayor de 120 lpm.
@@ -159,6 +166,7 @@ En la estación ECOE hay que **decir en voz alta lo que se hace**. Las medidas s
 ## 9. TONO: atonía uterina (la causa más frecuente)
 
 ### 9.1 Masaje y compresión
+
 - **Masaje uterino** externo y vigoroso.
 - **Compresión bimanual:** se pone una mano cerrada en el fondo de saco vaginal anterior y la otra sobre el fondo uterino a través del abdomen, comprimiendo el útero entre ambas. Es una **medida temporal** mientras actúan los fármacos o se prepara el siguiente paso.
 - **Compresión de la aorta abdominal**, como medida extrema de transporte.
@@ -174,6 +182,7 @@ En la estación ECOE hay que **decir en voz alta lo que se hace**. Las medidas s
 | **Ácido tranexámico** (antifibrinolítico, no uterotónico) | **1 g IV en 10 min**; si sigue el sangrado a los 30 min o recurre en 24 h, **segunda dosis de 1 g** | — | 2 g | Se da **en las primeras 3 h** tras el nacimiento; después ya no es útil |
 
 **Secuencia práctica recomendada por la GPC:**
+
 1. **Oxitocina** en infusión, si no se usó como profilaxis.
 2. Si la HPP persiste y ya se dio oxitocina, se agrega **ergonovina**, siempre que la paciente **no** sea hipertensa.
 3. Si la ergonovina está contraindicada o no hay, se agrega **misoprostol** sublingual o rectal.
@@ -181,10 +190,12 @@ En la estación ECOE hay que **decir en voz alta lo que se hace**. Las medidas s
 5. **Ácido tranexámico** en cuanto se diagnostica la HPP, **sin esperar**, siempre dentro de las primeras 3 horas. El ensayo WOMAN mostró que reduce la muerte por sangrado.
 
 *Ejemplo:* puérpera con preeclampsia y atonía. Ya recibió oxitocina y sigue sangrando.
+
 - **No** se le puede dar ergonovina.
 - Se pasa a **misoprostol 800 µg** sublingual o rectal (o carbetocina), se da **ácido tranexámico 1 g IV** y se mantiene la compresión bimanual.
 
 ### 9.3 Medidas mecánicas si fallan los fármacos
+
 - **Técnica de Zea:** se pinzan por vía vaginal las arterias uterinas con pinzas de anillos en las comisuras cervicales (a las 3 y a las 9). Sirve como control temporal, para identificar la causa, para trasladar a quirófano o a otra unidad, o para dar tiempo a que actúen los uterotónicos. Se mantiene **10 a 20 minutos**.
 - **Balón de taponamiento intrauterino:** balón de Bakri, o un condón atado a una sonda Foley y llenado con 300 a 500 ml de solución.
   - Se hace la **prueba de taponamiento**: si el sangrado se detiene, el balón se deja de 12 a 24 h con oxitocina en infusión y antibiótico.
@@ -202,6 +213,7 @@ Se va de lo más conservador a lo más radical:
 6. **Cirugía de control de daños:** si hay coagulopatía, se hace **empaquetamiento abdomino-pélvico tipo Mikulicz**, la paciente pasa a la UCI y se reopera cuando se corrigen la acidosis, la hipotermia y la coagulopatía.
 
 ## 10. TRAUMA
+
 - **Desgarros:** se revisan cérvix, vagina y periné con valvas y buena luz, y se reparan desde el **ángulo superior** (por encima del vértice).
 - **Hematomas:** si son pequeños y estables, se vigilan. Si crecen o miden más de 3 a 4 cm, se drenan y se ligan.
 - **Ruptura uterina:** se hace laparotomía, con histerorrafia o histerectomía según el daño (ver el apartado 14).
@@ -212,6 +224,7 @@ Se va de lo más conservador a lo más radical:
   - Se **suspende la oxitocina** hasta haber recolocado el útero. Después se da oxitocina para que no se vuelva a invertir.
 
 ## 11. TEJIDO
+
 - **Placenta retenida:** es la que no sale en **30 minutos** con manejo activo.
   - Se hace **extracción manual de la placenta** bajo analgesia, con una dosis de antibiótico profiláctico.
 - **Restos placentarios:** se hace **revisión manual de la cavidad uterina** o legrado, y se refuerzan los uterotónicos.
@@ -249,6 +262,7 @@ Las metas de la GPC en el algoritmo de laboratorio son:
 ## 14. Datos de memoria por entidad
 
 ### Placenta previa e inserción baja
+
 - **Inserción normal:** borde de la placenta a **más de 20 mm** del orificio cervical interno (OCI).
 - **Inserción baja:** borde a **menos de 20 mm** del OCI, **sin cubrirlo**.
 - **Placenta previa:** la placenta **cubre o sobrepasa el OCI**.
@@ -264,6 +278,7 @@ Las metas de la GPC en el algoritmo de laboratorio son:
 - **Siempre se descarta acretismo** si hay cesárea previa.
 
 ### Acretismo placentario (espectro de placenta acreta)
+
 - **Acreta:** las vellosidades llegan al miometrio sin decidua de por medio.
 - **Increta:** invaden el miometrio.
 - **Percreta:** atraviesan la serosa e invaden órganos vecinos, como la vejiga.
@@ -274,6 +289,7 @@ Las metas de la GPC en el algoritmo de laboratorio son:
   - La incisión uterina se hace **lejos de la placenta**, que se deja **in situ**.
 
 ### Desprendimiento prematuro de placenta normoinserta (DPPNI)
+
 - **Cuadro clínico:** dolor abdominal súbito, **hipertonía uterina**, sangrado oscuro y alteración de la FCF.
 - **Útero de Couvelaire:** sangre infiltrada en el miometrio. Puede causar atonía.
 - **Diagnóstico: es clínico.** El ultrasonido **no lo descarta**, porque solo ve el 25 al 50 % de los coágulos.
@@ -284,6 +300,7 @@ Las metas de la GPC en el algoritmo de laboratorio son:
   - **Feto muerto con madre estable:** parto vaginal con amniotomía.
 
 ### Ruptura uterina
+
 - **Factores de riesgo:**
   - **Cesárea previa**, sobre todo **corporal o en T**.
   - Miomectomía.
@@ -308,6 +325,7 @@ Las metas de la GPC en el algoritmo de laboratorio son:
 - **Conducta: laparotomía urgente.** Se extrae al feto y se hace histerorrafia o histerectomía.
 
 ### Vasa previa
+
 - Son vasos fetales que pasan por las membranas sobre el OCI, sin protección de placenta ni de cordón.
 - Al romperse las membranas sangran, y **la sangre es fetal**: hay exsanguinación fetal rápida con la madre estable.
 - **Diagnóstico prenatal:** ultrasonido Doppler.
@@ -373,6 +391,7 @@ Las metas de la GPC en el algoritmo de laboratorio son:
 > **Respuesta:** **vasa previa rota**. La sangre es fetal. Se hace **cesárea urgente** y se avisa a neonatología para reanimación y transfusión.
 
 ## 17. Resumen para repasar
+
 - La HPP se define como **1000 ml o más**, o cualquier pérdida con signos de hipovolemia, en 24 h (ACOG y GPC). Para la OMS basta con 500 ml.
 - La causa número uno es la **atonía uterina (70 %)**. Siempre se revisan las **4 T: tono, trauma, tejido y trombina**.
 - La **prevención en todas** las pacientes es el **manejo activo**: oxitocina 10 UI IM, tracción controlada del cordón y masaje uterino.

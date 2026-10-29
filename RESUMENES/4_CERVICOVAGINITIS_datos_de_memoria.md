@@ -19,6 +19,7 @@ pH vaginal normal: **3.5 a 4.5**.
 ## 2. Diagnóstico
 
 ### Vaginosis bacteriana
+
 - **Criterios de Amsel** (3 de 4):
   1. Flujo homogéneo, blanco-grisáceo.
   2. pH > 4.5.
@@ -31,6 +32,7 @@ pH vaginal normal: **3.5 a 4.5**.
 - En una mujer no embarazada con síntomas típicos se puede iniciar tratamiento empírico sin más estudios.
 
 ### Candidiasis
+
 - Frotis en fresco con **KOH al 10 %**, Gram o citología: se ven levaduras y pseudohifas.
 - El **cultivo solo se pide** en recurrencia o en vaginitis complicada.
 - **Clasificación:**
@@ -44,10 +46,12 @@ pH vaginal normal: **3.5 a 4.5**.
   - Afecta sobre todo a mujeres de 25 a 44 años.
 
 ### Tricomoniasis
+
 - Se detecta con Papanicolaou, frotis en fresco (sensibilidad cercana a 60 %), cultivo, pruebas de ácidos nucleicos (NAT) o pruebas rápidas de antígenos.
 - Si el frotis o el Papanicolaou reportan *Trichomonas* y no hay cultivo, **se trata igual**.
 
 ### Chlamydia
+
 - Se diagnostica con NAAT, incluso en muestra de **orina**. También sirven cultivo y otras pruebas.
 - Si hay sospecha de ITS, se pide además estudio de gonorrea y sífilis.
 
@@ -78,6 +82,7 @@ Tratar VB cuando hay síntomas o cuando la paciente asintomática va a cirugía,
 Los azoles tópicos pueden irritar, y las cremas **dañan los condones y los diafragmas de látex**.
 
 ### Candidiasis recurrente (≥ 4 episodios al año)
+
 - **Inducción:**
   - Fluconazol 150 mg cada 72 h × 3 dosis, o
   - itraconazol 200 mg cada 12 h por 1 día, o
@@ -103,6 +108,7 @@ Los azoles tópicos pueden irritar, y las cremas **dañan los condones y los dia
 | Alcohol | **Evitar** (efecto antabuse) |
 
 Si el tratamiento falla, hay que revisar:
+
 - el apego al tratamiento y si hubo vómito;
 - una posible reinfección;
 - si la pareja se trató.
@@ -132,11 +138,13 @@ Si el tratamiento falla, hay que revisar:
 | Vaginitis recurrente por Candida | ≥ 4 episodios al año |
 
 ## 5. Referencia a segundo nivel
+
 - Mujeres con VIH.
 - Sin respuesta al tratamiento.
 - Candidiasis por especies distintas de *C. albicans* que no responden al tratamiento.
 
 ## 6. Complicaciones e incapacidad
+
 - Las infecciones genitales aumentan el riesgo de enfermedad inflamatoria pélvica, infertilidad, resultados adversos del embarazo e infección por VIH.
 - En el embarazo se asocian con ruptura prematura de membranas.
 - La candidiasis severa puede justificar una incapacidad de 1 a 3 días.
