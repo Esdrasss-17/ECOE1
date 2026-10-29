@@ -61,3 +61,7 @@ No se encontraron errores de contenido en las fuentes. Las diferencias de d1 con
 
 - El acceso directo a webs está bloqueado y la sesión alcanzó el límite de búsquedas; las guías de 2025 se verificaron con resúmenes secundarios y no con su texto completo. La meta de SpO2 de 2025 (90% a 98% según los resúmenes) no se adoptó por no poder comprobarla.
 - No se revisaron los algoritmos de bradicardia y taquicardia del adulto, porque no forman parte de la fuente del usuario (resumen de aspectos destacados).
+
+## Complemento con el contenido de las guías ECOE (octubre de 2026)
+
+Se añadieron las secciones 3.1 a 3.3 con lo que solo tenían las guías ECOE y pertenece al tratamiento de la anafilaxia: interrogatorio SAMPLE, tipo de choque y sus parámetros, secuencia ABCDE con oxígeno, dos vías, líquidos y sonda urinaria, laboratorios, criterios y técnica de la secuencia rápida de intubación, fármacos complementarios con dosis, observación y egreso. En la RCP pediátrica se precisó que la relación 15:2 es con dos reanimadores. Referencias añadidas: sample, vincent, gpchem, lebas2014, sri, rcuk y adyuvantes, ya usadas en la guía ECOE. PDF recompilado: 28 páginas.

@@ -71,3 +71,17 @@ Al revisar la guía contra ambas rúbricas y contra la práctica de urgencias se
 
 - El acceso directo a las webs está bloqueado; los datos nuevos se verificaron con fragmentos y resúmenes. No se leyeron el manual de Walls, el texto completo del RCUK 2021 ni el del parámetro de la AAAAI/ACAAI 2023.
 - Las guías de la AHA de 2025 se conocen por resúmenes secundarios (tema 11).
+
+## Versión 2 (`GUIA_ECOE2_ANAFILAXIA_RCP.md`)
+
+**Motivo.** Petición del usuario de una guía ECOE de RCP y anafilaxia con los criterios de las versiones 2: todo el espectro del tema, tablas donde la información se beneficia, preguntas directas y unas 25 páginas de contenido como máximo. La versión 1 se conserva.
+
+**Espectro añadido respecto de la versión 1:** causas, factores agravantes y tiempos hasta el paro de la anafilaxia; umbrales de PA baja en el niño; errores que retrasan la adrenalina; tipos de evolución (unifásica, bifásica, prolongada, refractaria, tardía); cadena de supervivencia 2020 y 2025; tabla ciclo por ciclo de las dos ramas del algoritmo; posparo completo con recuperación y debriefing; paro en la embarazada, opiáceos y atragantamiento; pediatría (tabla adulto frente a niño, bradicardia, taquicardia, choque y posparo pediátricos) y soporte neonatal. Quince escenarios (antes tres) y 42 preguntas directas.
+
+**Tablas:** las dos de la rúbrica, criterios diagnósticos, fármacos después de la adrenalina IM, algoritmo del adulto por ciclos, RCP adulto frente a pediátrica y taquicardia pediátrica.
+
+**Datos sin fuente del tema, razonados o de conocimiento general:** la relación 15:2 con dos reanimadores en pediatría (AHA 2020, conocida; la fuente del tema da 15:2 sin precisar); la hiperpotasemia como causa reversible probable en el paciente en diálisis (escenario 8); los cálculos de dosis por peso de los escenarios.
+
+**Documento general completado** con lo que solo tenía la guía (véase `../AUDITORIA.md`).
+
+**PDF:** 24 páginas con `ENLACES=1` (unas 20 de contenido), 1 imagen; verificador sin incidencias.
