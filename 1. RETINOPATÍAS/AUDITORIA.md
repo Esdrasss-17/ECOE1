@@ -101,3 +101,16 @@ Las fotografías estándar ETDRS 2B y 3 no tenían descripción en ninguna fuent
 
 - "las flechas indican dos exudados blandos";
 - "gran exudación lipídica con gran cantidad de exudados duros".
+
+## Complemento con el contenido de la guía ECOE 2 (octubre de 2026)
+
+Para que la guía ECOE no contenga nada ajeno al documento, se añadió aquí lo que solo tenía la guía y pertenece a sus temas:
+
+- **Sección 2.3:** AV y reflejos pupilares antes de dilatar, tropicamida sola en el hipertenso o el cardiópata, distancias de la aproximación (15 cm y 2 a 3 cm), motivo de explorar la mácula al final y advertencia de no conducir tras la midriasis.
+- **Sección 6.1:** síntomas del glaucoma neovascular (ref. `nvg`, AAO EyeNet).
+- **Sección 7.3:** escala clínica internacional del edema macular (leve, moderado y severo) y su equivalencia con la afectación central.
+- **Sección 8.1:** valoración general en la consulta (interrogatorio, signos vitales y somatometría, exploración del pie, laboratorios con albuminuria y biometría hemática).
+- **Sección 9.1:** glucosa preprandial y posprandial, metas del adulto mayor y meta de LDL en la tabla 6; inicio, ajuste y educación de la insulina; dislipidemia mixta con los puntos de corte del ATP III; estatina de alta intensidad; dieta DASH o mediterránea; IECA o ARA II con albuminuria.
+- **Sección 17.2:** estudios de daño de órgano (ESC 2018) y tratamiento farmacológico inicial y meta de la ESC 2024.
+
+Referencias añadidas: ada5, ada9, ada11, ada13, atp3, acc2018, esc2024 y nvg, ya verificadas en la auditoría de la guía ECOE (salvo nvg, registrada allí). PDF recompilado: 68 páginas.

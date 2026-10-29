@@ -73,3 +73,21 @@ Registro de la verificación aplicada a `GUIA_ECOE_RETINOPATIAS_DM_HTA.md`. La g
 ## 8. Limitaciones de la verificación
 
 - El acceso directo a las webs está bloqueado; los datos nuevos se verificaron con fragmentos y resúmenes. No se leyeron los textos de las secciones 9, 11 y 13 de la ADA 2025, de la guía de la ESC 2024, de la AHA/ACC 2018, del ATP III ni de la escala internacional de 2003.
+
+## 9. Versión 2 integral (`GUIA_ECOE2_RETINOPATIAS.md`)
+
+**Motivo.** El usuario pidió una guía que cubriera todo el espectro del tema y no solo el caso de la rúbrica (RDP), con tablas donde la información se beneficie del formato y sin texto telegráfico. La versión 1 se conserva.
+
+**Alcance.** La guía no sale de los temas del documento `1. RETINOPATÍAS.md`. Desarrolla con la misma profundidad cada estadio de la RD (sin retinopatía, RDNP leve, moderada y severa, RDP con y sin alto riesgo), el edema macular con sus tres clasificaciones, la hemorragia vítrea, el desprendimiento traccional, el glaucoma neovascular, el embarazo, la intensificación del tratamiento, los adolescentes, la RH en sus tres grados, la hipertensión maligna, las oclusiones venosas y los macroaneurismas.
+
+**Datos del documento que la versión 1 omitía o resumía:** partes del oftalmoscopio, filtros y aperturas; tabla completa de midriáticos con interacciones de la fenilefrina; fondo de ojo normal con el significado de cada alteración y el pulso venoso; límites del oftalmoscopio directo y técnicas de imagen (retinografía con su sensibilidad y especificidad, AGF, OCT, angio-OCT, ecografía); historia natural de la DM tipo 1 y tipo 2; fisiopatología completa; factores de riesgo completos (cociente colesterol total/HDL, pubertad, IMC); escala de gravedad con el riesgo de cada categoría y la forma moderada; EMCS; cribado por grupo; evaluación oftalmológica; conducta por estadio; técnica, indicaciones y efectos adversos de la PFC; láser focal; fármacos intravítreos y corticoides; vitrectomía con sus tres indicaciones; complicaciones y riesgo cardiovascular; embarazo con sus predictores; intensificación del tratamiento; niños y adolescentes; fisiopatología, hallazgos y clasificaciones de la RH con la variante de 2018; indicaciones del fondo de ojo en la HTA; algoritmo ambulatorio; oclusiones venosas, macroaneurismas y HTA como factor de riesgo de otras enfermedades oculares; diferencias entre fuentes.
+
+**Casos.** Dieciséis: el de la rúbrica, once de RD (cribado sin RD, RDNP leve, moderada y severa, edema con afectación central y visión baja, edema con buena visión y sin afectación central, hemorragia vítrea, desprendimiento, glaucoma neovascular, gestante con DM tipo 1 y empeoramiento tras intensificar) y cuatro de RH (leve, moderada, maligna y oclusión de rama).
+
+**Tablas.** Dieciséis, por indicación del usuario: rúbrica, síntomas visuales, midriáticos, fondo normal, lesiones de la RD, escala de gravedad, cribado, perfil de lípidos (ATP III), conducta por estadio, fármacos intravítreos, metas, hallazgos de la RH, Keith-Wagener-Barker, Wong y Mitchell, RD frente a RH y diferencias entre fuentes.
+
+**Dato externo nuevo.** Glaucoma neovascular: los neovasos del iris suelen preceder a la elevación de la PIO y la enfermedad inicial puede ser asintomática; el dolor, el ojo rojo y la disminución visual aparecen con la PIO elevada (Drinkwater y Panarelli, EyeNet de la AAO; resumen de búsqueda, sin lectura del texto completo). Sustituye el razonamiento sin fuente de la versión 1.
+
+**Documento general completado** con lo que solo tenía la guía y cae dentro de sus temas (véase `../AUDITORIA.md`).
+
+**PDF:** 66 páginas con `ENLACES=1`, 22 imágenes; verificador sin incidencias.
