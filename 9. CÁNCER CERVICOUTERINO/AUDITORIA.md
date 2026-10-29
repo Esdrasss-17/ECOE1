@@ -93,3 +93,7 @@ Registro de la fase de verificación aplicada a `9. CÁNCER CERVICOUTERINO.md`, 
 - No se pudo verificar la conducta actual de la NCCN o de la FIGO 2021 para la etapa IA2 y para la IA1 con invasión linfovascular; el documento conserva la de d3 y señala sus contradicciones.
 - No se encontró una cifra primaria reciente del INEGI sobre el lugar del CCU en la mortalidad; se usó la de d1 (INSP 2021).
 - Las recomendaciones perdidas de d1 sobre la ablación, el triaje y el diagnóstico no se reconstruyeron; solo se presentan sus tablas de evidencia.
+
+## Complemento con el contenido de las guías ECOE (octubre de 2026)
+
+Para que la guía ECOE no contenga nada ajeno al documento, se añadieron: magnitud de los anticonceptivos orales y la paridad (1.5); síntomas, formas de crecimiento, vías de diseminación y diagnóstico diferencial del sangrado poscoital y posmenopáusico (1.6); vacuna bivalente, esquema del ACIP 2016 y campaña nacional de 2025 (2.1); esquema de la NOM-014 (3.2); triple toma (4.4); lectura del frotis y diátesis tumoral (5.1); vía abierta por el ensayo LACC (8.6); y manejo del sangrado transvaginal activo (8.9). Referencias añadidas, ya verificadas en la auditoría de la guía ECOE: iarcoc, munoz, acs, sellors, gallup, tarney, aggarwal, acog734, jhopkins, cdc2016, censia2025, nom014, tripletoma, dobletoma, difx, bccancer, lacc y eleje. PDF recompilado: 41 páginas.

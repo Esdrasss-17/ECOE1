@@ -116,3 +116,17 @@ Al revisar la guía contra la rúbrica y contra lo que exige una consulta de pri
 - El acceso directo a las webs está bloqueado; todo se verificó con el buscador y con fragmentos. No se leyeron íntegros la NOM-014, los lineamientos del CeNSIA de 2025, el atlas de Bethesda, la NCCN ni la FIGO 2021.
 - La estructura de la historia clínica (ficha, antecedentes y exploración con signos vitales, peso y talla) sigue la práctica habitual y la NOM-004-SSA3-2012, cuyo texto no se pudo consultar en esta sesión; por eso no se cita la norma.
 - Los descriptores macroscópicos y algunos rasgos citológicos proceden de recursos docentes y no de guías.
+
+## Versión 2 (`GUIA_ECOE2_CACU.md`)
+
+**Motivo.** Petición del usuario de la guía ECOE de CaCu con los criterios de las versiones 2: todo el espectro del tema, tablas donde la información se beneficia, preguntas directas y unas 25 páginas de contenido como máximo. La versión 1 (38 páginas, unas 12 400 palabras, tres casos) se conserva.
+
+**Espectro.** Quince casos (antes tres): cáncer IB2 de la rúbrica, IIIB con hidronefrosis, sangrado activo, tamizaje normal, citología con microorganismos, insatisfactoria, LEIBG, LEIAG, VPH 16 con citología negativa, VIH, microinvasión en el cono (IA1), embarazada con LEIAG, sangrado posmenopáusico con cuello sano, cáncer incidental y consejería de vacunación. Se añadieron la evolución de cada grado de NIC, la conducta ante VPH positivo de otros tipos, el cono terapéutico, la recurrencia, el embarazo y el cáncer incidental.
+
+**Tablas (9):** rúbrica, terminologías con evolución y conducta, vías de diseminación, tamizaje, conducta según el resultado, rasgos del frotis, etapas FIGO 2018 con reconocimiento y tratamiento (sustituye la lista de etapas y la de tratamiento), esquemas de vacunación y referencia. Bethesda se mantiene como lista numerada, porque se recita completa.
+
+**Condensación.** Unas 6800 palabras; 25 páginas en total, unas 21 de contenido. Se resumieron la técnica de la espátula, las precauciones de la vacuna y el contenido de segundo plano, y se suprimió el esquema de la espátula de Ayre. Se añadieron 30 preguntas directas en cuatro bloques.
+
+**Corrección.** La discrepancia de la etapa IA2 se redactó según el anexo B del documento del tema: la GPC indica histerectomía extrafascial sin mencionar la linfadenectomía.
+
+**Documento general completado** con lo que solo tenía la guía (véase `../AUDITORIA.md`).
